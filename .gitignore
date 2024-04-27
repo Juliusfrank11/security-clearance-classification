@@ -151,3 +151,26 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 Code/ngram_rejection_coef.csv
+Code/logistic_regression-1-3-0
+Code/logistic_regression-1-3-05
+Code/logistic_regression-1-3-1
+Code/logistic_regression-1-4-0
+Code/logistic_regression-1-4-05
+Code/logistic_regression-1-4-1
+Code/logistic_regression-2-3-0
+Code/logistic_regression-2-3-05
+Code/logistic_regression-2-3-1
+Code/logistic_regression-2-4-0
+Code/logistic_regression-2-4-05
+Code/logistic_regression-2-4-1
+Code/LSTM-0001-0001
+Code/LSTM-0001-01
+Code/LSTM-0001-05
+Code/LSTM-01-0001
+Code/LSTM-01-01
+Code/LSTM-01-05
+Code/LSTM-1e-09-0001
+Code/LSTM-1e-09-01
+Code/LSTM-1e-09-05
+Code/ngram_rejection_coef_all.csv
+Code/ngram_rejection_coef_best.csv

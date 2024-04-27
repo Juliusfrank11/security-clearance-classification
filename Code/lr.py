@@ -11,9 +11,14 @@ from sklearn.metrics import (
     recall_score,
     f1_score,
     fbeta_score,
+    confusion_matrix,
 )
+import pickle
 
 FBETA = 3
+NGRAM_MINS = [1, 2]
+NGRAM_MAXS = [3, 4]
+L1_RATIOS = [0, 0.5, 1]
 
 
 class RegexSubstitutor(BaseEstimator, TransformerMixin):
@@ -47,52 +52,72 @@ class Lemmatizer(BaseEstimator, TransformerMixin):
 train_data = load_files(r"data\finding_of_fact\train")
 eval_data = load_files(r"data\finding_of_fact\eval")
 
+for NGRAM_MIN in NGRAM_MINS:
+    for NGRAM_MAX in NGRAM_MAXS:
+        for L1_RATIO in L1_RATIOS:
+            model = Pipeline(
+                [
+                    [
+                        "regex_substitutor",
+                        RegexSubstitutor(pattern=r"[^\w\s$-]", replacement=""),
+                    ],
+                    ["lemmatizer", Lemmatizer("en_core_web_lg")],
+                    [
+                        "tfidf",
+                        TfidfVectorizer(
+                            ngram_range=(NGRAM_MIN, NGRAM_MAX),
+                            stop_words="english",
+                        ),
+                    ],
+                    [
+                        "lr",
+                        LogisticRegression(
+                            class_weight="balanced",
+                            solver="saga",
+                            penalty="elasticnet",
+                            l1_ratio=L1_RATIO,
+                        ),
+                    ],
+                ]
+            )
 
-model = Pipeline(
-    [
-        ["regex_substitutor", RegexSubstitutor(pattern=r"[^\w\s$-]", replacement="")],
-        ["lemmatizer", Lemmatizer("en_core_web_lg")],
-        [
-            "tfidf",
-            TfidfVectorizer(
-                ngram_range=(2, 5),
-                stop_words="english",
-            ),
-        ],
-        ["lr", LogisticRegression(class_weight="balanced")],
-    ]
-)
+            model.fit(train_data.data, train_data.target)
 
-model.fit(train_data.data, train_data.target)
+            eval_y_true = eval_data.target
+            eval_y_pred = model.predict(eval_data.data)
 
-eval_y_true = eval_data.target
-eval_y_pred = model.predict(eval_data.data)
+            accuracy = accuracy_score(eval_y_true, eval_y_pred)
+            precision = precision_score(eval_y_true, eval_y_pred)
+            recall = recall_score(eval_y_true, eval_y_pred)
+            f1 = f1_score(eval_y_true, eval_y_pred)
+            fbeta = fbeta_score(eval_y_true, eval_y_pred, beta=FBETA)
+            tn, fp, fn, tp = confusion_matrix(eval_y_true, eval_y_pred).ravel()
 
-print("accuracy","precision","recall","f1",f"f{FBETA}",sep="\t")
-print(
-    accuracy_score(eval_y_true, eval_y_pred),
-    precision_score(eval_y_true, eval_y_pred),
-    recall_score(eval_y_true, eval_y_pred),
-    f1_score(eval_y_true, eval_y_pred),
-    fbeta_score(eval_y_true, eval_y_pred, beta=FBETA),
-)
-
-import pandas as pd
-
-ngram_to_idx_dict = model['tfidf'].vocabulary_
-
-model_coeffs = model['lr'].coef_
-
-df = pd.DataFrame(model_coeffs,columns=sorted(ngram_to_idx_dict,key= lambda x: ngram_to_idx_dict[x]),index=["Contribution to Rejection"])
-
-df.T.sort_values("Contribution to Rejection").to_csv("ngram_rejection_coef.csv")
-
-print("Coefficients of ngrams saved to ngram_rejection_coef.csv")
-
-print("Displaying Confusion Matrix")
-
-from sklearn.metrics import ConfusionMatrixDisplay, confusion_matrix
-import matplotlib.pyplot as plt
-
-ConfusionMatrixDisplay(confusion_matrix(eval_y_true,eval_y_pred,display_labels=eval_data.target_names)).plot()
-plt.show()
+            model_suffex = "-".join(
+                [str(s).replace(".", "") for s in [NGRAM_MIN, NGRAM_MAX, L1_RATIO]]
+            )
+            with open("logistic_regression-" + model_suffex, "wb") as f:
+                pickle.dump(model, f)
+            with open("lr_model_results.csv", "a") as f:
+                f.write(
+                    "\n"
+                    + ",".join(
+                        [
+                            str(s)
+                            for s in [
+                                NGRAM_MIN,
+                                NGRAM_MAX,
+                                L1_RATIO,
+                                accuracy,
+                                precision,
+                                recall,
+                                f1,
+                                fbeta,
+                                tn,
+                                fp,
+                                fn,
+                                tp,
+                            ]
+                        ]
+                    )
+                )

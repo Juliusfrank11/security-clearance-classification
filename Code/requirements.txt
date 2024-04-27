@@ -69,6 +69,7 @@ thinc==8.2.3
 threadpoolctl==3.4.0
 torch==2.3.0+cu121
 torchaudio==2.3.0+cu121
+torchtext==0.18.0
 torchvision==0.18.0+cu121
 tqdm==4.66.2
 typer==0.9.4

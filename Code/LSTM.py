@@ -335,7 +335,7 @@ for batch in eval_loader:
             eval_y_true.append(t.cpu().item())
 
 print(f"Average evaluation Loss: {total_eval_loss/len(eval_loader)}")
-print("accuracy","precision","recall","f1",f"f{FBETA}",step="\t")
+print("accuracy","precision","recall","f1",f"f{FBETA}",sep="\t")
 print(
     accuracy_score(eval_y_true,eval_y_pred), 
     precision_score(eval_y_true,eval_y_pred), 

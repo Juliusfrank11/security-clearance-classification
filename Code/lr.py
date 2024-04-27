@@ -68,7 +68,7 @@ model.fit(train_data.data, train_data.target)
 eval_y_true = eval_data.target
 eval_y_pred = model.predict(eval_data.data)
 
-print("accuracy","precision","recall","f1",f"f{FBETA}",step="\t")
+print("accuracy","precision","recall","f1",f"f{FBETA}",sep="\t")
 print(
     accuracy_score(eval_y_true, eval_y_pred),
     precision_score(eval_y_true, eval_y_pred),

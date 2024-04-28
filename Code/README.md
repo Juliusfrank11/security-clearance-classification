@@ -1,3 +1,5 @@
+Use Python 3.11 to install `requirements.txt`
+
 # File descriptions
 - `data`: Findings of fact, conclusions, and raw `pdf`s of hearings used to train models
 - `LSTM.py`: Model Creation script for LSTM models

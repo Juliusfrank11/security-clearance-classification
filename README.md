@@ -19,9 +19,10 @@ As a proof of concept, this project will create a web UI where applicants can en
 4. Guideline H: Drug Involvement
 5. Guideline J: Criminal Conduct
 
-
-
-## Problem 
-This project will develop NLP models to predict whether an applicant's security clearance appeal will be rejected or approved based on the "Findings of Fact" in their appeal case. This will be obtained from the aforementioned DOHA website.
-
-This 
+## Tech Stack
+The code for the application will be written exclusively in Python and use the following packages:
+- `pdfminer` used for reading pdf data
+- `sklearn` for developing shallow models for guidelines B, F, H, and J.
+- `llama_index` used for feature extraction and creation for shallow models
+- `sentence-tranformers` for development of deep model for guideline E
+- `streamlit` for display of the web application

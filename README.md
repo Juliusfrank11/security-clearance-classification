@@ -21,7 +21,7 @@ As a proof of concept, this project will create a web UI where applicants can en
 
 ## Tech Stack
 The code for the application will be written exclusively in Python and use the following packages:
-- `pdfminer` used for reading pdf data
+- `pdfminer.six` used for reading pdf data
 - `sklearn` for developing shallow models for guidelines B, F, H, and J.
 - `llama_index` used for feature extraction and creation for shallow models
 - `sentence-tranformers` for development of deep model for guideline E

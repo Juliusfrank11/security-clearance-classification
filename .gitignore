@@ -2,3 +2,4 @@ venv/*
 src/data_preprocessing_unclean.ipynb
 src/temp_trainer/*
 src/cache_dir/*
+src/sentence_transformer_test.ipynb

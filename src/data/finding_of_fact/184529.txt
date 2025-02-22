@@ -1,0 +1,217 @@
+After  a  thorough  and  careful  review  of  the  pleadings,  testimony,  and  exhibits
+submitted, I make the following findings of fact.
+Applicant  is  56-years-old.  He  has  been  married  since  1988  and  has  two  adult
+children. He received bachelor’s and master’s degrees in electrical engineering in 1988
+and  1994,  respectively.  He  was  employed  in  various  positions  for  a  federal  contractor
+from June 1990 to November 2019, and has been employed as a senior system engineer
+for another federal contractor since November 2019. He supported the same DoD agency
+for more than 20 years until June 2020. (GE 1, 3; AE C, D, F-H, K, L; Tr. 22-23, 38-39,
+54-55)
+Applicant has held a security clearance since 1988. He was granted access to a
+classified  DoD  IT  system  in  approximately  2005.  He  was  provided  email  accounts  on
+classified and unclassified DoD IT systems and issued a Government laptop computer.
+He  has  received  training  on  information  security  and  the  proper  handling  of  classified
+information, including periodic refresher training. His access to classified information was
+suspended in June 2020 and his security clearance was suspended in November 2020.
+(GE 1, 3, 4, 7; AE D; Tr. 12-23, 42, 48, 55-56, 73-74)
+From  approximately  1999  to  March  2020,  Applicant  maintained  a  large,
+comprehensive  electronic  spreadsheet  file  (spreadsheet)  containing  his  personal
+information  including  commercial  account  access  information,  tax  and  other  financial
+information, medical information, and to-do lists. The spreadsheet included approximately
+20 worksheet tabs of information. From approximately 1999 to 2015, he maintained the
+spreadsheet on an encrypted, personal universal serial bus (USB) drive that he accessed
+and updated, at home or work, as needed. He reported that in approximately 2015, DoD
+revised  its  information  security  rules  and  prohibited  the  introduction  of  personal  USB
+drives  onto  DoD  IT  equipment.  From  2015  to  2019,  he  maintained  and  routinely
+transmitted the spreadsheet as an encrypted, password protected file between his DoD
+and personal email accounts. (GE 2; AE L; Tr. 38-43, 53-58)
+From at least 2015 to March 2020, he also maintained protected DoD information
+in the spreadsheet including safe access information, and personal identification numbers
+(PINs) for facility access, unclassified and classified IT network access, and for his DoD
+ID card. The word “Safe” was followed by a six letter passcode which could be converted
+into a DoD safe’s numerical combination. (Tr. 63-64, 69-71; AE L at 1) He maintained the
+protected DoD information in a single worksheet tab titled “info” along with passwords for
+various  personal  accounts  and  for  his  home  safe.  (Tr.  41)  He  routinely  accessed  and
+revised the spreadsheet to reflect changes in his personal and protected DoD information
+including the safe’s passcode in 2017. (GE 1, 2, 4; AE L; Tr. 40-42, 53-57)
+Applicant  reported  that  in  2019,  the  DoD  agency  he  supported  revised  their
+information security rules to prohibit transmission or receipt of encrypted emails between
+DoD and personal email accounts. He said that in compliance with that policy, he ceased
+emailing updated  versions  of  the  encrypted file  from his personal email account to his
+DoD email account. By March 2020, he reached a point where the copy of his personal
+information was dated and he felt it necessary to have an updated spreadsheet available
+for access at  work.  He  attempted  to email the  encrypted  spreadsheet file  between  his
+personal and DoD email accounts a couple of times, but the files could not be processed.
+He said that he then removed the encryption and attached the spreadsheet to emails that
+he transmitted between his personal and DoD email accounts. (GE 4; AE L)
+In April 2020, DoD security personnel notified Applicant that they were conducting
+a preliminary inquiry into the suspected spillage of classified information  attributable to
+his March 2020 email transmission of a file that included a safe passcode. He confirmed
+the  spreadsheet contained the word “Safe” followed by a passcode for a DoD safe that
+he previously had access to, and also included his DoD IT network PINs. (AE L at 2-3)
+He  admitted  his  responsibility  for  including  that  information  in  the  spreadsheet.  He
+reported  sending  approximately  four  written  responses  to  the  DoD  security  personnel
+conducting the preliminary inquiry between April 24 and June 2, 2020, “to  explain  [his]
+actions and  answer questions.” (AE  L  at 3)  He has repeatedly claimed that he  did not
+recall the spreadsheet included the DoD Safe passcode when he transmitted the March
+2020  emails.  He  stated  that  he  informed  DoD  security  personnel  conducting  the
+preliminary
+the  spreadsheet
+“approximately a year ago” or “sometime in early/mid 2019” because  that “was the  last
+time  [he]  had  sent  the  spreadsheet  to  his  [DoD]  computer”  and  because  it  had  been
+approximately a year since he had access to that safe. (AE L at 3) He also stated that
+when initially questioned about the incident he admitted that he had made such a transfer
+“a  couple  of  times  in  [March]  2020.”  (GE  4  at  2)  He  said  that  he  was  focused  on  the
+suspected  March  2020  spillage  in  his  responses,  and  that  he  was  attempting  to  only
+answer the question asked, because he was sensitive to engineers’ reputation for being
+too long-winded in their responses. (GE 4; AE L; Tr. 58-61, 74-76)
+information
+the  DoD
+included
+that  he
+inquiry
+in
+Applicant has stated that prior to submitting his June 4, 2020 response, he  was
+anxious that the Government’s “concern could now be about my long-term transferring of
+my file. My mind was fixed, however, on the thought that I needed to answer the question
+that was being asked (my March 2020 infraction) and that it was not correct to bring in a
+new ‘broader’ email concern.” (AE-L at 3) He also noted that if he could have discussed
+details of his compromise with someone other than  a direct security manager, it would
+have been possible for him to discuss his use of the spreadsheet in the context of the
+Guideline E allegations. (GE 2, 4; AE L; Tr. 35-36, 74-76)
+DoD  security  personnel  determined  that  on  about  March  5,  2020,  Applicant
+transmitted the spreadsheet including a passcode that identified the combination to a DoD
+safe, and PIN numbers for access to his DoD sponsor’s facility, unclassified and classified
+DoD IT networks, and his DoD ID card. A preliminary inquiry found that the spreadsheet
+contained classified information. Further analysis by security personnel determined that
+he had transmitted a version of the spreadsheet including sensitive DoD information from
+his unclassified DoD email account to his personal email account approximately once a
+week  (223 times) from at least 2015 to March  2020, and that over a  period of  several
+years  he  appeared  to  routinely  update  sensitive  DoD  information  in  the  spreadsheet,
+including the safe passcode in 2017. (GE 1, 2, 4; AE L; Tr. 49, 79-99)
+In his July 2020 security clearance application (SCA), Applicant reported that he
+had been warned or disciplined in April 2020, because he “sent FOUO Information (PII)
+in an unclassified email environment,” and “stored and sent classified information within
+an  unclassified  email  environment.”  (GE  1  at  12-13)  He  reported  that  his  security
+clearance eligibility/access had been suspended in June 2020 because he “sent classified
+information within an unclassified environment.” (GE 1 at 39)
+Applicant stated  that in June  2020, he  learned  that the  DoD security  concerns were
+his long-term  transmission  of a  spreadsheet,  and  lack of transparency  about his conduct.
+He said that he  “made   full   disclosure of   [his]  actions at [his]  next opportunity, which was
+during  his [security  clearance  background  interviews]”   in July  and August 2020.  (AE  L  at
+3)  During  those  background  interviews  with  a  government investigator, Applicant said that
+he had  transmitted  the  spreadsheet as an  encrypted  file  between  his personal and  DoD
+email  accounts.  He reported  that in  March 2020, he  unsuccessfully  attempted  to  email
+the  encrypted  spreadsheet file  between  his personal and  DoD email accounts  a  couple
+of   times,  “but  the   files   could  not  be   processed.”    (GE  4   at  1,  2)  He   said  that  he   then
+removed  the  encryption  and  transmitted  the  spreadsheet.  When  asked  why  he  had  tried
+to  send  the  encrypted  file  after a  policy  prohibiting  that practice  was instituted, he  said
+that policy  was neither written  nor explicit  and that when  he  had previously tried  to  send
+an  encrypted  file  and  the  system  would not permit its transmission,  he had  assumed,  or
+it was implied  that transmission  of encrypted documents  was prohibited  by  policy. (GE  4
+at 5-6)  He said  he  had  forgotten  the  spreadsheet  included  his  classified  DoD IT network
+PIN, DoD ID PIN, and safe  passcode.  He also  told a  background  investigator that he  had
+added  the  DoD safe  passcode  to  the  spreadsheet  approximately  a  year earlier  and  sent
+those   files  to   himself  via  email.  (GE   4   at  3)  He  said   that  he   last  accessed   classified
+documents in  the  safe  in mid-2019,  while  working  for a  previous  employer. He also said
+that the  safe  had  since  been  relocated  and  was no  longer used  for classified  storage.  He
+acknowledged   that  he   was  not  supposed   to   store   classified   information   with   personal
+information,  and  said  that he  had  been  trained  on  and  was aware of  policies  regulating
+the  use  of  DoD email,  and  the protection of  sensitive and classified information. (GE 4)
+Applicant  admitted  the  allegations  at  SOR  ¶¶  1.a,  1.b,  2.a,  and  2.b,  with
+explanations; admitted, in part, and denied, in part, allegations at SOR ¶¶ 1.c, and 2.c,
+and denied the allegation at SOR ¶ 2.d. (SOR Response)
+SOR  ¶¶  1.a,  1.b,  and 2.a  allege  that  in  about  March  2020  Applicant  improperly
+sent  an  email  with  an  attachment  that  contained  sensitive  DoD  information,  including
+network and facility access PINs, and a safe combination, and that an inquiry determined
+that the spreadsheet sent from his DoD email to his personal email account contained
+classified  information. In  response to the SOR,  he admitted  the allegations at SOR ¶¶
+1.a, 1.b, and 2.a, explaining that he had intended to transmit his personal information, but
+had  forgotten  that  he  had  previously  included  sensitive  DoD  information  in  the
+spreadsheet. He said that he had been told this information was not classified, that he
+had previously included it in the file because he feared that he might forget the access
+information, and that his conduct was an inadvertent, isolated event. (SOR Response)
+SOR ¶¶ 1.c and 2.c allege that Applicant exhibited a prolonged pattern of behavior
+that endangered DoD information security, and that between 2015 and 2020 he routinely
+updated sensitive DoD information in the spreadsheet file he sent between his DoD and
+personal email accounts including a safe passcode, and that those actions contradicted
+written statements he provided to security officials. In response to the SOR he admitted,
+in part, and denied, in part, those allegations explaining that:
+I sent my  personal file  to  my  personal email. I  would do  this periodically  to
+provide  myself  updates  regarding  my  [personal information].  Approximately
+a  year prior to  the  security  incident,  I included  the  sensitive  information  in
+my   personal  file   so   I   would  not  forget  it  in  case   I  needed   to   lock  up
+something  classified. I  did this so  long  ago, that when  I sent the  file, I had
+forgotten  the  sensitive  information  was also  included. .  .  .  The  file  contained
+my  personal information, which I would occasionally  update  if  necessary.
+When    making    my    written    statements,    I  stated    that  “approximately    a    year
+ago,  I    included    this  information”  in    reference    to    the   sensitive   information
+included in the  file update I sent in March 2020.
+(SOR Response at 2, 4)
+SOR ¶ 2.b alleges that about once a week from 2015 to March 2020, Applicant
+emailed  a  spreadsheet  containing  his  own  personal  information,  including  financial,
+medical,  and  commercial  account  access  codes,  from  his  work  email  account  to  his
+personal  email  account.  He  admitted  the  allegation  noting  that  the  spreadsheet  was
+encrypted, except for transmissions in March 2020. (SOR Response at 3-5).
+SOR ¶ 2.d alleges that he was likely aware that he was mishandling sensitive data,
+that he provided misleading responses to security officials investigating the matter, and
+that  he  misled  officials  about  the  nature  and  extent  of  his  behavior.  He  denied  that
+allegation,  stating  that  he  truthfully  answered  questions  from  security  officials.  (SOR
+Response at 2, 4)
+The Government submitted an Information Security Program instruction, effective
+March 22, 2018, for the DoD agency that Applicant had supported. The instruction states
+that Controlled Unclassified Information (CUI) applies to Unclassified Information to which
+access or distribution limitations may be applied including information eligible for marking
+as  “For  Official  Use  Only”  (FOUO).  The  instruction  applies  to  on-site  contractors  and
+prohibits transmission of that agency’s CUI to personal electronic accounts, and requires
+contractor personnel complete Information Security training annually. (GE 5 at 10, 32, 54)
+Applicant  testified   that  from   at  least  2015   to   March  2020,  he   transmitted   a
+spreadsheet that included  a  passcode  for a  DoD safe  used  to  store  classified  information
+between  his DoD and  personal email  accounts.  (Tr.  58-64)  He said the  word “Safe” was
+followed  by  a  six  letter  word that  correlated  to  the  safe’s numerical combination, but  did
+not specify the safe’s location   or number. (Tr. 60-64; AE l at 1-3)  He  testified that he was
+notified   in  April  2020   that  the   presence   of   safe   password   in  an   email   attachment  was
+being  investigated  as spillage  of  classified  information.  (Tr.  59-60) He disputed  that the
+spreadsheet included  classified information, stating that he understood  from training that
+a  piece  of information  without context was not by  itself classified.  (Tr. 26-29; AE  L  at 2).
+He testified  that he  believed that his DoD PINs including his classified  IT  network, facility
+access,  and  ID card  PINs  were sensitive, but not classified  information.  (Tr.  30-32,  35,
+48-51,   64-67;  AE   L   at  2)   He   acknowledged   that  he   had   not   asked   whether   the
+aforementioned  DoD information  was classified  or not.  (Tr. 48) He said that he  notified
+his  company’s  security    officer  about  the   potential  March  2020   spillage,  after  he   was
+informed  of the  suspected  spillage  by  a DoD security  officer  in  April 2020. (Tr. 35-36, 50-
+52) He testified  that  he  did not disclose  that he  had  updated  DoD sensitive  information  in
+the   spreadsheet  for  a   number  of  years  because   he   was  focused   on   the   unencrypted
+March 2020  email. (Tr.  34-35) He said that he  did not understand  the  concern was about
+“the   issue   over the   extended   period   of   time   since   2015,” until   June  2020  after his company
+received  a  letter  explaining  why  his facility  access had  been  revoked.  (Tr. 51-52,  74-76).
+He testified  that  he  had  complied  with  post-incident counselling, and  had  removed  all  DoD
+sensitive information  from  the spreadsheet. (Tr. 35-36)
+He testified that he kept back-up copies of the spreadsheet including the sensitive
+DoD information on his home computer and in a commercial storage system. (Tr. 64). He
+said that prior to March 2020, the spreadsheet file was encrypted in order to protect the
+contents. He noted that it was regular practice at the agency he supported, and consistent
+with his training to encrypt CUI and FOUO information transmitted via unclassified email.
+(Tr. 28-29) He explained  that he had  reported  transmitting classified  information  in  his
+SCA, because he was answering the questions that were asked. He testified that he had
+truthfully answered all investigator and SCA questions, based upon his understanding of
+those  questions  at  the  time.  (Tr.  35)  He  also  testified  that  sometime  in  2019  the  DoD
+agency he  supported prohibited  the  transmission  of  encrypted emails  to  and from that
+agency. (Tr. 39-40)
+A DoD counter-insider threat security official testified that investigation determined
+that the spreadsheet included classified and sensitive DoD information.  (Tr. 78-99) He
+said that Applicant’s classified network PIN, which could be used in conjunction with a
+chipped  card  to  gain  access  to  a  classified  DoD  IT  network  was  determined  to  be
+classified. (Tr. 94-99) He testified that the PIN for the DoD Agency’s door (“that’s how it
+was  labeled”),  his  DoD-issued  identification  card  PIN,  and  the  safe  passcode  were
+sensitive DoD information. (Tr. 86, 96-99) He also testified that there was no evidence
+that the classified information had been intentionally leaked or otherwise compromised.
+(Tr. 83, 94)
+Applicant provided documentary evidence that he has an excellent reputation, and
+has established a sound record of performance for his employers and the DoD entities
+they support. Information provided in this regard notes his reliability, good character, and
+recognized  technical  skills.  Many  of  his personal references  are familiar  with  the  SOR
+allegations  and  expressed  no  reservations  about  recommending  him  for  a  security
+clearance. He also received numerous awards and was active in his community. In May
+2020, Applicant was counseled on his employer’s and sponsoring DoD agency’s policies
+regarding handling sensitive information. (SOR Response; AE A-L)

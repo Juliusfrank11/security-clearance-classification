@@ -1,0 +1,59 @@
+Applicant is a 31-year-old single man. He graduated from college in 2015 with a
+degree in software engineering. (Ex. 1 at 14) He has been working for his current employer
+since May 2018 as an assurance engineer. (GE 1 at 16) His duties include quality control.
+(Tr. 89)
+Applicant began working as a software tester for his previous employer in 2015. It
+was the first full-time job that he worked after finishing college. (Tr. 69). He was fired in
+February 2018 for violating company standards of conduct after altering test-result data.
+(Answer at 1) Applicant admits that he was fired for altering data; however, he denies that
+he did so with any fraudulent intent.
+Applicant’s job was to run software to ascertain whether it “behaved” as designed.
+(Tr. 24) Applicant worked among a group of first-line engineers who ran the new software
+with the hardware. He did so by creating source code that bridged software to hardware. If
+the hardware then performed as instructed by the software, the software was considered to
+have passed, and was moved to the test leader for additional validation. If it passed this
+second level of testing, it was submitted to the customer. (Tr. 34-35)
+Applicant performed hundreds of software tests during his stint with his previous
+employer. On six or seven out of approximately 200 tests, the test reports indicated that the
+software failed. (Tr. 21, 37) When Applicant reviewed the test reports that indicated the
+software failed, and re-tested the software, he discovered that the software was not the
+problem. Rather, the failures were false negatives, caused either because of spelling errors
+he  made  when  writing  the  source  code  that  bridged  the  software  to  the  hardware  or
+because there was a timing glitch in the hardware that caused it to misread the software.
+(Tr. 30–31, 38)
+Convinced that test failures sometimes were caused by spelling errors or timing
+glitches  and  not  by  software  problems,  Applicant  began  changing  failures  to  passes
+whenever he thought these issues presented themselves. (Tr. 28) He did not do these to
+cover up any mistake that he may have made, or because of any deadline pressure or
+performance incentives. (Tr. 28) Instead, he thought that if he was wrong and the problem,
+in fact, related to software design, it would be caught at the next level review, and returned
+to him, whereupon, he could rework the testing code. (Tr. 29) In sum, he contends that he
+did not intentionally violate company policy because he mistakenly believed his actions
+were “within the bounds of testing, and that it’s something that [he] could just rework and
+recover.” (Tr. 40; GE 2 at 6)
+Applicant’s  employer  began  to  notice  that  some  of  Applicant’s  software  that  he
+reported as passing the tests, actually were not working when tested at the next  level.  (Tr.
+46)  This prompted an investigation. When confronted, Applicant admitted that he altered
+the test results, prompting his employer  to  terminate  him. In doing so, Applicant’s employer
+concluded  that   he  “fraudulently  altered  documentation  in  violation  of  the  Company’s
+standards  of  conduct,”  by “manipulating several test files to indicate a passing result when
+in fact the test run had resulted in failure.”  (GE 3)
+In retrospect, Applicant recognizes that his actions were wrong, testifying that “the
+blame lies with [him]” for assuming what the problem was, without consulting with his team
+members. (Tr. 55, 57) Moreover, he testified that such failure “undermines the software
+development  cycle,”  and  could  have  jeopardized  his  employer’s  relationship  with  the
+customer, in that the customer could have discovered the problem during a program audit,
+which  it  had  the  right  to  conduct  at  any  time.  (Tr.  59,  73)  When  Applicant’s  current
+employer  hired  him,  he  was  forthcoming  about  the  circumstances  that  led  to  the
+termination from his previous job. (Answer at 2)
+Applicant  has  been  working  with  his  current  employer  in  their  software  quality
+assurance division since 2018. (Tr. 89) His duties include formal test witnessing, code/test
+procedure reviews, and media verifications. (AE A) Per his supervisor, who has overseen
+his work for the past two years, Applicant has proven “to be a great hire and a key addition
+to the team, [and] has received several recognition awards from his peers.” (AE A) Per
+Applicant’s supervisor who supervised him during the first two years of his tenure with his
+current employer, Applicant was well-respected by the company’s stakeholder, and was
+doing a good job with the “essential ‘block and tackle’ skills that keep system engineers out
+of trouble.” (Answer at 4) Applicant’s first supervisor at the current job also complemented
+him  for  scheduling  meetings  to  ensure  that  team  members  “are  on  the  same  page.”
+(Answer at 7)

@@ -1,0 +1,221 @@
+Applicant  is  a  44-year-old  senior  program  manager  for  a  defense  contractor,
+employed since August 2017. He previously worked as a senior staff project engineer for
+another defense contractor from 2001 until he was suspended and resigned in June 2017.
+He received two bachelor’s degrees in 1998 and 2000, a master’s degree in 2004, and a
+doctorate degree in 2013. He married in 2000 and has four children, ages 10 through 17.
+He testified that he has held DOD security clearances and special access program (SAP)
+privileges  for  over  19  years.  He  reported  that  his  top-secret  clearance  was  granted  in
+about 2003.
+The  SOR  alleges  under  Guideline  M  (Use  of  Information  Technology)  that
+Applicant resigned in June 2017 in lieu of termination after his employer discovered that
+he misused a company computer to view pornography or adult-oriented material, and he
+violated  security  protocols  by  using  a  personal  external  storage  device  on  a  company
+computer.
+The SOR alleges under Guideline E (Personal Conduct) that: (a) Applicant falsified
+his September 2017 SCA by answering “no” to a question in Section 13C - Employment
+Record, asking if he was fired from a job; quit after being told he would be fired; left a job
+by mutual agreement following charges or allegations of misconduct; left a job by mutual
+agreement after notice of unsatisfactory performance; received a written warning, been
+officially reprimanded, suspended, or disciplined for misconduct in the workplace, such
+as a violation of security policy; and (b) Applicant falsified his September 2017 SCA by
+answering “no” to a question in  Section 27 –  Use of Information Technology Systems,
+asking  if  he  introduced,  removed,  or  used  hardware,  software,  or  media  in  connection
+with  any  information  technology  system  without  authorization,  when  specifically
+prohibited by rules, procedures, guidelines, or regulations, or attempted any of the above.
+In his Answer to the SOR, Applicant admitted that he used his work-issued laptop
+to view sexually-explicit videos at his home with his wife. He claimed that on five to ten
+occasions,  he inserted  a removable drive that  contained  sexually-explicit  videos into a
+10
+USB port on his company laptop to view with his wife. He denied that he resigned from
+his job in lieu of termination; rather he averred that although he knew his actions could
+result in  “future disciplinary action,” he resigned because he was embarrassed and his
+reputation was tarnished at his workplace. (Ans.)
+Applicant  also  denied  falsifying  his  SCA,  claiming  he  did  not  resign  under  an
+“explicit or promise of future discipline” or for any other reason posed in the question 13C
+on his SCA, and that an answer of “no” continues to be the correct answer. He also stated
+that although his initial answer to SCA question 27 was “factually incorrect,” he did not
+deliberately falsify his answer. He explained that he corrected his answer to question 27
+after reviewing it with the investigator during his personal subject interview (PSI), and that
+he  was  “open  and  candid  with  the  investigator  about  his  reasons  for  leaving”  his
+employment.  (Ans.)  In  fact,  the  PSI  shows  that  Applicant  was  twice  asked  about  his
+response to SCA question 13C regarding his suspension from employment, not question
+27 regarding his use of information technology (IT) systems, where he changed his SCA
+answer and admitted the violation. (GE 2.)
+Applicant’s  work  for  his  previous  employer,  a  defense  contractor,  spanned  16
+years and required security eligibility at the top-secret level, with special access program
+privileges. He was a first-line manager and supervised other cleared employees. He was
+trained on information security measures while employed with the company, and attended
+required  security  briefings.  He  worked  within  a  DOD-designated  “closed  area”  where
+phones,  personal  computers,  and  other  personal  devices  were  prohibited,  however
+company-issued laptops were allowed into the area and were connected to company IT
+systems  while  there.  Before  the  incidents  in  question,  Applicant  had  no  prior  security
+infractions.
+Applicant  used  his  work-issued  computer  to  view  pornography  installed  via  a
+personal USB device (external hard drive). He testified that he used the USB device and
+company computer to view pornography for four to six months, including with his spouse
+and while on travel alone. He did not correct the length of time he used the device when
+speaking to the government investigator, nor did he correct it on his PSI when he certified
+its accuracy in response to Government interrogatories.
+When the USB device was inserted into the computer,  a warning  banner appeared
+on the screen that warned about moving information to or from the computer.  Applicant
+admitted  in  his  PSI  that  he  knew   of  the  policy  prohibiting  employees  from  inserting
+external  non-employment-approved hardware  into work devices  (GE  2.),  but  later testified
+that the use of  a  personal  USB device  plugged into the  computer was a “grey area.” (Tr.
+38)  Applicant   justified  his  actions  by  claiming   that  he  was  not  logged  into  a  company
+network,   he  was  not  on  duty,  and   the  computer   was  not  used  for   classified   work.   He
+testified that he  knew  viewing pornography on his company computer was  a violation of
+company policy. (Tr. 38; AE L.)
+Unbeknown  to  Applicant,  his  company  computer  was  being  monitored  by  his
+employer, who discovered the improper activity and conducted an investigation. (GE 2;
+11
+GE  4.)   The  company’s  investigation  revealed  that   pornography  was  present   on
+Applicant’s   USB  drive  and   that  using  a  company  computer   to  view  such  material  was
+prohibited.   (GE  4.)  The  investigator  explained   to  Applicant   that  pornography  was  a
+“commonly recognized threat  vector” and  a  method  for “placing malicious computer code
+into a computer system or network.” (GE 4.) Applicant  confirmed that he also  used the
+USB  device  while   on   a  recent  business  trip,  and   admitted  that  he  used  “absolutely
+incredibly poor judgment in using the device.” (GE 4.)
+Applicant also used the work computer to access an online website to view online
+personal ads while on travel, and used “email to look for a meeting with other men.” (GE
+4.) Applicant told the investigator that he was only “playing a game,” and that no meeting
+occurred on his last trip, but admitted that he previously met with people  on two other
+occasions but never discussed his work and had no continuing contact with either person.
+(GE 4.) The company investigator explained to Applicant that “engaging in such activity
+could  place  him  at  great  risk  physically  and  professionally  by  someone  he  met  by
+attempting to harm or compromise him in some manner.” (GE 4.) Applicant’s use of the
+company computer to arrange personal liaisons was not alleged in the SOR.
+Applicant  carried  his  personal  USB  device  into  the  closed  work  area  in  his
+briefcase,  in  violation  of  company  policy.  (GE  4;  AE  L.)  The  company  labeled  this  a
+security  violation.  (AE  L.)  Contrary  to  his  testimony,  he  admitted  to  the  company
+investigator that he knew using the USB device in his company computer was prohibited,
+but he claimed he was “not sure” whether the device could be carried into the closed work
+area. (GE 4.) In testimony, he stated that he did not know he was prohibited from taking
+the device into the closed area, but he “should have  known.”  (Tr. 34-37.) Introducing a
+prohibited device into the closed work area was not alleged in the SOR.
+In a subsequent statement addressed to the company disciplinary review board
+(DRB), Applicant stated that he “exercised some very poor judgment in [his] personal life
+and does not dispute any of the facts as presented to [him] by the investigators.” (GE 4 –
+Statement.)  He  pleaded  with  the  DRB  that  he  would  accept  any  disciplinary  action
+mandated if they allowed him to continue employment, but if that was not possible, he
+requested that the DRB allow him to resign or impose a form of termination that might
+allow him a clean start in another industry. (GE 4 – Statement.)
+Applicant  was  stripped  of  his  access  badge  and  was  placed  on  indefinite
+disciplinary  suspension  pending  a  formal  disposition  of  the  DRB.  (GE  4;  AE  L.)  The
+company reported Applicant’s conduct  to  DOD  via a JPAS incident  history  report,  and
+noted that Applicant resigned via email on June 22, 2017, the day before the DRB. The
+company noted that Applicant’s resignation was “in lieu of termination,” and he was not
+eligible  for  rehire.  (GE  3;  AE  L.)  Applicant  was  aware  that  the  DRB  could  result  in
+disciplinary  action  or  termination  of  employment,  and  testified  that  he  was  concerned
+about his reputation in the company and believed a “negative” DRB outcome would limit
+his ability to retain a security clearance. (Tr. 21-26.) In testimony, he quibbled regarding
+the labeling of his suspension, calling it “administrative leave,” not a suspension, because
+he was not formally notified of a suspension and was paid. (Tr. 41.)
+Applicant  was  interviewed  by  a  Government  investigator  in  August  2018  (PSI)
+while  he  was  employed  by  another  defense  contractor.  He  did  not  initially  reveal  his
+suspension and full involvement in the misuse of the company computer. He was twice
+asked if he had received a written reprimand, been officially reprimanded, suspended, or
+disciplined for misconduct in the workplace such as a violation of security policy, and he
+twice answered “no.” When confronted with his suspension from his previous employer,
+he hesitated before admitting that he was suspended for inserting personal hardware into
+his work computer to view pornography. (GE 2.)
+When  asked  by  the  investigator  whether  he  introduced,  removed  or  used
+hardware,  software,  or  media  in  connection  with  any  information  technology  system
+without  authorization  when  specifically  prohibited,  he  stated  “yes.”  He  claimed  he
+misunderstood the related question on his SCA when he answered “no” to question 27,
+but did not elaborate on what he misunderstood. (GE 2.) In testimony, Applicant claimed
+that he answered “no” to question 27 because he believed the question was limited to
+classified  systems,  despite  that  it  specifically  referred  to  “any  information  technology
+system.” (Tr. 27-29.) He testified that he finally understood that his answer on the SCA
+was  incorrect  after  the  investigator  repeated  the  question  with  an  emphasis  on  “any”
+system.  I  note  that  the  PSI  does  not  indicate  that  Applicant  was  coached  by  the
+investigator or that the investigator had to emphasize any particular part of SCA question
+27,  rather  the  investigator  noted  that  she  twice  asked  Applicant  to  disclose  his
+employment  record  in  response  to  SCA  question  13C,  before  he  acknowledged  his
+suspension.
+Applicant  explained  to  the  Government  investigator  that  he  used  the  USB  and
+computer to view pornography with his wife in their bedroom, but he did not disclose that
+he also used it while alone on a business trip, or that he searched personal ads, used
+email to arrange liasons while traveling, or that he introduced the prohibited USB device
+into a closed work area in violation of security regulations and company policy. (GE 2.)
+He acknowledged in his interview that he was aware that inserting his personal USB into
+the computer to view pornography was prohibited, and claimed, contrary to his hearing
+testimony,  that  he  did  so  “many  times  in  a  month  to  two  months  timeframe.”  (GE  2.)
+Applicant  acknowledged  that  his  misuse  of  the  computer  violated  company  policy  and
+took full responsibility for  his actions. He  claimed he had a “terrible  lapse of judgment”
+and became “impulsive.” He explained that he did not disclose his conduct on his SCA
+because  he  interpreted  the  question  (SCA  question  27)  as  strictly  related  to  violating
+“security policies.” (GE 2.)
+Applicant disputes that he was “suspended” and resigned in lieu of termination or
+by mutual agreement. Applicant testified that he was not formally suspended, rather he
+was simply on paid administrative leave. He also testified that he did not resign by mutual
+agreement  or  in  lieu  of  termination  because  he  resigned  the  day  before  the  DRB  was
+scheduled  to  meet,  and  he  was  not  told  he  would  be  fired.  However,  in  his  PSI,  he
+admitted that he was “suspended with pay for a week.” (GE 2.) He further explained in
+his  PSI  that  he  “was  told  that  he  was  being  suspended  for  [a]  week  pending  the
+disciplinary board’s decision. [Applicant] went home on paid suspension and after a week,
+13
+he resigned. He was not told he would be fired but he was afraid of having his security
+clearance revoked by the disciplinary board.” (GE 2.) Applicant did not change or correct
+this language when he verified the PSI’s accuracy in response to an interrogatory.
+In SCA question 13A regarding Applicant’s employment history, he was asked for
+the reason he left employment. Applicant answered that he “resigned to take position at
+[another defense contractor].” (GE 1. p.14.) In addition, when asked if he left employment
+by “mutual agreement following charges or allegations of misconduct” or “following notice
+of  unsatisfactory  performance,”  Applicant  answered  “no.”  (GE  1.  p.14.)  However,
+Applicant did not have a new position with his current employer at the time he resigned.
+(Tr. 48.) He testified that after resigning, he contacted a program director with another
+government contractor whom Applicant met while conducting business with his previous
+employer.  According  to  the  program  director  that  conducted  the  interview,  Applicant
+disclosed that he made a “personal mistake and had inappropriately used an unclassified
+[company]-owned  laptop  computer.  As  a  result  of  that  incident,  he  was  personally
+embarrassed  and felt that the incident would have lasting negative impact on his ability
+for  career advancement” with the company. (AE E.) The new employer concluded that
+Applicant had a “significant lapse in judgment and that it violated [his company’s] policy,
+it  was  not  a  security  infraction.”  Applicant  was  hired  in  the  summer  of  2017,  and  is
+currently  employed  in  substantially  the  same  classified  work  he  performed  with  his
+previous  employer.  The  evidence  is  unclear  as  to  what,  if  any,  other  information  was
+provided to the new employer regarding Applicant’s previous employment conduct, and
+on  what  basis  it  determined  that  Applicant’s  actions  did  not  qualify  as  a  “security
+infraction.”
+In his PSI, Applicant acknowledged his lack of judgment when using the company
+computer,  and  attributed  it  his  “ignorance  and  careless  actions.”  (GE  2.)  He  took
+accountability for his “mistake” and learned a lifelong lesson. He avers that he hopes to
+put the incident behind him, but asserts that use of the USB device in the computer “did
+not  put  the  company’s  security  at  risk  and  no  data  or  PII  was  lost.  (GE  2.)  Of  note,
+Applicant continued to under report the extent of his use of the USB and company laptop
+when he completed an “Affidavit of [Applicant]” in April 2020. In the affidavit, he admitted
+to violating company rules by viewing the pornography with his wife, but failed to disclose
+his  use  while  on  travel.  (AE  J.)  He  also  continues  to  deny  that  he  has  breached  any
+security  protocols  by  stating  “for  all  of  my  19  year  career,  I  have  not  had  single  [sic]
+infraction or incident involving any security issues.”
+In a review by Applicant’s former employer, they noted in a letter dated June 11,
+2020 that:
+When [the company] representatives interviewed [Applicant],  he admitted
+to viewing the materials using his [company] asset and understanding that
+such  actions  were  prohibited.  As  such,  [Applicant]  was  placed  on  an
+indefinite  disciplinary  suspension  pending  formal  determination  by  the
+Disciplinary Review Board (DRB). [Applicant] was offered the opportunity to
+provide  a  written  statement,  which  he  did.  In  that  statement,  [Applicant]
+14
+admits to the misconduct,  stating, ‘I am not attempting to defend or justify
+my actions in  any way . . .’ and, ‘I  know  I’m in  no position to ask for favors
+and  will accept whatever decision [the DRB] reache[es].’ On June 23, 2017,
+the  date  the  DRB  was  scheduled  to  meet,   [Applicant]   tendered  his
+resignation.
+In  light  of  the  nature  of  the  substantiated  misconduct,   [Applicant’s]  Top
+Secret  clearance, and  resignation while on a disciplinary suspension, [the
+company] appropriately coded  [Applicant’s] resignation as a ‘resignation in
+lieu  of  termination.’  Such  is  consistent  with  [the  company’s]  policy  and
+procedures, and  its obligation as a federal  contractor  and  applicable law.
+(AE L.)
+Applicant’s current  employer fully supports him,  has promoted him  to manage a
+highly-classified sub-product line that generates $125 million in annual sales, highlighted
+his accomplishments, trustworthiness, and importance to the company and to the U.S.
+national defense industry. The employer notes that they do not have another leader of
+Applicant’s caliber waiting in the wings to replace him. (AE E.)
+Likewise, Applicant’s former coworkers expressed their strong support for him and
+discussed the harm that would occur to his new employer and the Government if Applicant
+does not retain his security clearance and continue work on important, highly-classified
+projects. (AE F, G.) Applicant’s  spouse also supports him and acknowledged that their
+use of the company computer to view pornography together was an “egregious error.”
+(AE H.)

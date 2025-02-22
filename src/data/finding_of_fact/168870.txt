@@ -1,0 +1,79 @@
+Applicant  is  a  38-year-old  training  and  development  specialist,  employed  by  a
+defense contractor. He previously worked for another defense contractor from April 2016
+to March 2017, until he was terminated for violating timekeeping and information systems
+security  policies.  He  was  also  employed  as  a  United  States  Secret  Service  uniformed
+division officer from 2008 to 2010. He received a bachelor’s degree in 2006. He married
+in 2008 and divorced in 2014. He remarried in  November 2018. He has three children,
+ages 18 months, 10, and 14 years old. He holds a top secret security clearance.
+The  SOR  alleges  under  Guideline  E  that  Applicant  was  terminated  from  his
+employment with a government contractor in March 2017 for violating timekeeping and
+information  systems  security  policies.  Under  Guideline  M,  the  SOR  cross-alleges
+Applicant’s termination for violating information systems security policy. Applicant initially
+admitted the Guideline E allegation, but denied the Guideline M allegation. At the hearing,
+he changed his answer on the Guideline M allegation to “admit.”
+Applicant was employed by a company that directly supported another government
+agency,  by  researching  classified  computer  databases  in  a  sensitive  compartmented
+information facility (SCIF) in which he was required to “badge in” to gain access. All work
+had to be conducted in the SCIF. Applicant was to account for his time and attendance
+by  logging  his  work  time  daily  on  an  unclassified  computer  database,  in  15-minute
+increments.  The  timekeeping  program  could  be  accessed  anywhere  on  a  personal
+computer, including at Applicant’s home. The system employed a unique username and
+password,  and  only  the  employee  was  permitted  to  sign  in  and  use  the  system.  If  an
+employee  could  not  enter  the  data,  he  was  required  to  call or  email  his  supervisor,  or
+send  a  note  through  the  timekeeping  system.  The  employee’s  input  would  be  used  to
+charge the government customer under the contract. Applicant was also required to report
+his  time  on  a  classified  system  in  the  SCIF,  to  include  noting  on  the  government
+customer’s calendar when he expected to be out of the office  or unable to work normal
+work  hours.  Employees  were  required  to  keep  the  calendar  updated.  Applicant  was
+trained on the timekeeping system and information security requirements.
+In  late  2016,  the  government  supervisor  in  the  SCIF  notified  Applicant’s  senior
+program manager of concerns over Applicant’s extended breaks and arriving to work late
+or leaving early. The manager asked the SCIF supervisors to make notes and observe
+Applicant’s  conduct.  It  was  discovered  that  between  January  and  February  2017,
+Applicant falsified his timecard by logging work that was not performed for seven days.
+The  missed  work  was  improperly  billed  to  the  government.  In  addition,  the  company
+determined that Applicant did not “badge in” to the SCIF on six days for which he entered
+work  hours.  The  manager  confronted  Applicant  about  the  falsified  timecards,  and  he
+denied it, but admitted to improperly certified working on two days that he did not work.
+Applicant did not elaborate on missed work or claim that he worked on alternate times or
+days to make up for missed regular workdays. The manager believed Applicant was lying
+about only falsifying two days of missed work.
+The  company  conducted  an  internal  audit  and  Applicant  was  interviewed.
+Applicant admitted fraudulently certifying working two days that he did not work. He also
+admitted to giving his username and password to his girlfriend (now his spouse), to log
+into  the  timekeeping  system  and  sending  a  certification  of  his  work  performed  for  the
+week.  As  a  result,  Applicant  was  placed  on  administrative  leave,  was  “read  off”  the
+program, and barred from the SCIF. The manager notified Applicant that he was being
+terminated.  Applicant  never  contested  his  termination  with  the  company  because  he
+agreed that he mischarged two days and improperly allowed his girlfriend to certify his
+work hours.
+In testimony, Applicant continued to assert that he mischarged only two days, but
+corrected his timecard the following week to take leave. He stated that he had no desire
+to  contest  his  termination  from  the  company  because  he  agreed  that  he  initially
+mischarged  the  two  days  and  allowed  his  girlfriend  to  submit  his  timecard.  He  also
+admitted to following another employee into the SCIF without “badging in,” as a way to
+account for the inability of the system to show he was present in the SCIF, however he
+later denied it in testimony, claiming that he always “badged in” even when he walked in
+behind another employee.
+Applicant  claimed  that he  went to  the  emergency  room  in late  February  2017, and
+was required  to  undergo  an  emergency  procedure. He first testified  that it was February
+4th  or 5th,  then  said  it was the  week of  February  9th  or 10th. His girlfriend  took him  to  the
+hospital  on  a  Wednesday  evening  after work  for  a  test when  he  learned  that he  needed
+a  procedure. At his direction, she  returned  home  to  open  his laptop  timekeeping  program
+in which he  had  already  logged  in and  pre-populated  the fields  with  his work time  for the
+week, and  hit “send” on  the  program. She  then  returned  to  the  hospital.  Applicant admitted
+to   regularly   pre-populating   his  timecard  before  working   the   hours.  When   his  girlfriend
+certified  his timecard for  him, he  had  populated  work for the  full  week  although  he  certified
+the   timecard  on   a   Wednesday   evening.  In   testimony,  Applicant  claimed   he   regularly
+populated  the  entire work week on  his timecard submissions, typically  sent on  Thursdays,
+but he  did not know  he  had  populated  the  entire week when  he  asked  his girlfriend  to
+certify  his work. Applicant claimed  that he  asked  her to  certify  it on Wednesday  evening,
+even  though  he  normally  submitted  it  on  Thursdays, because  he  did  not know  how  long
+he  would be  in the hospital. He also stated  that he  could have  accessed  the  program on
+his cell phone  while in the  hospital, but he was “out of it” and in too  much pain to do so.
+Applicant produced character letters from friends and community leaders attesting
+to his honesty, reliability, family focus, and community involvement. He did not produce
+documentary evidence to support his claims regarding timekeeping or his hospital visit,
+nor did he produce his spouse or other witnesses to testify as to the events the evening
+he went to the hospital, company’s timekeeping policies, SCIF entry practices, and work
+schedules.

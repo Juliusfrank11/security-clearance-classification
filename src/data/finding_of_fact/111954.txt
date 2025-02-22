@@ -1,0 +1,94 @@
+In Applicant’s answer to the SOR, he admitted all the allegations. At the hearing,
+his attorney moved to withdraw his answer to the SOR and substitute a modified answer
+to the SOR. (HX V.) I denied the motion to withdraw his answer to the SOR on the ground
+that there is no authority under the Directive permitting an applicant to withdraw an answer
+to  the  SOR.  However,  I  granted  Applicant’s  motion  to  the  extent  that  I  allowed  him  to
+submit explanations for his answer to the SOR. (Tr. 13-17.) His admissions in his original
+answer to the SOR, his modified answer in HX V, and at the hearing are incorporated in
+my findings of fact.
+Applicant is a 56-year-old cyber-security analyst employed by a defense contractor
+since  March  2018.  He  received  a  bachelor’s  degree  in  1986.  He  was  an  employee  of
+another government agency for about five years. (Tr. 37.) He was employed by another
+defense  contractor  from  July  2003  to  March  2018,  when  he  was  terminated  for  the
+conduct alleged in the SOR. He married in May 1998 and has five children, ages 20, 19,
+18, 15, and 14. He has held a security clearance since about 1999. (Tr. 70.)
+In September 2017, Applicant sent an email to a co-worker, asking her to allow
+him to use her security token to gain access to an unclassified server in order to perform
+system  software  patching  and  troubleshooting.  The  security  token  is  a  small  piece  of
+hardware  with  a  USB  plug  on  the  end.  (Tr.  86.)  His  security  token  had  been  recently
+reissued  and  could  not  be  read  by  the  server.  The  compliance  date  for  updating  the
+system was approaching, and the system would be taken offline if he could not complete
+the updates. (Tr. 58.) His co-worker declined, telling him that she would be uncomfortable
+allowing him to use her security token. His former employer’s security team intercepted
+their  email  exchange.  Applicant  testified  that  he  was  given  an  alternate  method  of
+bypassing the token requirement, but it did not work. (Tr. 56-57.) He testified that he did
+not ask his co-worker to install the security updates because she did not have the skill set
+required to install them. (Tr. 68.)  He knew, based on training and the provisions of the
+non-disclosure  agreement  that  he  signed,  that  employees  were  not  allowed  to  share
+credentials. (Tr. 71.)
+Based  on an internal investigation  by  the  corporate  counsel and  facility  security
+officer in January and February 2018, Applicant was terminated on March 2, 2018. (GX
+2.)  When  Applicant  submitted  his  most  recent  SCA  in  March  2018,  he  disclosed  his
+termination and the attempt to use another employee’s security token. (GX 1 at 15.)
+Applicant testified that he had submitted multiple requests for almost a month to
+install a device driver that could read his new security token. (Tr. 41.) In the meantime,
+he was unable to install the patches and security updates necessary to protect the system
+from being hacked. (Tr. 44-45.) He testified that in hindsight he should have escalated his
+problem  with his security token to his supervisors. (Tr. 47.) He testified that during the
+investigation  the  corporate  counsel  asked  him  if  he  would  try  to  use  someone  else’s
+security  token  again,  and  he  said  that  he  would  “if  it  would  get  the  job  done.”  When
+reminded  by  the  corporate  counsel  that  he  had  signed  a  non-disclosure  agreement
+prohibiting sharing of credentials, he responded, “Okay, I won’t do it.” (Tr. 64.)
+Applicant testified that, in February 2018, the corporate counsel told him that they
+had  observed  his  use  of  a  personal  thumb  drive  in  September  2017  to  transfer  work-
+related  data  between  his  employer’s  unclassified  information  systems.  (Tr.  60.)  At  the
+hearing,  he  admitted  that  he  started  using  a  thumb  drive  in  April  2017,  when  his
+employer’s  system  was  migrated  into  a  government  system.  He  was  having  problems
+with downloading software updates and security patches. He knew how to clean a thumb
+drive to prevent transmitting malware. He did not connect the thumb drive to a government
+network.  He  used  the  thumb  drive  to  transfer  data  from  his  contractor’s  laptop  to  his
+government laptop on four occasions, in April, July, September, and November 2017. (Tr.
+47-49.) He testified that the SOR was inaccurate when it alleged that he used the thumb
+drive beginning in July 2003. The basis for alleging that Applicant used the thumb drive
+from  July  2003  to  March  2018  is  not  in  the  record.  The  inclusive  dates  of  Applicant’s
+unauthorized  use  of  a  thumb  drive  are  not  reflected  in  the  JPAS  incident  report.  He
+testified that when he answered the SOR, he stated that he  admitted that he used the
+thumb  drive  between  July  2003  and  March  2018  because  those  were  the  dates  of  his
+employment by his former employer. He testified that he did not know that he could admit
+part of the allegation and deny part of it. (Tr. 50.)
+Applicant testified that he has never seen a document forbidding the use of thumb
+drives. However, he admitted that during training he was clearly told that he should not
+use thumb drives. (Tr. 52, 62.) However, he believed that the permissible devices such
+as compact discs were the same as using a thumb drive and just as safe because he
+knew how to “nuke” the thumb drive and remove any potential contamination. (Tr. 52-54.)
+The JPAS incident report (GX 2) recited that Applicant was cautioned against using
+the thumb drive and instructed to not use it again, and that “he replied that he could not
+guarantee he would not do it again if he needed to accomplish his mission.”  Applicant
+denied telling the investigators that he could not guarantee that he would not use a thumb
+drive again. (Tr. 63-64.) He testified that he told the contractor’s counsel that he would
+not use a thumb drive again but that he was uncomfortable leaving the system insecure.
+(Tr. 64.)
+Applicant’s  use  of  a  thumb  drive  and  his  attempt  to  use  a  co-worker’s  security
+token occurred only on unclassified systems. He testified that a classified system is totally
+different  with  very  stringent rules.  (Tr. 68.)  He  would  never  bypass  security  rules  on  a
+classified system for efficiency. He believes that the rules for classified systems are about
+security, not efficiency. (Tr. 65-66.)
+The co-worker who declined Applicant’s request to use her security token testified
+on his behalf. She has worked for Applicant’s former employer as a software engineer
+since  May  2007.  She  regards  Applicant  as  very  responsible,  reliable,  honest,  and
+trustworthy.  (Tr.  76-80.)  She  testified  that  Applicant’s  token  had  expired,  and  that  she
+declined Applicant’s request to use her token, telling him that she did not feel comfortable
+allowing him to use it and did not want to get their employer in trouble. She did not report
+his request. Her opinion of Applicant did not change as a result of his request. (Tr. 82,
+86.)
+Another former co-worker who had worked with Applicant on a project for about
+eight  years testified  that  she believes  he  is a  trustworthy,  reliable,  and honest person.
+She testified that their employer allowed the use of thumb drives about ten years ago, but
+the policy changed with the technology and everyone was notified by bulletins and emails
+of the change. She testified that she believes Applicant knows that he made a mistake
+and that he wants to do the right thing. (Tr. 90-96.)
+A current co-worker has known Applicant for about four years and works with him
+on the same project. He considers Applicant to have good judgment and believes he is
+very  reliable,  trustworthy,  and  honest.  He  is  aware  of  the  reasons  Applicant  was
+terminated by his previous employer, but believes Applicant had no malicious intent, but
+“at the end of the day, he was just trying to get the job done.” (Tr. 98-103.)

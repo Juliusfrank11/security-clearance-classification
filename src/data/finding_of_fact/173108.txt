@@ -1,0 +1,122 @@
+Applicant admitted all the SOR allegations with explanations and clarifications. His
+admissions  are adopted  as findings  of  fact.  After a thorough  and careful review of  the
+pleadings and exhibits submitted, I make the following additional findings of fact.
+Applicant is 44 years old. He has worked for a defense contractor for approximately
+18 years. He holds a master’s degree. He is married and has six children, ages 15, 14,
+10, 8, 6, and 4. He has held a security clearance for 17 years. (Tr. 31, 33; GE 1)
+The  allegations  are  relatively  straightforward  and  the  facts  are  not  in  dispute. The
+SOR   cites   seven   separate   security   lapses   under  Guideline   K   as  follows:   ( 1 )   in
+March  2007,   Applicant   installed  an  unauthorized  memory  upgrade  chip  onto  his work
+computer;  (2)  in  October  2012,  he   brought   a   personal  cell   phone   into   a   sensitive
+compartmented  information  facility  (SCIF); (3) in November 2013,  he  removed  hand-
+written  notes from  a  SCIF, that were thought  to  be  classified, but turned  out not to  be
+classified; (4) In  May  2015, he failed  to  completely  lock a  security  container at the  end
+of  the day; (5) in October 2015, he  failed  to re-file classified information  and  to lock the
+security   container  at  the   end   of   the   day;  (6)   in  February,  he   removed   classified
+information from  the  SCIF; and  (7) in August 2018, he  brought his personal cell  phone
+into the SCIF.   The exact allegations are cross-alleged under Guideline E.  (SOR)
+Applicant’s explanation for each incident is as follows:
+1.  March  2007  incident.  Applicant admitted this violation. It was unintentional.
+He  was  not  aware  that  only  the  systems  administrator  could  install  new  software  or
+hardware  onto  his  company  computer.  Applicant  self-reported  this  violation  once  he
+realized that he was not authorized  to do what he did. There was no compromise of
+classified information. (Tr. 26, 41, 44, 48; SOR answer; GE 4)
+2.  October 2012  incident. Applicant admitted this violation. It was unintentional.
+He  realized  he  brought  his  cell  phone  into  a  secure  area  after  about  40  minutes.
+Applicant immediately left the area and self-reported this violation. No calls were made
+or received while the phone was in the SCIF. There was no compromise of classified
+information. Applicant received verbal counseling. (Tr. 26, 41, 44, 48; SOR answer; GE
+5)
+3.   November  2013   incident.   Applicant  admitted  this  violation.  It  was
+unintentional.  He  took  notes  on  an  index  card  while  he  was  accessing  classified
+information.  He  left  work  for  the  day  without  realizing  he  had  the  index  card  in  his
+pocket. Upon realizing he still possessed the card, he returned the card to his workplace
+and  he  reported  the  incident  to  security.  Upon  examination  by  security,  it  was
+discovered that no classified information was contained on the card itself. Applicant was
+directed to use a notebook with a classified coversheet to take notes. Applicant adopted
+this practice and still uses it to this day.  He then leaves the notebook secured in the
+SCIF. (Tr. 26, 41, 44, 48; SOR answer; GE 5)
+4.  May 2015  incident.  Applicant admitted this violation. It was unintentional. He
+closed the lock, but it did not fully engage. While the container was not properly secured,
+it  remained  in  a  secure  area  where  only  cleared  or  escorted  people  have  access.
+Applicant  immediately  self-reported  this  violation.  There  was  no  compromise  of
+classified information. Applicant received verbal counseling.  (Tr. 26, 41, 44, 48; SOR
+answer; GE 5)
+5.  October 2015  incident.  Applicant admitted this violation. It was unintentional.
+He was distracted at the end of the day by leadership issues he was addressing and
+neglected  to  complete  his  checklist,  which  resulted  in  classified  material  not  being
+placed in a container and the container not being properly locked. While the container
+was not properly secured, it remained in a secure area where only cleared or escorted
+people  have  access.  Applicant  immediately  self-reported  this  violation  the  following
+morning.  There  was  no  compromise  of  classified  information.  Applicant  received
+refresher training. (Tr. 26, 41, 44, 48; SOR answer; GE 5)
+6.   February   2016
+incident.   Applicant  admitted
+It  was
+unintentional. He took a printout of his personal calendar out of the SCIF. He reviewed
+the printout while sitting in his car and realized it contained classified information. He
+immediately returned the printout to his office and placed it in a closed area. Applicant
+immediately  self-reported  this  violation.  There  was  no  compromise  of  classified
+information. Applicant received verbal counseling. (Tr. 26, 41, 44, 48; SOR answer; GE
+5)
+this  violation.
+7.  August 2018  incident. Applicant admitted this violation. It was unintentional.
+He  realized  he  brought  his  cell  phone  into  a  secure  area.  It  was  there  for  about  20
+minutes before he realized he had it. No classified information was discussed while he
+possessed  the  cell  phone.  Applicant  immediately  left  the  area  and  self-reported  this
+violation. No calls were made or received while the phone was in the SCIF. There was
+no compromise of classified information. Applicant was told to be more careful. (Tr. 26,
+41, 44, 48; SOR answer; GE 5)
+Applicant   did   not   attempt   to   deflect   or   avoid   responsibility   for  these   security
+lapses.  He  accepted  full  responsibility  for his security  mistakes. Applicant  works “hands-
+on” with  classified  information  approximately  24  days a  month, including  multiple  times
+a   day.   By   way   of   explanation,  Applicant  described   some   events  going   on   in  his  life
+during   some   of  his  earlier  security   violations.  In   2013-2014,  he   had   just   assumed   a
+leadership   role   in  his  company.  One   of   his  leadership   tasks  was  to   “fix”  two   broken
+teams. There were significant personnel issues with these teams that he was trying to
+overcome.  Additionally,  in  his  personal  life,  he  was  going  through  a  major  home
+renovation,  and  his fourth  and  fifth  children  were  born.  His  wife  was  hospitalized  for
+three months before the birth of their fourth child because of a medical condition. This
+was a very stressful time for Applicant. (Tr. 34, 41-43)
+Applicant described the changes he has made in his work routine to ensure that
+he follows all prescribed security protocols. He has not had a security violation in over
+three years. The changes he implemented include: consciously slowing down at the end
+of  the  day  to  ensure  he  follows  all  the  proper  closing  procedures;  following  repetitive
+patterns, such as always putting his cell phone in the same place so it is easier to check
+to  see  if  he still possesses  it; at the  end of  the day,  he closes his office door, thereby
+preventing  outside  distractions  from  interfering  with  his  end-of-the-day  security
+procedures. (Tr. 43-45)
+to   retain   confidence
+Applicant’s   company   continues
+in   him.   Applicant’s
+immediate  supervisor  (Ms. L), who  is a  company  vice president  and  who  is responsible
+for several hundred employees and contractors, testified that Applicant is currently her
+deputy, acting  in her place  when  she  is unavailable.  Ms. L  has  known  Applicant for six
+years and  he  has been  her deputy  for two  years. She  is fully  aware of all  the  Applicant’s
+security   incidents  and  the   circumstances behind   them.  Ms. L   believes  that  Applicant
+has  unquestioned   integrity   as  demonstrated   by   his  self-reporting   of   every  security
+incident.  She   also   described   the   changes  she   observed   in  Applicant’s  security
+practices,  e.g., he  no longer takes notes when reviewing material in  SCIF or if  he  does
+take  notes  he  uses a  notebook, which he  ensures is  secured  before  leaving  the  SCIF.
+Ms. L  strongly  believes Applicant  is not a  security  risk and  recommends that  his security
+clearance  access continue. She  also  provided  a  written  letter of  support. (Tr. 22-27, 36-
+37; AE A, E)
+letters  of   support
+Applicant  offered   several
+from   coworkers,  church
+acquaintances, and his sister. The regional security manager for Applicant’s company
+commented  on  Applicant’s selection  for  an  executive  growth  program  and  that  he  was
+a  top  performer. He also  wrote  about  Applicant’s security  infractions, but also  noted  that
+Applicant  always  accepted   responsibility   and   never  made   excuses.  None   of  the
+incidents resulted  in a  compromise of  classified  information. He concluded  his letter by
+stating:  “I  trust  [Applicant]   and   do   not  question   his   loyalty   to   the   United   States   of
+America.”   Three   other  coworkers  also  referenced   Applicant’s   willingness  to   take
+responsibility  for his security  lapses and  described  his strong  character traits of  integrity,
+reliability,  and trustworthiness. (AE A, E)
+Applicant’s  church   acquaintances  describe   Applicant’s  mentorship  in  youth
+programs and  his willingness to  help  others.  He  is described  as  selfless and  committed
+to  helping  others. His sister described  Applicant as a  man  of  integrity  who  is reliable
+and  trustworthy. (AE E)
+Applicant’s job  performance  appraisals from  2013  to  2020  reflect that  his ratings
+were  “exceeded   commitments”  or  “significantly   exceeded   commitments.”  Between
+2005 and 2020, he was also the recipient of  numerous company awards. (AE B, F, H)

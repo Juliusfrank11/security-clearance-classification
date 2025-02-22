@@ -1,0 +1,99 @@
+In his Answer, Applicant admitted SOR ¶¶ 1.a-1.c and 1.e. He denied ¶¶ 1.d, 1.f,
+1.h, and 1.i, with explanations. He did not specifically admit or deny SOR ¶¶ 1.g or 2.a.
+As such, I will  treat  Applicant’s  lack of response to SOR ¶¶ 1.g and 2.a as a denial of
+those allegations. His SOR admissions are incorporated into my findings of fact. After a
+thorough  and  careful  review  of  the  pleadings  and  evidence  submitted,  I  make  the
+following additional findings of fact.
+Applicant  is  72  years  old,  married  and  has  two  adult  children.  He  obtained  his
+bachelor’s  degree  in 1977.  He  started  with the  predecessor of his current  employer in
+1979  and  has  continuously  remained  in  a  full-time  position  with  the  company  or  its
+successor  since  then.  As  of  his  September  2021  SCA  submission,  he  was  a  senior
+systems engineer. (GX 3, 5-6)
+Employment  records  reflect  that,  from  2011  through  2020,  Applicant  committed
+multiple  security  violations  that  required  reporting  to  the  Government  by  his  employer
+under 32 CFR Part 117.8 of the National Industrial Security Program Operating Manual
+(NISPOM). The first incident occurred in March 2011. (SOR ¶ 1.i) A company Individual
+Culpability  Report  (ICR)  stated  that  company  proprietary  and  competition-sensitive
+documents  were  left  unsecured  on  Applicant’s  desk.  Further  inspection  of  Applicant’s
+workspace  yielded  multiple  unsecured  proprietary  documents.  A  security  citation  was
+issued to Applicant. (GX 4)
+In   August  2014   and   again  in  November  2014,  company  proprietary  documents
+were   discovered   unsecured   in  and   around   Applicant’s  desk  and   workspace.  (SOR  ¶¶
+1.g   and   1.h)  In   both   instances,  an   ICR  was  drafted   and   Applicant  received   security
+citations. (GX 4)
+In  September  2016,  during  a  random  building  sweep,  multiple  company
+proprietary and export-controlled documents were discovered unsecured on Applicant’s
+desk. (SOR ¶ 1.f) An ICR was drafted and Applicant received another security citation.
+(GX 4)
+In two separate incidents in April 2018, Applicant’s employer discovered that he
+left  company  proprietary  and  export-controlled  documents  and  diagrams  unsecured  in
+his workspace. (SOR ¶¶ 1.d and 1.e) After the first incident, Applicant was specifically
+advised  that  “documents  must  be  placed  in  a  locked  cabinet  and  the  keys  not
+accessible.” After the second incident two weeks later, security personal requested  that
+supervisors meet with Applicant to review company procedures regarding the protection
+of information. ICRs were issued in both instances. (GX 4)
+In  August  2018,  during  another  random  building  sweep,  company  proprietary
+documents were discovered unattended and unsecured in Applicant’s workspace. (SOR
+¶  1.c) An ICR was drafted and  he  received another security  citation. It was noted that
+this was his third violation that year and security personal again advised supervisors to
+meet with him and take corrective measures. (GX 4)
+During  “routine  monitoring  of  employee  asset  usage,”  company  investigators
+observed  that,  from April through June 2020,  Applicant  sent four emails from  his work
+email  account  to  his  personal  email  account  that  contained  documents  marked  as
+company  proprietary.  (SOR  ¶  1.b)  When  confronted,  Applicant  stated  that  he  sent  the
+documents to his personal email so that he could  work on  them  at  home  since  “it  was
+an inconvenience to pack up all his work assets to take home.” An ICR was drafted and
+Applicant  confirmed  that  he  deleted  the  relevant  files  from  his  personal  email  and
+computer. He was advised of company policies regarding the use of personal email and
+received verbal counseling from his supervisor. (GX 4)
+Despite  the  counseling,  in  August  2020,  Applicant  sent  another  document
+marked as proprietary and export controlled from his work email to his personal email.
+When confronted, Applicant stated that he sent the document to his personal email as a
+template  for  another  work  project  and  believed  the  document  did  not  contain  any
+proprietary  information.  However,  his  supervisor  confirmed  that  the  documents  did
+contain proprietary information  and  that there was no  “legitimate business purpose” for
+Applicant  to  have  sent  company  “intellectual  property”  to  his  personal  email.  Another
+ICR was drafted. This was noted as Applicant’s second “data infiltration incident” within
+the last 12 months and he was issued a written warning. (GX 4)
+None of the reports reflect that there was ever a loss or compromise of classified
+information  during  any  of  these  incidents  and  Applicant’s  supervisor  noted  that
+Applicant’s  actions  were  not  “nefarious.”  When  requested  by  his employer, he  deleted
+the relevant documents from his personal email and home computer. (GX 4)
+In his September 2021 SCA, Applicant disclosed that he  was “written  up” by his
+employer  in  April  2020  because  he  sent  a  document  marked  “company  proprietary”
+from  his  work  email  to  his  personal  email.  He  explained  that  everyone  was  remote
+working  during  the  COVID  pandemic  and he  was  trying to  complete  an  assignment  to
+maintain the program schedule. Applicant blamed the “recent total encryption of all files”
+for  making  it  “impossible”  to  work  on  any  computer  outside  of  the  network.  Applicant
+emphasized that he “CREATED” the document at issue and that “there was NOTHING
+classified” in it. (Emphasis in original) He did not detail any of the other incidents in his
+SCA. (GX 3)
+During  his  December  2021  background  interview  with  a  DOD  investigator,
+Applicant  again  disclosed  that  he  had  received  a  written  warning  in  April  2020.  He
+described  sending  a  document  that  he  was  drafting  from  his  work  computer  to  his
+personal  email  to  continue  working  on  the  document.  The  investigator  noted  that
+Applicant “considered the document to be unclassified”  and, at the time,  was unaware
+that he was not allowed to send the document to his personal computer. He described
+later  meeting  with  his  supervisor  about  the  incident  and  being  required  to  review
+company  policy  on  handling  proprietary  information.  Afterwards,  he  claimed  to
+understand the company policy and admitted his mistake. (GX 5)
+Also  during  his  background  interview,  Applicant  stated  that  he  had  been
+employed with the company for over 40 years and that this was the “first incident of this
+nature that he  had  been  involved  in.” He did not detail the other incidents or ICRs that
+he had received. (GX 5)
+In his Answer, Applicant  stated  that  he  did not  “completely admit fault nor deny
+culpability” regarding  the  incidents from  2011  through  2018. He stated  that "[company]
+proprietary”  was  the  “de  facto”  label  for  everything  that  came  off  the  printer or  that  he
+worked  with  on  the  computer.  He  further  stated  that  he  was  “always  under  the
+assumption”  that  he  worked  in  a  “safe  and  secure  environment”  and  that  no  one  was
+“allowed  to  graze  through  the  offices  and  laboratories  (without  challenge)  to  examine
+and  take  what  they  wish.”  He  also  questioned  company  policy  as  he  stated  it  was
+“peculiar” that his company defined “properly secure” as the use of “simple office locks.”
+(Answer)
+With regard to the incidents from April through August 2020, Applicant  admitted
+the  relevant  allegations,  but  only  discussed  the  incidents  as  a  single  event.  He  stated
+that, “as time became short,” he sent documents to his personal email so that he could
+complete the task on time.  He further stated that once he was notified of the error, he
+deleted the material from his home computer that day. (Answer)
+Applicant  did  not  respond  to  the  FORM,  so  he  did  not  provide  any  further
+information to explain or mitigate his actions.

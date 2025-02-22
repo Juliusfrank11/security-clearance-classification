@@ -1,0 +1,205 @@
+After  considering  the  pleadings,  exhibits,  and  transcript,  I  make  the  following
+findings of fact.
+Applicant is a 61-year-old married father with two adult children. He has worked
+for his defense-contractor employer since August 1983. In 2010, he assumed the duties
+of  alternate  COMSEC  custodian  for  the  engineering  department  at  his  facility,  and  he
+transitioned into the role of lead COMSEC custodian by 2014. Applicant  held a Secret
+clearance from November 1993 until June 2010, when it was upgraded to  Top Secret.
+That clearance was renewed most recently in April 2015. (GEs 1, 3; AEs E-F, H; Tr. 52-
+54.) He works in a building where all employees are required to possess a minimum of
+a DOD Secret clearance (Tr. 39, 55, 67), and he has had security training on an annual
+basis over the years. (Tr. 55-56.)
+that  housed  COMSEC  equipment
+Applicant had an unblemished record for any security infractions before he  took
+on  COMSEC  custodian  duties  at  the  request  of  his  then  supervisor.  (Tr.  69,  73.)  The
+supervisor  considered  Applicant  the  best  candidate  because  of  his  reputation,  his
+administrative  skills,  and  his  integrity.  (Tr.  74.)  While  leaving  work  one  day  in  late
+August  2013,  Applicant  failed  to  spin  an  X-09  lock  on  the  door  to  a  stand-alone
+COMSEC  closed  area
+for  multiple  satellite
+communications  programs.  Then  the  alternate  COMSEC  custodian  at  his  facility,  he
+was  distracted  by  other  duties  as  he  conducted  end-of-the-day  security  checks.
+Approximately  15  minutes  after  he  left  work,  an  information  security  systems  (ISS)
+employee discovered that the door to the room was shut, but was not properly secured
+in  that  the  lock  had  not  been  spun.  A  co-worker  with  appropriate  access  to  the
+COMSEC  area  secured  the  room,  and  the  ISS  employee  contacted  Applicant,  who
+returned to work and visually inspected the area. He determined that there had been no
+attempt  at  unauthorized  access.  Applicant  and  his  supervisor  reported  the  incident  to
+his  facility  security  officer  (FSO)  the  next  day.  The  facility’s  FSO  conducted  an
+administrative inquiry into the incident and determined that no compromise of classified
+information had occurred. Under the company’s security procedures, a written report of
+the violation was issued for the “administrative” violation. Applicant was reminded of the
+proper  procedures  for  securing  closed  areas  and  of  the  company’s  security  policy
+providing  for  disciplinary  action  of  up  to  a  five-day  suspension  for  any  additional
+violation within a 12-month period. (GEs 2-3, 6; Tr. 47, 56-57, 68.)
+The  number  of  programs  requiring  COMSEC  support  increased  significantly
+starting in 2014. (Tr. 66.) As lead COMSEC custodian, Applicant had the difficult task of
+working through a new electronic keying system. He managed 12 classified COMSEC
+safes  secured  by  X-09  locks  and  handled  all  the  crypto-security  for  two  separate
+facilities for his employer while mentoring a new alternate COMSEC custodian. (Tr. 43-
+45.)  He  worked  long  hours,  including  some  weekends,  to  ensure  that  programs  met
+their  schedules.  He  presided  over  government  audits  with  “No  Findings.”  (AEs  E-F.)
+Applicant’s  annual  performance  evaluation  for  2015  shows  that  he  had  earned  the
+respect of his supervisor and peers. Applicant’s supervisor indicated that Applicant had
+done  “a  great  job  handling  the  ever  changing  requirements  for  COMSEC.”  He  gave
+Applicant an overall rating of “exceeds requirements.” (AE E.)
+Applicant continued to do an “outstanding job” as COMSEC custodian in 2016. In
+evaluating  Applicant’s  performance  for  2016,  Applicant’s  supervisor  remarked  that
+Applicant  took  his  job  very  seriously,  worked  well  with  others,  and  had  become  their
+expert  “on  the  generation,  architect,  and  maintaining  of  all  COMSEC  hardware  and
+keys.” Time and time again, Applicant worked tirelessly to meet the demands of all the
+engineers and their programs. (AE D.)
+In  March  2017,  Applicant  left  a  GSA-approved  container  in  the  COMSEC  room
+unattended and unsecured for about 15 minutes. The safe was approved for storage of
+Secret  information  and  contained  classified  COMSEC  equipment  and  combinations.  It
+was  one  of  seven  containers  approved  for  storage  of  classified  COMSEC  material
+located  within  the  COMSEC  closed  area.  Access  to  the  COMSEC  closed  area  was
+restricted  to  three  individuals  with  the  combination  and  swipe  access.  The  COMSEC
+area  was  inside  another  approved  DOD  Secret  closed  area  where  Applicant  was
+assisting  some  engineers.  The  violation  was  discovered  by  a  company  industrial
+security employee while conducting a security self-inspection. When questioned by his
+FSO about his procedures that morning, Applicant acknowledged that he had departed
+the  COMSEC  room  to  assist  some  engineers  within  the  larger  closed  area  without
+securing the safe “because he believed that since the container was located inside an
+approved closed area no action needed to occur.” (GE 4.) Applicant now does not recall
+telling  the  FSO  that  he  did  not  need  to  secure  the  safe  because  he  knew  the  proper
+procedure to secure the classified container was by spinning the X-09 locks. (Tr. 58-59.)
+He  attributes  his  security  infraction  to  “a  lot  going  on  that  day.”  (Tr.  68.)  The  FSO
+conducted  an  internal  administrative  inquiry  into  the  incident.  She  concluded  that  no
+loss,  compromise,  or  suspected  compromise  of  classified  information  was  presumed
+because no unauthorized individuals had been present, and no suspicious activity had
+occurred during the 15 minutes that the safe was unsecured and unattended. Applicant
+was  issued  a  written  warning  and  required  to  attend  a  closed-area  security  briefing
+where he was re-educated on the requirements for safeguarding classified information.
+(GEs  2,  4,  6;  Tr.  59-60.)  The  incident  was  reported  to  the  DOD  CAF  by  Applicant’s
+employer. (GE 2.)
+In  April  2017,  Applicant  informed  his  then  supervisor  that  he  could  no  longer
+handle  the  stress  of  being  the  COMSEC  manager,  given  the  volume  of  COMSEC
+material  and  having  only  one  other  employee,  the  alternate  COMSEC  manager,  to
+assist  him.  After  an  internal  audit  by  a  COMSEC  specialist  from  another  facility,  who
+questioned  why  COMSEC  responsibilities  were  being  handled  by  the  engineering
+department  when  accounting  for  COMSEC  was  a  security  function  in  the  company’s
+other facilities, Applicant’s employer decided to transfer COMSEC responsibilities from
+the  engineering  department  to  the  security  department,  and  to  increase  the  staff
+handling  COMSEC  duties.  (Tr.  40-42,  64,  72.)  It  took  the  company  several  months  to
+assign  a  COMSEC  manager,  and  a  few  more  months  to  hire  two  more  COMSEC
+employees before Applicant was relieved of his COMSEC responsibilities. (Tr. 83-84.)
+In  September  2017,  Applicant  informed  his  FSO  that  he  could  not  locate  a
+Secret-controlled cryptographic item that was within his accountability. He had recently
+conducted  an  inventory  of  approximately  1,300  items  of  COMSEC  material  in  August
+2017,  in  preparation  for  an  audit  by  a  U.S.  government  agency,  and  was  unable  to
+account for an item from a high-volume COMSEC account. During an investigation into
+the  violation  by  company  security  personnel,  it  was  discovered  that  the  item  had  not
+been sighted during any of four previous semi-annual inventories that had been signed
+off  by  Applicant  and  the  alternate  COMSEC  custodian.  Applicant  was  required  to
+physically  touch  all  pieces  of  COMSEC  hardware  during  semi-annual  inventories.  (Tr.
+42.) He knew that the Secret cryptographic item had last been seen in  February 2015.
+(GEs  2,  5-6;  AE  C;  Tr.  61-62.)  However,  he  continued  to  believe  that  the  item  was
+somewhere in the COMSEC room because he had a receipt indicating that it had been
+returned to COMSEC accountability. (GEs 2, 5; Tr. 49.) He was determined to find the
+piece  of  equipment,  which  was  about  one  square  inch  in  size  and  part  of  a  “split
+encryption  key”  that  requires  mating  to  the  second  half  of  the  key  to  load  operational
+software.  As  part  of  a  unique  electronic  system,  it  alone  is  useless  in  revealing  any
+classified  information.  (Tr.  50-51.)    He  did  not  want  to  be  the  first  employee  to  lose  a
+classified  item  at  his  worksite,  and  so  he  continued  to  search  for  the  item  without
+success. (Tr. 51.) Applicant was verbally reprimanded by his supervisor, but he was not
+otherwise disciplined for the violation. (GE 6, Tr. 63, 92.) In reporting the incident to the
+DOD CAF in late September 2017, Applicant’s employer indicated that Applicant was in
+the  process  of  being  removed  as  the  COMSEC  custodian  because  the  COMSEC
+organization was being transitioned to a function of the security department. (GE 2.)
+On  October  25,  2017,  Applicant  completed  and  certified  to  the  accuracy  of  a
+Questionnaire  for  National  Security  Positions  (SF  86).  In  response  to  an  inquiry
+concerning whether he had received a written warning, or been officially reprimanded or
+disciplined  for  misconduct  in  the  workplace,  such  as  a  security  violation,  in  the  last
+seven years, Applicant indicated that he had been disciplined or warned in May 2017 for
+“1)  Security  violation  (unsecure  container)  [and]  2)  COMSEC  account  (missing  an
+accountable item).” (GE 1.)
+Following  the  transition  of  COMSEC  custodian  responsibilities  to  the  facility’s
+security department in December 2017, Applicant began training to assume a position
+as  a  logistics  planner.  In  evaluating  Applicant’s  job  performance  for  2017,  his  now
+former supervisor indicated that the engineering team, program office, and management
+are  indebted  to  Applicant  for  all  the  late  nights  and  weekends  he  spent  as  COMSEC
+custodian to ensure the success of programs. (AE C.) The supervisor made no mention
+of  the  security  infractions  in  Applicant’s  performance  evaluation.  He  discussed  the
+incidents  with  Applicant,  who  realized  his  mistakes,  and  the  supervisor  “knew  that  it
+wasn’t going to be a systemic problem.” (Tr. 91.) In January 2018, Applicant filled in for
+the facility’s COMSEC team with no adverse incidents while the team received training
+offsite. (AE B; Tr. 104.)
+On February 5, 2018, Applicant was interviewed by an authorized investigator for
+the  Office  of  Personnel  Management  about  the  two  security  violations  in  2017.  He
+attributed  his  failure  to  spin  the  lock  on  a  classified  container  to  being  in  a  hurry.
+Concerning  the  loss  of  a  Secret  accountable  item,  Applicant  admitted  that  he  did  not
+immediately  report  that  an  item  was  missing  because  he  thought  it  would  be
+irresponsible  of  him  to  report  the  loss  before  he  had  an  opportunity  to  look  for  it.  He
+expressed  his  belief  that  it  was  lost  during  an  NSA  audit  in  August  2017  (GE  6),
+although  he  now  admits  that  he  knew  it  was  missing for some  two  years.  (Tr. 62.) He
+explained that it was a small item, approximately the size of a USB plug, and so could
+have slipped through a crack. Applicant indicated that he did not lose his clearance or
+his access, and he did not receive a written reprimand. Applicant did not recall any other
+security violations. (GE 6.)
+On  April  25,  2018,  Applicant  was  re-interviewed  by  the  OPM  investigator  and
+confronted with the details of his August 2013 violation regarding his failure to spin the
+X-09 lock at the end of the day. Applicant attributed the security infraction to being in a
+rush  and  distracted  by  work  demands.  Applicant  explained  that  he  no  longer  had
+COMSEC  custodian  duties  as  of  February  2018,  and  he  now  feels  more  comfortable
+and  less  stressed  with  his  current  level  of  responsibility  for  classified  information.  (GE
+6.)
+In  his  current  position,  Applicant  no  longer  has  any  access  to  any  containers
+approved for classified storage. He no longer works in the COMSEC storage room and
+does not have regular access to classified information. (Tr. 69.) His current job function
+requires  that  he  maintain  a  Secret  clearance.  (Tr.  101.)  He  understands  the  concern
+about the failure to timely report the missing COMSEC item and acknowledges that he
+should have reported it when he first could not find it. (Tr. 108.)
+Character references
+Applicant’s  supervisor  from  1999  through  2017  testified  for  Applicant  and  also
+provided a character reference letter. (AE H.) This supervisor retired from the company
+in  August  2018,  after  41  years  of  service  for  the  company.  (Tr.  71.)  Throughout  their
+more  than  30  years  as  co-workers,  Applicant  has  been  a  reliable  and  trustworthy
+employee.  Applicant’s  former  supervisor  attests  that  Applicant  was  promoted  to
+COMSEC  custodian  in  2014  because  of  his  consistent  high  level  of  performance  as
+alternate  COMSEC  custodian  starting  in  2010.  While  holding  COMSEC  custodian
+responsibilities,  the  company  had  several  audits  by  their  U.S.  government  customers
+and  by  internal  company  security  personnel,  all  with  favorable  results.  Applicant’s
+former supervisor considers Applicant to be one of the most security conscious people
+he has known. (AE H.) At Applicant’s hearing the supervisor testified that the COMSEC
+room was a “very, very stressful area.” (Tr. 75-76, 86.) Twelve different programs were
+“constantly under the gun, as far as time constraints and getting the work done to meet
+the obligations of the contract[s]” (Tr. 76), and the COMSEC area was understaffed. (Tr.
+81.) Regarding the transition of the COMSEC functions to the security department, the
+supervisor  explained  that  their  employer  had  an  internal  audit  from  a  COMSEC
+specialist from another of the company’s facilities, who questioned why engineering was
+in charge of COMSEC responsibilities. (Tr. 80-81.) He added that the company wanted
+Applicant to retain COMSEC duties as part of the security department. Applicant elected
+to move to engineering support. (Tr. 82.) In the supervisor’s experience, Applicant took
+his  accountability  and  security  responsibilities  very  seriously.  (Tr.  87.)  The  supervisor
+believes the violations in 2017 occurred because of Applicant’s “tremendous” workload.
+The  security  infractions  did  not  shake  his  confidence  in  Applicant’s  ability  to  protect
+classified  information.  (Tr.  88-89.)  He  blames  himself  for  not  paying  more  attention  to
+the work demands placed on Applicant as COMSEC custodian. (Tr. 86.)
+Applicant’s current supervisor has worked for the defense contractor for some 34
+years.  He  transferred  to  Applicant’s  worksite  21  years  ago  and  has  known  him  since
+that time. He was one of 12 test directors in their secure building. They “heavily taxed”
+Applicant  in  the  COMSEC  room  to  maintain  their  programs.  (Tr.  96-97.)  Applicant’s
+current  supervisor  knows  of  no  one  he  would  trust  more  with  national  security
+information than Applicant, who has shown him “nothing but respect, tremendous care,
+responsibility and [met] all of the, you know, proper traits of just a terrific employee.” (Tr.
+99.)  Applicant’s  current  supervisor  corroborated  the  significant  increase  in  COMSEC
+work between 2014 and 2017, as the company doubled the number of large programs
+from  6  to  12  during  that  time.  He  considers  it  responsible  of  Applicant  to  have
+approached his then supervisor in 2017 and told him that the job was “just too stressful.”
+(Tr.  100.)  Applicant’s  current  supervisor  is  aware  of  Applicant’s  security  violations  in
+2017. He has confidence in Applicant’s ability to handle classified information. (Tr. 102.)
+A co-worker, who has known Applicant for some 25 years, respects Applicant for
+the seriousness and attention to detail he brings to his work. He described Applicant as
+a “model employee,” who leads by example. (AE G.)
+Another  co-worker,  who  interacted  with  Applicant  on  a  daily  basis  during
+Applicant’s tenure as chief COMSEC custodian at their test site, knows Applicant as a
+golf partner outside of work. He has always found Applicant to have strong family values
+and to be “a very upright, honest, and affable person.” (AE I.)
+In December 2018, Applicant was recognized by his peers and leadership for his
+outstanding  technical  contributions  in  2018.  He  was  promoted,  his  official  title  was
+changed  to  include  “With  Honors,”  and  he  was  given  a  $1,500  cash  award  by  his
+employer.  (AE  A;  Tr.  99.)  In  evaluating  Applicant’s  annual  performance  for  2018  in
+March  2019,  Applicant’s  current  supervisor  described  Applicant’s  work  ethic  and
+commitment to the job as “second to none.” Applicant was thorough and competent in
+taking on new roles, and he took complete ownership of his tasks. (AE B.)

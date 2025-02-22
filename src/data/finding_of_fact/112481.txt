@@ -1,0 +1,72 @@
+Applicant,  60,  has  worked  for  his  current  employer,  Company  A,  a  federal
+contracting  company,  since  March  2016.  He  worked  for  his  previous  employer,
+Company  B,  another  federal  contracting  company,  for  31  years  from  1988  until
+February  2016  when  he  was  ordered  to  resign  in  lieu  of  termination.  On  February  23,
+2016,  Company  B  filed  an  adverse  information  report  in  the  Joint  Adjudication
+Personnel  System  (JPAS),  alerting  the  DOD  CAF  that  Applicant  attempted  to  retain
+Company  B  propriety  information  related  to his employment  without  authorization,  and
+that  he  made  deliberately  false  statements  to  a  Company  B  investigator.  Applicant
+completed  a  security  clearance  application  in  August  2016,  disclosing  that  he  was
+disciplined by Company B for having “backup disks that contained company proprietary
+information.”  He  disclosed  that  after  resigning  and  providing  two-weeks’  notice,  that
+Company  B  released him  two  days  early,  informing  him by  letter after the fact  that  he
+resigned  in  lieu  of  termination.  According  to  the  August  2016  security  clearance
+application, the DOD granted Applicant security clearance eligibility in 2013. It is unclear
+from the record if he held security clearance eligibility before 2013. (AE 4-5.)
+In February 2016, Applicant accepted an offer of employment from Company A.
+He  tendered  his  resignation  to  Company  B  on  February  18,  2016.  Following  internal
+protocol,  the  facility  security  officer  (FSO)  informed  Company  B’s  counterintelligence
+group that Applicant was going to work for a competitor, Company A, in a position in the
+same technology area. After determining that Applicant had critical intellectual property
+knowledge and access, the counterintelligence group performed a due-diligence review
+to identify the movement of any Company B data to external media or non-Company B
+email addresses. The review revealed that Applicant transferred over 93,000 Company
+B files, including 25,000 related to a project that Applicant worked on between 1994 and
+2013,  to  two  personal  storage  devices.  While  it  is  unclear  when  Applicant  started
+transferring  these  files,  Company  B  noted  that  48,600  of  the  files  were  transferred
+between  January  and February  2016.  The downloaded  information  included  Company
+B  proprietary
+foreign  military
+information,  and  sensitive,  unclassified  DOD  program  information.  Company  B
+determined that use or disclosure of the information by Applicant could cause potential
+loss of competitive advantage to Company B and could cause potential damage to U.S.
+interests. (GE 5-6, 10-11.)
+technical  and  business-related,
+information,  both
+On February 19, 2016, a Company B counterintelligence investigator interviewed
+Applicant.  The  FSO  and  a  human  resources  representative  were  also  present  for  the
+interview.  At  the  beginning  of  the  interview,  the  investigator  had  Applicant  review
+Company B’s policy regarding the ownership and protection of proprietary information,
+as well as Company’s B policy on internal investigations. According to the investigative
+report,  Applicant  signed  an  acknowledgement  certifying  that  he  did  not  retain  any
+Company  B  proprietary  information.  During  the  interview,  Applicant  repeatedly  denied
+transferring Company B data to personal devices, even when asked about the specific
+devices he used. He admitted transferring the files only after the investigator confronted
+him  with  direct evidence.  He  explained  that the  downloaded files  represented his life’s
+work  and  that  he  wanted  to  have  it  available  to  him  in  his  role  at  Company  A  for
+personal reference only. (GE 7-10.)
+At  Company  B’s  direction,  Applicant  retrieved  the  two  storage  devices  from  his
+home  and  surrendered  them  for  examination.  He  was  then  placed  on  administrative
+leave  pending  a  forensic  review  of  the  devices  and  a  decision  from  management  on
+how  to  handle  the  situation.  A  forensic  review  of  the  devices  revealed  that  Applicant
+transferred over 200,000 files, the majority of which belonged to Company B, including
+over 25,000 related to a specific program. The forensic review also seemed to suggest
+Applicant was transferring data to personal devices as early as 2012. (GE 7-10.)
+The  investigation  confirmed  that  Applicant  transferred  Company  B  proprietary
+and sensitive data to personal devices in violation of the company’s IT policy regarding
+the introduction  and storage of Company B data on unauthorized devices. On February
+24, 2016, Company B issued Applicant an order requiring his immediate resignation in
+lieu  of  termination.  Company  B  also  sent  a  letter  to  Company  A  informing  them  of
+Applicant’s actions and to place Company A on notice not to make use of any Company
+B proprietary information provided to them by Applicant. Company B referred the matter
+to  the  FBI  for  further  investigation.  The  FBI  referred  the  case  to  the  U.S.  Attorney’s
+Office,  seeking  a  warrant  to  search  Applicant’s  home  for  additional  materials  and  for
+prosecution under 18 U.S.C. ¶ 1832, “Theft of Trade Secrets.” The U.S. Attorney’s office
+declined to pursue the case. (GE 10-11.)
+Applicant  admits  he  lied  during  the  Company  B  interview,  but  denies  he
+downloaded  the  files  for  any  nefarious  purposes.  In  his  response  to  the  FORM,
+Applicant explained that he began blindly backing up all of his professional files in 2000
+to preserve the work he generated for his personal use. He lied during the Company B
+interview  because  he  was  scared.  Applicant  considers  himself  an  honest  person  who
+exhibited  extremely  poor  judgment  in  violating  Company  B’s  policies.  He  vows  not  to
+violate his employer’s rules in the future. (GE 3-4; AE A.)

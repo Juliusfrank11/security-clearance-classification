@@ -1,0 +1,79 @@
+Applicant is a 33-year-old single man. He earned an associate’s degree in 2009, and
+a bachelor’s degree in 2013. (Tr. 28) For the past 12 years, he has been working in the
+information technology field. (Tr. 12, 53) Most recently, since 2018, he has been working
+for a defense contractor as an information technology specialist. (Tr. 48) He currently holds
+public trust access to sensitive information. (Tr. 66)
+Applicant is a native of Cameroon. He has been a naturalized citizen of the United
+States since 2011.  (Tr. 37) He immigrated to the United States when he was 11 years old
+and spent the remainder of his childhood living with his uncle, a U.S. citizen. (Tr. 32, 43) In
+addition to raising Applicant after he immigrated to the United States, his uncle helped
+finance his education. (Tr. 43) When Applicant first moved to the United States, it was very
+expensive to make long-distance calls to Cameroon. (Tr. 39) Consequently, Applicant’s
+parents seldom talked to him. Similarly, they did not often travel to the United States to visit
+him. Applicant did not hear from his parents or see them for nine years after he relocated.
+(Tr. 39) Ultimately, although Applicant’s relationship with his parents is cordial, he has more
+of a parental relationship with his uncle than his parents. (Tr. 43)
+Currently, Applicant’s parents have permanent U.S. residence status. (Tr. 43) They
+moved here in 2017.  Later, Applicant’s mother returned to Cameroon. She owns a store
+that sells baby products. (Tr. 40) Typically, Applicant talks to his mother twice per month.
+Since the pandemic, he has been talking to her daily. (Tr. 43) Applicant’s parents remain
+married. Applicant’s mother travels to the United States approximately two to three times
+per year to visit Applicant and his father. (Answer to Amendment to the SOR, at 2; Tr. 41)
+Applicant last travelled to Cameroon to visit his mother in 2013. (GE 1 at 38)
+When Applicant’s father lived in Cameroon, he owned a cleaning business. (Tr. 39)
+He suffered a massive, debilitating stroke in 2017. (Tr. 40) Partially paralyzed and non-
+verbal, it is unlikely that he will return to Cameroon.
+Applicant has approximately $27,000 invested in retirement accounts. (Tr. 35) He
+owns no assets in Cameroon. (Tr. 36)
+The United States has had diplomatic relations with Cameroon since Cameroon’s
+independence in 1960. (AN I at 1) Cameroon “plays a key role in regional stability and [is]
+the strongest regional partner in countering terrorism” in the region. (AN I at 1) Cameroon
+and the United States are closely engaged in issues that address democracy, governance,
+regional security, environmental protection, health, and economic development. (AN I at 2)
+Cameroon has struggled to contain terrorism, particularly in its rural, remote region in the
+north, where Boko Haram is active, borders are porous, and there is a political insurgency.
+(AN II at 1) Applicant’s mother does not live near this area.
+In July 2014, Applicant began a job as a help desk administrator. His duties included
+maintaining the server and monitoring the network for malware. (GE 2 at 7) Applicant’s
+career goal was to earn a promotion to work on cyber-security projects. (GE 2 at 7; Tr. 49)
+While  working  at  this  job,  Applicant  was  working  towards  earning  a  cyber-security
+certification.
+On  December  19,  2014,  Applicant’s  employer  identified  suspicious  activity  on
+Applicant’s computers. Specifically, an analysis of one of Applicant’s computers indicated
+that he attempted to initiate a peer-to-peer connection with a remote host outside of his
+employer’s network. This type of activity was prohibited because of its potential to bypass
+the employer’s security measures. (GE 2 at 7) Further review of Applicant’s computer use
+“discovered attempts to obscure Internet activity by using an anonymous proxy that would
+hide the destination from [the employer’s] IT security systems, as well as frequent visits to
+questionable download websites as far back as September 2015.” (GE 2 at 7)  Moreover,
+Applicant was visiting websites that provided tutorials regarding how to crack passwords
+and conduct network attacks, and that he had downloaded a copy of pirated software onto
+the network. (GE 2 at 9) After an investigation, Applicant was terminated for violation of his
+employer’s Internet use policy. (Answer at 1-2)
+Applicant  admits  that  he  demonstrated  bad  judgment  accessing  some  of  his
+“personal  stuff”  on  his  work  computer.  (Tr.  58)  However,  he  contends  that  he  visited
+hacking-related websites for educational and professional development, and that cyber-
+security experts need to understand how hackers operate in order to defend against them.
+(Answer at 2; Tr. 56) He characterized this concept as “ethical hacking,” and testified that
+he  was  earning  an  online  certification  in  this  field  while  he  was  working  for  his  former
+employer.  (Tr.  54)  Applicant  contends  that  his  employer  allowed  him  to  use  the  office
+computer for studying and practical assignments related to his certification during down
+time. Also, Applicant testified that he made a mistake by not memorializing this permission
+in writing. (Tr. 57-58; 119)
+There were occasions on Applicant’s job when information technology specialists
+might  need  to  visit  websites  related  to  hacking  for  research,  or  download  password-
+cracking software to gain access to a system where a password was lost. These situations
+were  exceedingly  rare.  (GE  2  at  8)  Applicant’s  employer  characterized  the  volume  of
+hacking-related content combined with the absence of any specific project that required
+that  type  of  information  “disconcerting,”  and  characterized  Applicant’s  behavior  as  a
+demonstration  of  “incredibly  poor  judgment.”  (GE  2  at  9)  Subsequently,  Applicant  was
+terminated from his job.
+After Applicant’s termination, he completed the certificate in ethical hacking that he
+had been working on while employed. (Tr. 69) In the past five years, he has completed
+multiple trainings, including an insider threat training and two cybersecurity awareness
+trainings. (AE B – AE E) He took these courses to ensure that mistakes such as those
+which led to his termination in 2015, do not recur. (Answer at 2)
+Applicant informed all of his subsequent employers of the circumstances related to
+the 2015 termination. He is highly respected on the job. According to a coworker, he is “a
+very trustworthy, hardworking, diligent individual,” whose knowledge of cybersecurity and
+the rules that govern cybersecurity is unparalleled. (AE F)

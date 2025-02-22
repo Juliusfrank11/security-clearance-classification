@@ -1,0 +1,128 @@
+Applicant  is  a  53-year-old  employee  who  is  seeking  eligibility  for  access  to
+classified  information  for  his  job  with  a  federal  contractor.  He  works  part-time  as  a
+technician  at  a  military  installation.  He  has  been  so  employed  since  August  2019,
+although he noted in his Answer that he and all other part-time employees were off work
+from December 11, 2020, through January 17, 2021. Before his current job, he worked
+as a part-time truck driver for four different firms for several years during 2012-2019. He
+is married and has one adult child.
+Applicant’s  employment  history  includes  honorable  military  service.  He  initially
+served  in  the  Army  National  Guard  during  1987-1989.  Next  he  was  a  Sailor  on  active
+duty  with  the  Navy  during  1989-1994.  He  reported  that  he  held  a  security  clearance
+while in the Navy. (Exhibit 4 at Section 25) He then served in the Navy Reserve during
+1994-1998.
+The  SOR  alleges  a  history  of  financial  problems  consisting  of  11  delinquent
+accounts  as follows:  eight  student  loans  in  collection  for  a  total  of  about  $31,305;  two
+collection accounts  in amounts of  $583 and $396;  and one medical collection account
+for  $256.  In  addition  to  his  admissions,  the  delinquent  accounts  are  established  by
+credit reports from December 2019 and March 2021. (Exhibits 6 and 7)
+Applicant disclosed his delinquent federal student loans  when he completed his
+2019 security clearance application. (Exhibit 3 at Section 26) He reported an estimated
+balance of $55,576. He stated he defaulted on the loans due to an inability to satisfy the
+debts  because  he  was  providing  for his family.  He  explained  the  indebtedness  was  in
+repayment  via  wage  garnishment  that  withheld  15%  of  his  disposable  pay  every  pay
+period until the balance is paid in full. The student loans stem from his attendance at a
+state university more than ten years ago. (Exhibit 5 at 2)
+In his 2021 Answer to the SOR, Applicant confirmed the loans were still subject
+to the wage garnishment. He also attached a one-page document, a copy of IRS Form
+1089-E,  which  shows  the  sum  of  $6,103  in  student  loan  interest  was  received  by  the
+lender or creditor during tax year 2019.
+In his reply to the FORM, Applicant explained that after completing his studies at
+the state university, payments for the student loans were in deferment, forbearance, or
+postponed for several years. He stated that he was repaying the loan indebtedness via
+the  wage  garnishment.  The  only  documentation  he  provided  concerning  the  student
+loans were two documents from December 2018; both are from the third-party collection
+agency assigned to collect the student loans; and, taken together, the documents show
+a  total  amount  owed  of  $24,296  as  of  December  2018.  (Exhibit  A)  Applicant  did  not
+provide  a  current  account  statement  for  the  student  loans,  nor  did  he  provide  other
+paperwork to  document  a  payment  history for the  loans.  Given  these  circumstances,  I
+am unable to determine the current amount owed, but there is substantial evidence to
+find  Applicant’s  earned  income  is  subject  to  wage  garnishment  for  payment  of  his
+defaulted student loans.
+Applicant also stated he was able to repay the three collection accounts without
+wage  garnishment,  but  he  did  not  provide  any  supporting  documentation  concerning
+those debts. I find that these debts are not resolved.
+Law and Policies
+This  case   is  adjudicated   under  Executive   Order  (E.O.)  10865,  Safeguarding
+Classified  Information  within Industry  (February  20, 1960), as amended; Department of
+Defense   Directive   5220.6,  Defense   Industrial  Personnel  Security  Clearance   Review
+Program   (January   2,  1992),  as  amended   (Directive);  and  the   National  Security
+Adjudicative  Guidelines  for Determining  Eligibility for Access to  Classified  Information  or
+Eligibility to Hold a  Sensitive Position  (AG), effective June  8, 2017.
+It  is  well-established  law  that  no  one  has  a  right  to  a  security  clearance.1  As
+noted by the Supreme Court in Department of the Navy v. Egan, “the clearly consistent
+standard indicates that security clearance determinations should err, if they must, on the
+side  of  denials.”2   Under  Egan,  Executive  Order  10865,  and  the  Directive,  any  doubt
+about  whether  an  applicant  should  be  allowed  access  to  classified  information  will  be
+resolved in favor of protecting national security. In Egan, the Supreme Court stated that
+the burden of proof is less than a preponderance of evidence.3  The Appeal Board has
+1   Department  of  the  Navy   v.  Egan,  484   U.S.  518,  528   (1988)   (“it  should  be   obvious   that  no   one   has   a
+‘right’  to a security  clearance”); Duane v. Department  of Defense, 275 F.3d  988,  994 (10th  Cir. 2002)  (no
+right to a security clearance).
+484 U.S. at  531.
+3  484 U.S. at  531.
+followed  the  Court’s  reasoning,  and  a  judge’s  findings  of  fact  are  reviewed  under  the
+substantial-evidence standard.4
+There is no  presumption  in favor of  granting, renewing, or continuing  eligibility  for
+access  to   classified   information.5   Under  the   Directive,  the   parties   have   the   following
+burdens:  (1)  Department  Counsel  has   the   burden   of  presenting   evidence   to   establish
+facts alleged  in the  SOR that have  been  controverted; (2) an  applicant is responsible for
+presenting   evidence   to   refute,  explain,  extenuate,   or   mitigate   facts  that   have   been
+admitted  or proven;  and  (3) an  applicant has the  ultimate  burden  of persuasion  to  obtain
+a  favorable clearance  decision.6
+Discussion
+Under Guideline  F for financial considerations,  the  suitability  of  an  applicant may
+be   questioned   or  put   into   doubt  when   that  applicant  has  a   history   of   excessive
+indebtedness or financial problems or  difficulties.  The  overall  concern  is  set forth  in AG
+¶ 18  as follows:
+Failure  or  inability   to   live   within  one’s  means,  satisfy   debts,   and   meet
+financial  obligations  may   indicate   poor  self-control,  lack  of   judgment,   or
+unwillingness  to   abide   by   rules   and   regulations,   all   of  which  can   raise
+questions  about  an   individual’s  reliability,  trustworthiness,  and   ability   to
+protect classified  or sensitive  information. . .  .
+The   concern   is  broader  than   the   possibility   that  a   person   might  knowingly
+compromise   classified   or  sensitive   information   to   obtain   money   or  something   else   of
+value.  It   encompasses  concerns  about  a   person’s  self-control,  judgment,   and   other
+important qualities. A  person  who  is financially irresponsible  may  also be  irresponsible,
+unconcerned,  or  negligent  in  handling   and   safeguarding   classified   or  sensitive
+information.
+In   analyzing   the   facts   of   this  case,  I   considered   the   following   disqualifying   and
+mitigating  conditions  as most pertinent:
+AG ¶  19(a) inability to satisfy debts;  and
+AG ¶ 19(c) a  history of not meeting  financial obligations.
+The   evidence   supports  a   conclusion   that   Applicant   has  a   history   of  financial
+problems  that   is  sufficient  to   raise   a   security   concern  under  Guideline   F.   The
+disqualifying  conditions noted  above apply here.
+4 ISCR Case No. 01-20700 (App. Bd. Dec. 19, 2002) (citations omitted).
+ISCR Case No. 02-18663 (App. Bd. Mar. 23, 2004).
+6 Directive, Enclosure 3, ¶¶  E3.1.14  and E3.1.15
+Applicant  has  not  sufficiently   explained,  extenuated,  or  mitigated   his  history   of
+financial  problems,  which   are  unresolved   and   ongoing.  I  have   reviewed   all   of   the
+mitigating   conditions  under  Guideline   F  and   conclude   none   are  fully   applicable.
+Applicant  has  made   some   progress  by   repaying   the   defaulted   student  loans  via  wage
+garnishment,  but that is not considered a  truly  voluntary  means of  repayment.  With  that
+said,  he  failed  to  provide  adequate  documentation  to  show  the  total  amount  he  currently
+owes on  the  defaulted student loans, nor did he  establish  a paper record of  his payment
+history  for the  loans. Likewise,  he  failed  to  provide  documentation  showing  any  forward
+progress to  resolve the three relatively minor collection  accounts.
+In deciding this case, I considered Applicant’s honorable military service and his
+multiple  part-time  jobs  going  back  to  2012,  which  no  doubt  limited  his  ability  to  repay
+delinquent  debt  while  at  the  same  time  meeting  his  current  financial  obligations.
+Nevertheless, Applicant has not done enough to mitigate the security concern stemming
+from his history of financial problems.
+Following Egan and the clearly consistent standard, I have doubts and concerns
+about  Applicant’s  reliability,  trustworthiness,  good  judgment,  and  ability  to  protect
+classified  or  sensitive  information.  In  reaching  this  conclusion,  I  weighed  the  evidence
+as  a  whole  and  considered  if  the  favorable  evidence  outweighed  the  unfavorable
+evidence or vice versa. I also considered the whole-person concept. I conclude that he
+has not met his ultimate burden of persuasion to show that it  is clearly consistent with
+the national interest to grant him eligibility for access to classified information.
+The formal findings on the SOR allegations are:
+Paragraph  1, Guideline  F:
+Against Applicant
+Subparagraphs  1.a-k:
+Against Applicant
+Conclusion
+It is not clearly consistent with the national interest to grant Applicant eligibility for
+access to classified information. Eligibility denied.
+Michael H. Leonard
+Administrative Judge

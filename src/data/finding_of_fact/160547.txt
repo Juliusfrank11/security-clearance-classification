@@ -1,0 +1,138 @@
+Applicant  is  a  65-year-old  employee  who  is  seeking  eligibility  for  access  to
+classified information for a job with a federal contractor.  He is married  with three adult
+children.  He  and  his  spouse  have  lived  at  the  same  residence  since  1990.  His
+educational history includes a diploma from an electronics school awarded in 1986.
+Applicant’s  employment  history  includes  military  service  (inactive  reserve)  with
+the  U.S.  Air  Force  during  1973-1974  and  1975-1979.  He  had  a  full-time  job  as  a  test
+engineer from 1999 to 2008. In mid-2008, he began a period of self-employment when
+he operated a photography business. He ran that business for about six years until he
+closed  the  business.  He  voluntarily  dissolved  the  corporate  form  of  his  business  in
+December 2013. (Attachment 1 to Answer) He had a full-time job as a driver from April
+2014  to  March  2015.  He  had  a  full-time  job  as  a  test  technician  for  several  months
+during  2015.  He  had  a  full-time  job  as  test  engineer from  July 2015  to  at  least  March
+2020.
+The  SOR  alleges  a  history  of  financial  problems  consisting  of  13  delinquent
+accounts in amounts ranging from $1,094 to $11,004 for a total of about $66,948. The
+delinquent  accounts  consist  of  two  unpaid  judgments,  seven  collection  accounts,  and
+four  charged-off  accounts.  He  disclosed  a  single  delinquent  financial  account  in  his
+security clearance application. (Exhibit 2 at Section 26)
+In addition to Applicant’s admissions in his answer to the SOR, the collection and
+charged-off accounts are established by a March 25, 2020 credit report. (Exhibit 5) The
+two  unpaid  judgements  are  established  by  court  records,  which  show  the  judgments
+were  taken  in  2016  and  2017  against  Applicant  individually  as  well  as  against  his
+photography  business  in  one  instance.  (Exhibits  3  and  4)  A  more recent  May  8,  2021
+credit  report  shows  that  the  accounts  remain  delinquent  other  than  a  $1,348  medical
+collection account (SOR ¶ 1.l), which was paid in May 2021. (Exhibit 6)
+Applicant  attributed  his  financial  problems  or  difficulties  to  a  business  failure.
+(Answer;  Exhibit  7)  He  asserted  in  his  answer  to  the  SOR  that  several  of  the  debts
+belong to his photography business, which operated as an S corporation, and therefore
+he  was  not  personally  responsible  for  the  indebtedness.  He  also  claimed  that  he  was
+still trying to repay the debts although he has limited liability. Other than the document
+showing dissolution of his photography business in December 2013, he did not present
+documentation  to  show  the  debts  were  incurred  by  his  business  or  that  his  business
+was  solely  liable  for  the  debts.  As  I  read  the  two  credit  reports,  the  collection  and
+charged-off accounts are individual accounts as well as a joint account in one instance.
+(Exhibits  5  and  6)  Likewise,  he  did  not  present  documentation  in  support  of  his  claim
+that he has made payments on the debts. Given these circumstances, I find that 12 of
+the 13 delinquent accounts in the SOR are wholly unresolved.
+Law and Policies
+This  case  is  adjudicated  under  Executive  Order  (E.O.)  10865,  Safeguarding
+Classified Information within Industry (February 20, 1960), as amended; Department of
+Defense  Directive  5220.6,  Defense  Industrial  Personnel  Security  Clearance  Review
+Program  (January  2,  1992),  as  amended  (Directive);  and  the  National  Security
+Adjudicative Guidelines for Determining Eligibility for Access to Classified Information or
+Eligibility to Hold a Sensitive Position (AG), effective June 8, 2017.
+It  is  well-established  law  that  no  one  has  a  right  to  a  security  clearance.1  As
+noted by the Supreme Court in Department of the Navy v. Egan, “the clearly consistent
+standard indicates that security clearance determinations should err, if they must, on the
+side  of  denials.”2  Under  Egan,  Executive  Order  10865,  and  the  Directive,  any  doubt
+about  whether  an  applicant  should  be  allowed  access  to  classified  information  will  be
+resolved in favor of protecting national security. In Egan, the Supreme Court stated that
+the burden of proof is less than a preponderance of evidence.3  The Appeal Board has
+followed  the  Court’s  reasoning,  and  a  judge’s  findings  of  fact  are  reviewed  under  the
+substantial-evidence standard.4
+There is no presumption in favor of granting, renewing, or continuing eligibility for
+access  to  classified  information.5  Under  the  Directive,  the  parties  have  the  following
+burdens:  (1)  Department  Counsel  has  the  burden  of  presenting  evidence  to  establish
+facts alleged in the SOR that have been controverted; (2) an applicant is responsible for
+presenting  evidence  to  refute,  explain,  extenuate,  or  mitigate  facts  that  have  been
+1   Department  of  the  Navy   v.  Egan,  484   U.S.  518,  528   (1988)   (“it  should  be   obvious   that  no   one   has   a
+‘right’  to a security  clearance”); Duane v. Department  of Defense, 275 F.3d  988,  994 (10th  Cir. 2002) (no
+right to a security clearance).
+2 484 U.S. at 531.
+3 484 U.S. at 531.
+4 ISCR Case No. 01-20700 (App. Bd. Dec. 19, 2002) (citations omitted).
+5 ISCR Case No. 02-18663 (App. Bd. Mar. 23, 2004).
+admitted  or proven;  and  (3) an  applicant has the  ultimate  burden  of persuasion  to  obtain
+a  favorable clearance  decision.6
+Discussion
+Under Guideline  F for financial considerations,  the  suitability  of  an  applicant may
+be   questioned   or  put   into   doubt  when   that  applicant  has  a   history   of   excessive
+indebtedness or financial problems or difficulties.  The  overall  concern  is  set forth  in AG
+¶ 18  as follows:
+Failure  or  inability   to   live   within  one’s  means,  satisfy   debts,   and   meet
+financial  obligations  may   indicate   poor  self-control,  lack  of   judgment,   or
+unwillingness  to   abide   by   rules   and   regulations,   all   of  which  can   raise
+questions  about  an   individual’s  reliability,  trustworthiness,  and   ability   to
+protect classified  or sensitive  information. . .  .
+The   concern   is  broader  than   the   possibility   that  a   person   might  knowingly
+compromise   classified   or  sensitive   information   to   obtain   money   or  something   else   of
+value.  It   encompasses  concerns  about  a   person’s  self-control,  judgment,   and   other
+important qualities. A  person  who  is financially irresponsible  may  also be  irresponsible,
+unconcerned,  or  negligent  in  handling   and   safeguarding   classified  or  sensitive
+information.
+In   analyzing   the   facts  of   this  case,  I   considered   the   following   disqualifying
+conditions  as most pertinent:
+AG ¶  19(a) inability to satisfy debts;  and
+AG ¶ 19(c)  a  history of not meeting  financial obligations.
+The   evidence   supports  a   conclusion   that   Applicant   has  a   history   of  financial
+problems  or difficulties   that   is  sufficient  to   raise   a   security   concern  under  Guideline   F.
+Substantial  evidence   shows  Applicant   has   more  than   $65,000   in   unpaid  judgments,
+collection   accounts,   and   charged-off   accounts,   which  is  not  a   minor  or  trivial  amount.
+The disqualifying  conditions noted above apply.
+An   applicant  lives  in   the   real  world   and   can   expect   real-world   problems.  The
+security  clearance  process recognizes that bad  things can   happen  to  good  people and
+has  a   certain  tolerance  for the   possibility   of  human   error   and  honest  mistakes.  But  an
+applicant  is   still   expected   to   keep   their   house   in   reasonable   order.   In   financial   cases,
+keeping  their  house  in  order includes providing  a  reasonable amount of  documentation
+in support of  their  case  in order to  show  whatever steps and  remedial actions they  are
+taking   to   resolve   their   financial  problems.   The   security   clearance   process,  like   other
+large  bureaucratic institutions such  as banks, hospitals, and insurance  companies, does
+not run on word-of-mouth. It runs on documentation.
+Directive, Enclosure 3, ¶¶  E3.1.14  and E3.1.15
+Applicant  has  not  sufficiently   explained,  extenuated,  or  mitigated   his  history   of
+financial  problems,  which  are  unresolved   and   ongoing.  I  have   reviewed   the   mitigating
+conditions  under Guideline   F and   conclude   none   are fully   applicable.  In   particular,  the
+mitigating   condition   at   AG  ¶   20(b),  concerning   circumstances  largely   beyond   one’s
+control,  does  not  fully  apply. Certainly, the  business  failure  in  2013 was a  circumstance
+largely   beyond   his  control.  Nevertheless,   he   has   not  acted   responsibly   under  the
+circumstances.  First,  more   than   five   years  have   passed   since   the   business   failure  in
+2013.  He  has  had   a   reasonable  amount  of   time   to   address  his  indebtedness  in  a
+comprehensive   fashion,  such   as  settlement   agreements,  repayment   arrangements,  or
+perhaps bankruptcy. Second, although  his claims  seem  plausible, he  has not provided
+supporting  documentation  to  establish  his claims of  corporate  indebtedness or proof  of
+payment. Accordingly, he  does  not receive  the  benefit of mitigation  under AG  ¶  20(b) or
+any of the other mitigating conditions under AG ¶ 20.
+Following  Egan  and  the  clearly  consistent standard, I have  doubts and  concerns
+about  Applicant’s  reliability,  trustworthiness,  good   judgment,  and   ability   to   protect
+classified   or  sensitive   information.   In   reaching   this  conclusion,  I  weighed   the   evidence
+as  a   whole  and   considered   if   the   favorable  evidence   outweighed   the   unfavorable
+evidence  or vice versa. I also considered  the  whole-person  concept.  In  doing  so, I gave
+weight  to   his  honorable  military   service  for  which  I  have   respect  and   appreciation.  I
+conclude  that he  has not met his  ultimate  burden  of  persuasion  to  show  that it  is clearly
+consistent  with   the   national  interest  to   grant  him   eligibility   for  access  to   classified
+information.
+The  formal findings on  the SOR allegations are:
+Paragraph  1, Guideline  F:
+Against  Applicant
+Subparagraphs  1.a  -- k:
+Subparagraph  1.l:
+Subparagraph  1.m:
+Against  Applicant
+For Applicant
+Against Applicant
+Conclusion
+It is not  clearly  consistent  with  the  national interest  to  grant Applicant eligibility  for
+access to classified information. National security eligibility  denied.
+Michael H. Leonard
+Administrative Judge

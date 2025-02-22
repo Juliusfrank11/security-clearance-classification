@@ -1,0 +1,50 @@
+The  Appeal  Board  noted  that  the  2013  Federal  tax  transcript  submitted  by
+Applicant contained the following entries near the top of the page:
+RETURN DUE DATE OR RETURN RECEIVED DATE (WHICHEVER IS LATER) Apr. 15, 2014
+May 12, 2014
+PROCESSING DATE
+However, the transcript also contained the following entries further down on the page:
+CODE  EXPLANATION OF TRANSACTION
+150
+Tax return filed
+CYCLE
+2014705
+DATE
+5-12-2014
+AMOUNT
+$5,798
+The apparent conflict between the first line, reflecting that the return was received on or
+before April 15, 2014,  and  the  last  line,  reflecting  that  the  return was  filed  on  May  12,
+2014, was the basis for the Appeal Board’s decision to remand the case.
+Without objection from either party, I have taken administrative notice of the portion
+of Section 8A of the IRS Master File Codes pertaining to Transaction Code 150, which
+was cited in footnote 2 of the Appeal Board decision. The relevant portion of the Master
+File Codes is attached to the record. (Remand Exhibit V.)
+In  my  original decision,  I  interpreted  the  second  “tax  return filed” entry  near the
+bottom of the page, below the reference to Code 150, as the actual date of filing. However,
+my review of the Master File Codes has convinced me that the entry on the first line is the
+date on which the return was due or received, whichever is later, and the second entry
+under Code 150 is the date on which the tax return was processed and the amount of tax
+due  was  determined. Accordingly,  I  have  reconsidered and  revised  my findings of fact
+pertaining to the dates on which Applicant filed his federal tax returns for 2013 through
+2016.
+My original findings of fact regarding Applicant’s tax filings are set out below:
+IRS tax transcripts reflect that Applicant’s 2013 return was filed late on May
+12, 2014, and there is no indication that an extension of time was granted
+for this return. A six-month extension of time to file was granted for the 2014
+return, and it was filed in November 2015, about a month after the due date.
+A six-month extension of time to file was granted for the 2015 return, and it
+was filed on December 5, 2016, about two months after the due date. The
+2016 return was filed late on May 29, 2017, and there is no indication that
+an extension was granted for this return. (FORM Item 6 at 34-39.)
+I have reconsidered the above findings of fact after reviewing the IRS Master File
+Codes pertaining to Transaction Code 150. My revised findings of fact on reconsideration,
+in place of the above paragraph, are as follows:
+The tax transcripts for 2013 reflect that Applicant timely filed his return on
+April  15,  2014;  that  he  had  a  six-month  extension  for  2014  and  filed  his
+return  on  October  19,  2015,  four  days  late;  that  he  had  a  six-month
+extension for 2015 and filed his return on October 17, 2016, two days late;
+and that he timely filed his 2016 return on April 15, 2017.
+I  adhere  to  and  incorporate  by  reference  the  remaining  findings  of  fact  in  my
+original decision, including the findings regarding Applicant’s two Chapter 7 bankruptcies,
+his tax debts, and the findings of fact regarding the allegations under Guideline G.

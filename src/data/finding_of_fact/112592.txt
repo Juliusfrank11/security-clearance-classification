@@ -1,0 +1,101 @@
+Applicant  is  a  34-year-old  personnel  security  representative  for  a  defense
+contractor, employed since 2008. She was awarded a bachelor’s degree in 2006 and a
+master’s degree in 2012. She is married and has no children. She has held a security
+clearance since 2008.
+The SOR alleges Applicant had four security infractions from 2008 to 2017. She
+admitted the allegations, with explanations. In 2008, while new to the company, Applicant
+inadvertently carried a camera in her handbag into a closed area where she worked. She
+sat at her desk, and was looking through her handbag when she discovered the camera.
+At  the  time,  cameras,  but  not  cell  phones,  were  prohibited  in  the  space.  The  camera
+remained  off,  and  Applicant  immediately  showed  the  camera  to  her  security  manager.
+The company reported that no classified information was put at risk in the incident.
+In 2015, Applicant inadvertently scanned two program access requests (PAR) into
+a computer system. The PAR is unclassified but contains sensitive personal information.
+Applicant and another employee, both new to the position, were tasked to scan thousands
+of PARs as a group, into a computer system. The employees were not required to review
+each document for sensitive information, but a random check was done. After the PARs
+were  entered  into  the  computer  system,  Applicant  noticed  two  PARs  with  sensitive
+information that should not have been scanned, and reported it to her security manager.
+Applicant’s supervisor, the company’s security manager, testified that the incident was
+not Applicant’s fault, rather, she completed the task as directed and could not have known
+the two particular PARs in the stack of PARs held sensitive information. The incident was
+reported and investigated as an infraction so that it could be properly documented, but no
+loss or compromise of sensitive information was found.
+In 2016, Applicant was again tasked to scan documents into a computer system,
+but to redact with a black marker, sensitive, unclassified data on some documents before
+scanning them. According to Applicant’s security manager, Applicant followed directions
+exactly  as  tasked,  but  noticed  that  some  redacted  documents  still  showed  information
+through the redaction after scanning. Again, the security manager testified that Applicant
+was not at fault for the incident, but that she followed directions exactly as tasked, and
+Applicant reported the incident as soon as it was discovered. The company’s method of
+redaction was changed. Again, the incident was reported and investigated as an infraction
+so  that  it  could  be  properly  documented,  but  no  loss  or  compromise  of  sensitive
+information was found.
+In  2017,  Applicant  allowed  an  unauthorized  individual  into  a  classified  space.
+Applicant was tasked to provide a classified security briefing to new employees. She was
+provided  a  classified  cover  sheet  from  the  government  client,  listing  employees  to  be
+briefed. The cover sheet identified all listed employees as cleared, but the underlying PAR
+for one of the employees was “disapproved” and should not have appeared on the cover
+sheet. Applicant reviewed the cover sheet, but did not realize that one employee listed
+was disapproved on his PAR. Applicant conducted the brief, but afterward she found that
+the  cover sheet misidentified  the  employee as  approved for the brief  and  reported the
+incident  to  her  supervisor.  The  employee  was  eventually  approved  for  the  brief.  The
+incident was referred to the on-site Air Force Office of Special Investigations (OSI) agent,
+who testified on behalf of Applicant. The OSI agent indicated that the government client
+misidentified the employee, and that the improper briefing was not the fault of Applicant.
+He  has  worked  with  Applicant  on  a  regular  basis  and  believes  she  is  honest  and
+trustworthy. He unequivocally recommends Applicant retain her security clearance.
+Applicant acknowledged the security incidents and took responsibility for all of the
+incidents, despite the fact that three of the four incidents were outside of her responsibility.
+The  company  compliance  lead,  Applicant’s  current  security  manager,  and  on-site  OSI
+agent testified on behalf of Applicant and attested that she was not directly responsible
+for  the  last  three  incidents  and  the  camera  incident  was  minor.  They  all  believe  that
+Applicant’s honesty and trustworthiness make her a unique fit for the security office and
+that  she  complies  with  security  rules  and  regulations.  Applicant  promptly  reported  all
+infractions once discovered and learned how to prevent further incidents in the future.
+Law and Policies
+“[N]o one has a ‘right’ to a security clearance.” Department of the Navy v. Egan,
+484  U.S.  518, 528  (1988). As  Commander in  Chief,  the President  has  the  authority  to
+“control access to information bearing on national security and to determine whether an
+individual is sufficiently trustworthy to have access to such information.” Id. at 527. The
+President has authorized the Secretary of Defense or his designee to grant applicants
+eligibility  for  access  to  classified  information  “only  upon  a  finding  that  it  is  clearly
+consistent with the national interest to do so.” Exec. Or. 10865 § 2.
+National  security  eligibility  is  predicated  upon  the  applicant  meeting  the  criteria
+contained in the adjudicative guidelines. These guidelines are not inflexible rules of law.
+Instead, recognizing the complexities of human behavior, an administrative judge applies
+these guidelines in conjunction with an evaluation of the whole person. An administrative
+judge’s overarching adjudicative goal is a fair, impartial, and commonsense decision. An
+administrative  judge  must  consider  a  person’s  stability,  trustworthiness,  reliability,
+discretion, character, honesty, and judgment. AG ¶ 1(b).
+The Government reposes a high degree of trust and confidence in persons with
+access  to  classified  information.  This  relationship  transcends  normal  duty  hours  and
+endures throughout off-duty hours. Decisions include, by necessity, consideration of the
+possible  risk  that  the  applicant  may  deliberately  or  inadvertently  fail  to  safeguard
+classified  information.  Such  decisions  entail  a  certain  degree  of  legally  permissible
+extrapolation  about  potential,  rather  than  actual,  risk  of  compromise  of  classified
+information.
+Clearance decisions must be made “in terms of the national interest and shall in
+no sense be a determination as to the loyalty of the applicant concerned.” Exec. Or. 10865
+§ 7. Thus, a decision to deny a security clearance is merely an indication the applicant
+has  not  met  the  strict  guidelines  the  President  and  the  Secretary  of  Defense  have
+established for issuing a clearance.
+Initially, the Government must establish, by substantial evidence, conditions in the
+personal or professional history  of  the applicant  that  may  disqualify  the  applicant from
+being  eligible  for  access  to  classified  information.  The  Government  has  the  burden  of
+establishing controverted facts alleged in the SOR. Egan, 484 U.S. at 531. “Substantial
+evidence” is “more than a scintilla but less than a preponderance.”  See v. Washington
+Metro. Area Transit Auth., 36 F.3d 375, 380 (4th Cir. 1994). The guidelines presume a
+nexus  or  rational  connection  between  proven  conduct  under  any  of  the  criteria  listed
+therein and an applicant’s security suitability. See, e.g., ISCR Case No. 12-01295 at 3
+(App. Bd. Jan. 20, 2015).
+Once  the  Government  establishes  a  disqualifying  condition  by  substantial
+evidence, the burden shifts to the applicant to rebut, explain, extenuate, or mitigate the
+facts. Directive ¶ E3.1.15. An applicant has the burden of proving a mitigating condition,
+and the burden of disproving it never shifts to the Government. See, e.g., ISCR Case No.
+02-31154 at 5 (App. Bd. Sep. 22, 2005).
+An applicant “has the ultimate burden of demonstrating that it is clearly consistent
+with the national interest to grant or continue his security clearance.” ISCR Case No. 01-
+20700 at 3 (App. Bd. Dec. 19, 2002). “[S]ecurity clearance determinations should err, if
+they must, on the side of denials.” Egan, 484 U.S. at 531; see, AG ¶ 1(d).
+Guideline K: Handling Protected Information

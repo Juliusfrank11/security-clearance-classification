@@ -1,0 +1,105 @@
+Applicant  is  a  36-year-old  senior  systems  administrator  employed  by  a  federal
+contractor  since  September  2018.  He  received  an  associate  degree  from  a  technical
+institute in July 2008. He has never married and has no children.
+Applicant worked in non-federal jobs after receiving his associate degree until he
+was hired by a federal contractor in July 2009. He received a security clearance in June
+2009.  From  August  2009  to  August  2012,  he  was  assigned  to  duties  as  a  contractor
+employee  with  U.S.  Marines  in  an  overseas  location.  While  assigned  to  duty  with  the
+Marines, he was reprimanded by his civilian employer for his conduct on one occasion.
+The  record  does  not  reflect  the  conduct  for  which  he  was  reprimanded.  After  his
+employer’s contract ended in August 2012, he worked for other federal contractors. At the
+time he submitted his SCA, he had been working for a federal contractor since October
+2017. He was terminated from this employment in August 2018 for reasons set out in the
+SOR, and he was hired by his current employer shortly thereafter.
+Applicant’s  job  description  while  working  for  his  former  employer  as  the  senior
+systems  administrator  made  him  responsible  for  “ensuring  the  reliable  operation  of  IT
+systems.” His specific duties and responsibilities included providing server management
+of  classified  and  unclassified  networks;  providing  configuration,  support,  maintenance,
+and  troubleshooting  of  systems,  servers,  and  desktops;  and  establishing  scripts  to
+automate the team’s infrastructure task, patching, and other operations duties. (GX- 3 at
+20)
+Applicant testified that his first year with his former employer went well, but after
+the  leadership  changed,  several  employees  were  replaced  with  outsiders  who  had
+worked  for  the  new  leadership.  Because  he  did  not  believe  that  the  new  leadership
+understood the requirements of his job, he began searching for a new job. He accepted
+an offer from his current employer while still working for his former employer. (Tr. 15-16)
+Applicant  testified  that  on  August  20,  2018,  while  he  was  still  employed  by  his
+former employer, he was verbally informed by his immediate supervisor that he was being
+terminated because of his “hostile behavior” toward a senior executive of the company at
+a meeting two days earlier, by removing his glasses and rubbing his forehead while the
+senior executive was speaking. Applicant testified that he was upset at being terminated
+and asked his supervisor what the real reason was for his termination.  (Tr. 22) On the
+same day, he sent an email to his supervisor denying that he acted aggressively at the
+meeting with the senior executive. (AX F at 4)
+On  August  23,  2018,  Applicant’s  supervisor  sent  him  an  email  alleging  eight
+concerns that had arisen since April 2018 and were the basis for his termination. Applicant
+testified that he did not receive this email, which was sent to his father’s email address.
+(GX  3  at  2;  Tr.  24)  Five  concerns  were  incorporated  into  SOR  ¶¶  1.a-1.e,  alleging
+concerns  under  Guideline  K.  SOR  ¶  2.a  cross-alleged  the  same  five  concerns  under
+Guideline M. The eight concerns in the former employer’s August 2018 email were copied
+verbatim into SOR ¶ 3.a, alleging personal conduct under Guideline E.
+The August 2018 email did not describe the evidence on which the eight concerns
+were based. There is no evidence that the concerns were investigated before the email
+was sent to Applicant. The concerns were described in general terms in the email, and
+the SOR allegations incorporating them did not meet the specificity required by Directive
+¶ E3.1.3 (SOR shall be a detailed and comprehensive as the national security permits).
+The evidence pertaining to the allegations in the SOR is summarized below.
+SOR ¶  1.a: Security  threats (attempting to  access  systems  without  clearance
+(Concern  #1).  Applicant  denied  this  allegation.  The  record  contains  no  evidence  of
+attempts by Applicant to access systems without a proper clearance.
+SOR  ¶   1.b:   Performing  systems   scans   not   within  requested  tasks   or  job
+duties  (Concern #4). Applicant denied this allegation. The record contains no evidence
+of instances when Applicant performed systems scans that were not within his assigned
+duties.
+SOR  ¶   1.c:  Attempting  to   secure   an  administrator  account   for  network
+devices  without  a  top secret clearance  (Concern #5).  Applicant testified that he had
+no memory of requesting an administrator account for himself. He believed that he had
+all the access he needed to perform his job. (Tr. 31) In response to DOHA interrogatories,
+he stated that the only times he submitted requests for new administrative accounts was
+for new administrators joining the program. These requests were part of his duties as a
+senior administrator. (GX 3 at 3, 5)
+SOR ¶  1.d: Bringing a  personal  CD-ROM  into the  secure  workplace  (Concern
+#6). Applicant admitted this allegation. He testified that he had a personal CD-ROM in his
+gym bag, and he had forgotten that it was in his gym bag when he came to work. As soon
+as he discovered it, he turned it in to his supervisor, because he knew that bringing it into
+the workplace was a violation of his employer’s rules. (Tr. 28-29)
+SOR ¶  1.e:  Returning to  the  secure  office  environment  after hours  for a  not
+verifiable   or   reasonable   purpose   (Concern  #3).   Applicant  admitted  returning  to  the
+office after hours for non-work purposes. He testified that there were occasions when he
+missed  his  bus  during  cold  weather,  and  he  returned  to  the  office  to  wait  for  other
+transportation. There were other team members still working while he was in the secure
+area. There is no evidence that he engaged in any suspicious activity while in the office.
+He testified that he was never told that he was forbidden to be in the office outside of his
+prescribed work hours. (Tr. 34)
+SOR ¶  2.a: Cross-alleges  SOR ¶¶  1.a-1.e  under  Guideline  M. The evidence is
+the same as described above for SOR ¶¶ 1.a-1.e.
+SOR ¶  2.b: Termination from employment  due to  concerns  in SOR ¶¶  1.a-1.e.
+The  evidence  establishes  that  Applicant  was  terminated  for the  reasons  set  out  in  the
+SOR. However, only SOR ¶¶ 1.d and 1.e were supported by evidence in the record.
+SOR ¶  3.a: Terminated from employment  for violations  alleged  in SOR ¶¶  1.a-
+1.e,  plus   Concern  #2   (Inability  to   mask   emotions  to   the   point   of   disrupting
+meetings), Concern #7  (Repeated attire  and appearance  issues), and  Concern  #8
+(Aggressive behavior during a customer/co-worker meeting).
+The  record  contains  no  evidence  that  Applicant  disrupted  meetings.  When
+Applicant was questioned by a security investigator about disruptive behavior at work, he
+disclosed one occasion involving an exchange of words with a coworker about how to do
+a job. He considered it to be no more than a disagreement. (GX 3 at 13) The only evidence
+of  “aggressive  behavior”  was  the  accusation  of  his  supervisor  that  he  engaged  in
+aggressive  behavior  by  removing  his  glasses  and  rubbing  his  head  while  a  senior
+executive  was  speaking  at  a  meeting.  (Tr.  22)  There  is  no  evidence  of  the  attire  and
+appearance  requirements  for  his  job  and  no  evidence  that  he  was  warned  about
+inappropriate  attire.  To  the  contrary, a  co-worker submitted a  statement  that  Applicant
+always wore appropriate attire and that he wore a shirt and tie every day even though
+business casual was the norm. (AX A)
+Two  senior  systems  engineers  employed  by  Applicant’s  former  employer
+submitted statements rebutting the eight concerns about Applicant. One of them stated
+that if he had any doubts about Applicant’s trustworthiness and professional behavior, he
+would not have submitted his statement of support. (AX A; AX B)
+Applicant testified that his overseas service with the Marine Corps was stressful.
+In addition, his partner passed away in 2013. He believed that he was diagnosed  by a
+psychiatrist  with  post-traumatic  stress  disorder.  He  is  currently  taking  medication  for
+attention deficit hyperactivity disorder (ADHD) and anxiety. (Tr. 35-38)
+Applicant is highly regarded by his current employer. His senior program manager
+and  program  director  each  submitted  letters  commenting  on  his  proficiency,  rigorous
+adherence  to  information  security,  outstanding  interpersonal  skills,  and  ability  to  work
+within a team. (AX C; AX D)

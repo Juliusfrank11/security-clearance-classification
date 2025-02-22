@@ -1,0 +1,56 @@
+Applicant,  55,  has  worked  for  her employer  (Company  A),  a  federal  contracting
+company  since  1991.  She  was  granted  access  to  classified  information  in  2004.  Her
+eligibility  was  renewed  after  a  2014  periodic  reinvestigation.  In  September  2017,
+Applicant’s employer filed an incident report in the Joint Personnel Adjudication System
+(JPAS),  alerting  the  DOD  CAF  that  Applicant  mishandled  Company  A  proprietary
+information. This incident is the basis of the SOR.
+After receiving an allegation of misconduct against Applicant, Company A began
+an  investigation  into  her  use  of  their  IT  system.  The  investigation  determined  that
+between  December  2016  and  September  2017,  Applicant  downloaded  over  150,000
+files  onto  five  personal  storage  devices.  The  investigation  established  that  Applicant
+was up to date on Company A training regarding the handling and storage of proprietary
+information. The investigation also established that Applicant acted in knowing violation
+of company policy.
+An audit of Applicant’s activity showed that she initiated at least 23 copy events
+from  the  Company  A  network  between  December  2016  and  September  2017.  She
+admits downloading an unspecified number of files in December 2016, so that she could
+continue to work during her end-of-year break when the Company A network would not
+be available to her. In April 2017, Applicant learned that she would be laid off from her
+position  in  Group  1  within  the  following  60  days.  In  May  2017,  Applicant  initiated  14
+download events, copying over 59,000 files onto personal storage devices. She claims
+that  she  need  the  files  to  help  her  colleagues  in  Group  1  as  needed.  She  also  claims
+that she began working for Group 2 on a temporary basis in May 2017.
+Applicant  considered  her  transition  from  Group  1  to  Group  2  difficult;  as  it
+required  her  to  surrender  the  computers  she  used  in  her  Group  1  position  and  obtain
+new computers for her position in Group 2. Transferring the files she needed between
+her  old  and  new  computers  in  accordance  with  Company  A  policy  was  also  time
+consuming. In the interest of convenience, Applicant decided to download the files she
+needed to personal storage devices. She did not want to trouble her new supervisor in
+Group 2 with the details of the file transfers. She was more focused on impressing him
+with  her  performance  during  her  probationary  period.  Although  the  investigation
+information  until
+determined
+September 2017, it does not specify the number of files she downloaded between June
+and September 2017, or Applicant’s reasons for doing so.
+that  Applicant  continued  downloading  proprietary
+During the investigation, Company A interviewed Applicant’s Group 1 and Group
+2  supervisors  and  had  them  review  the  list  of  the  files  Applicant  downloaded.  Neither
+could  identify  a  legitimate  reason  for Applicant  to  have  possession  of  the  downloaded
+files. According to Applicant’s Group 2 supervisor, Applicant did not join the group until
+June 2017. Her position was not related to the position she previously held in Group 1
+and did not require the use of any data from Group 1. According to Applicant’s Group 1
+supervisor,  Applicant  was  not  expected  to  continue  working  on  Group  1  projects  after
+she began her position in Group 2.
+Applicant  returned  four  of  the  five  storage  devices  containing  the  downloaded
+files to Company A in September 2017. She could not find the fifth device, but promised
+to surrender if she was able to find it. She claims that she did not disclose the data to
+anyone  outside  Company  A.  Ultimately,  the  investigation  concluded  that  Applicant  did
+not  adhere  to  the  expected  behavior  of  Company  A  employees  when  she  copied
+Company  A  proprietary  information  on  external  storage  devices.  She  received  a
+warning  letter  reminding  her  of  her  obligation  to  protect  Company  A  proprietary
+information and to adhere to Company A policies regarding the handling and protecting
+proprietary information. She was warned that another violation could result in correction
+action, up to and including discharge from Company A.
+Character letters from Applicant’s current Group 2 supervisor and other longtime
+coworkers  describe  her  as  trustworthy.  They  ascribe  Applicant’s  actions  to  a
+misunderstanding of Company A policy.

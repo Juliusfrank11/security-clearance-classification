@@ -1,0 +1,196 @@
+The  SOR  alleges  under  Guideline  K  that,  in  about  April  2016,  Applicant  was
+found  culpable  by  his  employer  for  the  improper  shipment/unauthorized  export  of
+classified hardware in 2013 from his employer to a foreign country (SOR ¶ 1.a) and that,
+in about May 2016, he was found culpable by his employer for placing a purchase order
+with  a  foreign  supplier  per  the  direction  of  the  lead  engineer  without  verifying  that  a
+contractual  relationship  outlining  security  procedures  was  in  place  (SOR  ¶  1.b). When
+he  answered  the  SOR  allegations,  Applicant  admitted  his  role  in  the  violations.  He
+provided  a  detailed  response  in  which  he  attributed  the  violations  to  his  failure  to
+validate  information  provided  by  the  program  engineer  manager,  who  had  given  him
+“incorrect  or  overly  broad  advice.”  Applicant  detailed  steps  taken  to  address  the
+systemic  issues  and  knowledge  gaps  within  his  company  that  contributed  to  the
+violations. After considering the pleadings, exhibits, and transcript, I make the following
+findings of fact.
+Applicant is a 53-year-old married father with two daughters, ages 21 and 20. He
+has a bachelor’s degree awarded in June 1989. He has worked for his employer since
+college. He has held his current Secret clearance since June 2004. He received annual
+security trainings to as recently as January 2019. (GE 1; Tr. 40-43.)
+A  violation  of  the  International  Traffic  in  Arms  Regulation  (ITAR)  prompted
+Applicant’s employer to have an independent party review all shipments in the previous
+five years involving a technical program (program). The review discovered two security
+violations involving the program for which Applicant and an engineering manager in the
+program management  office  (engineer  X)  were  deemed  culpable. The  details of  those
+violations are as follows.
+The  first  violation  (SOR  ¶  1.a)  involved  the  shipment  of  classified  hardware  as
+unclassified  to  a foreign  military  in  2013.  In  February  2011,  a  foreign  military  placed a
+“replenishment spares order” (RSO) for ten units of a part that was identified in the RSO
+as  Confidential.  A  supply  chain  manager,  Applicant  processed  the  order  for  his
+employer.  He  identified  an  authorized  supplier,  who  requested  the  classified  drawing
+needed to build the part. In March 2011, the then lead engineer on the program notified
+Applicant  and  three  export/import  (EX/IM)  managers  that  there  was  no  license
+authorizing  the  export  of  the  classified  hardware  to  the  foreign  country,  and  that
+shipment  of  the  parts  was  dependent  on  approval  of  a  DSP-85  export  license  for
+classified material. The export license was approved in early June 2011. (GE 2; Tr. 45-
+46.)
+In  November  2012,  the  manufacturer  sent  ten  units  of  the  hardware  to  a
+company  approved  for  off-site  storage  and  shipping  (shipping  agent)  of  the  program’s
+repair  and  return  hardware.  After  nine  of  the  ten  units  failed  an  onsite  inspection  by
+Applicant’s  employer,  the  hardware  was  returned  to  the  manufacturer  for  repair.  The
+repaired  parts  were  received  by  the  shipping  agent  in  early  December  2012.  In  mid-
+January 2013, the shipping agent notified Applicant and a procurement specialist, who
+as  a  subordinate  assisted  Applicant  in  export  control  matters,  that  it  would  export  the
+parts under the export license to the attention of the security officer. Two days later, on
+Applicant’s  order,  Applicant’s  assistant  notified  the  shipping  agent  that  the  hardware
+was not classified, so the shipment should be marked for the supply department. In mid-
+February  2013,  the  ten  units  were  exported  as  unclassified  hardware  by  the  shipping
+agent  to  the  foreign  military,  who  received  the  parts,  but  did  not  alert  Applicant’s
+employer about the improper shipment. (GE 2; Tr. 46-48.)
+Applicant  was  interviewed  on  March  3,  2016,  about  the  shipment  during  an
+administrative  inquiry  by  his  employer  into  the  violation.  Applicant  explained  that  the
+program  team  was  aware  the  parts  were  classified  when  the  purchase  order  was
+placed. However, in late 2012, he had a discussion with engineer X, who was new to his
+position  in  the  program  management  office  and  was  the  authorization  official  for  the
+purchase  order.  Applicant  indicated  that  engineer  X  told  him  that  the  part  was  not
+classified  in  a  steady  state,  but  that  the  frequency  data  inputted  during  testing  was
+classified,  so  it  then  became  a  classified  part.  He  and  engineer  X  jointly  decided  that
+because the part would be shipped in a steady state without the frequency data, it was
+not classified. (GE 2; Tr. 34, 49-50.) Applicant relied on engineer X, who had been the
+quality  inspection  manager  and  had  more  expertise  about  the  hardware.  (Tr.  51-52.)
+Applicant acknowledged during his employer’s administrative inquiry that he had told his
+assistant to  notify  the shipping  agent  to  ship  the  order  as  unclassified.  (GE  2;  Tr. 52.)
+Applicant and the lead engineer were deemed culpable for causing a security violation
+in  that  the  classified  hardware  was  not  shipped  in  accord  with  the  marking  and
+packaging  requirements  of  the  National  Industrial  Security  Program  Operating  Manual
+(NISPOM),  DOD  5220.22-M.  They  also  committed  an  ITAR  violation  because  the
+hardware  was  shipped  under  a  DSP-5  export  license  for  unclassified  parts  and  not  a
+DSP-85 export license for classified parts. (Tr. 52.) Applicant’s employer concluded that
+because  the  classified  parts  were  not  properly  marked  or  packaged,  the  parts  were
+vulnerable  to  unauthorized  disclosure  for  the  duration  of  the  shipment,  which  was
+approximately 16 days, and that compromise was suspected. (GE 2; Tr. 53.) Applicant
+now  understands  that  he  should  have  sought  additional  guidance  to  verify  the
+classification level for the parts. (Tr. 50-51.)
+The  second  violation  (SOR  ¶  1.b)  involved  the  placement  of  an  order  for
+classified parts with a foreign supplier without the proper security agreements. In June
+2014,  engineer X  sent  an  email  to  Applicant  that a Technical  Assist  Agreement  (TAA)
+with the foreign supplier allowed for the procurement of “pretty much anything classified
+or unclassified.” (AEs A-B; Tr. 54.) The TAA itself provided that “[c]lassified information
+and material generated under this agreement must be assigned a security classification
+as  specified  by  the  separate  contract(s)  security  classification  specifications  provided
+with  the  contract(s).”  (GE  2.)  Under  the  TAA,  the  foreign  supplier  was  specifically
+authorized  to  produce  unclassified  electromechanical  parts and assembly  components
+for  the  system.  (GE  2.)  Acting  on  the  advice  of  engineer  X,  who  as  “Authorization
+Owner”  for  program  licenses  served  as  liaison  between  the  EX/IM  staff  and  the
+program,  Applicant  placed  a  purchase  order  by  email  with  the  foreign  supplier  for  ten
+units  each  of  two  parts  that  were  classified  as  Confidential.  (GE  2;  AE  B;  Tr.  26,  56.)
+The  purchase  order  contained  a  mix  of  classified  and  non-classified  line  items.
+Applicant  identified  those  parts  which  were  classified  on  the  purchase  order.  (AE  A.)
+The purchase order indicated in the header “Classified Items Exist: No.” However, in the
+details  about  the  order,  Applicant  noted  “L/I  10  and  20  MUST  BE  MARKED  AS
+CLASSIFIED.”  (AE  B;  Tr.  27.)  Before  placing  the  order,  Applicant  was  responsible  for
+ensuring  that  there  was  a  current  Contract  Security  Specification  (a  DD  254)  or  a
+Security  Aspects  Letter,  which  was  utilized  by  the  company  for  classified  production
+with  foreign  vendors  without  a  DD  254.  Applicant  did  not  review  the  TAA  and  did  not
+verify  that  a  contractual  relationship  outlining  security  procedures  was  in  place.  There
+was no DD 254 or Security Aspects Letter for the foreign supplier. (GEs 2-3; Tr. 26-27,
+59.)  Applicant  understands that  he  should  have  sought  clarification  or validation  about
+the  scope  of  the  procurement  authorization.  (Tr.  55.)  He  cites  the  low  volume  of
+classified purchase orders placed by him as a factor in his failure to ensure that there
+was a DD 254 for the vendor. (Tr. 58.)
+The  classified  parts  were  to  be  imported  for  inspection  by  Applicant’s  employer
+before  being  exported.  Four  days  after  Applicant  placed  the  purchase  order,  he
+received  shipping  instructions  and  an  import  control  worksheet  from  his  employer’s
+EX/IM office. The import control worksheet did not include a space to identify the items
+as classified.  Applicant was instructed that the material should be imported on an “ATF”
+exemption rather than on a DSP-85 license issued for classified material. (Tr. 28.) The
+import  control  worksheet  listed  the  TAA  as  the  document  authorizing  the  import.  The
+shipping instructions did not include any handling instructions for classified material. (AE
+B.)
+At  the  request of  the EX/IM  official assigned  the  purchase order, on  January  6,
+2015,  Applicant  gave  the  EX/IM  office  a  separate  material  classification  worksheet  for
+each  classified  part.  Those  worksheets  were  required  to  import  the  parts  from  the
+foreign supplier. On each worksheet, the classified part was identified as “Classified” as
+to  the  security  classification  of  the  product.  The  following  day,  Engineer  X  advised
+Applicant that their export license compliance manager had said “it is OK to import the
+two classified and the other unclassified line items against [the TAA].” (AE B; Tr. 29.)
+On  January  26,  2015,  the  foreign  supplier  notified  Applicant  and  one  of
+Applicant’s  co-workers  (a  buyer)  that  “[a]ll  20  items  are  marked  as  classified  on  their
+individual boxes and are packed in a crate, which was shipped on Friday.” (AE B.) On
+February  3,  2015,  new  inventory  control  worksheets  were  issued  for  EX/IM  officials,
+which  again  listed  the  TAA  as  the  import  authorization.  On  February  11,  2015,  the
+EX/IM  official  managing  the  purchase  order  advised  engineer  X  and  a  procurement
+specialist in Applicant’s office that if the items were to be imported only temporarily and
+then shipped right back out, they “should have come in on a DSP61.” (AE B.)
+The  crate  containing  both  classified  and  unclassified  hardware  was  sent  by
+unsecured means from the foreign supplier to Applicant’s employer. (GE 2; AEs A-B; Tr.
+59.) Approximately one month later, Applicant had no information that the shipment had
+cleared U.S. customs, so he alerted the warehouse about the shipment. He indicated in
+his  email  that  shipments  would  soon  be  in  transit  to  the  warehouse,  including  some
+classified items; that multiple shipments shipped from the foreign vendor were currently
+in U.S. customs; and that, for the items that are classified, “they will be identified with a
+label on individual boxes inside the crate.” (AE B.) Applicant  wanted to ensure that the
+warehouse was aware of the need to segregate and secure the classified hardware. On
+March  3,  2015,  Applicant  received  a  status  report from  the  warehouse  that  did  not  list
+the  classified  shipment.  (Tr.  31.)  Concerned  because  the  shipment  should  have  been
+received  by  then,  Applicant  asked  the  warehouse  for  proof  of  the  shipment’s  delivery.
+The  freight  forwarder  showed  that  the  shipment  was  received  in  the  warehouse  on
+February  16,  2015.  After  Applicant  provided  proof  of  delivery  to  the  warehouse,  the
+shipment  was  located  and  the  classified  material,  which  was  marked  as  Confidential,
+was then properly segregated and secured. (GE 2; AEs A-B; Tr. 31-32, 60.)
+When  questioned  in  January  2016  about  his  role  in  the  security  violation,
+engineer X asserted that he was told by the export license compliance manager that he
+could order classified parts from the foreign supplier under the existing TAA. When the
+compliance manager was interviewed, she stated that she more likely told  him that the
+agreement  had  a  classified  component  or  element,  but  that  he  should  read  the
+agreement  and  validate  it  himself,  and  contact  the  EX/IM  official  assigned  the  matter.
+Engineer X  never contacted the EX/IM  official on  the TAA.  As  a  result  of his incorrect
+translation  of  the  TAA  and  his  directions  to  Applicant,  the  classified  parts  were  not
+properly shipped. They were vulnerable to unauthorized disclosure for about four days
+while  in  transit  and  for  approximately  two  weeks  while  unsecured  in  the  warehouse.
+Applicant  was  deemed  culpable  by  his  employer  for  failing  to  ensure  that  there  was  a
+current  contract  security  classification  specification  or  Security  Aspects  Letter  with  the
+foreign vendor. The foreign vendor held a NATO Secret facility clearance, but the lack
+of  proper security  classification  guidance  raised  questions about the methods  used by
+the  foreign  vendor  for  the  protection  of  classified  information  within  its  control.
+Compromise was suspected because it could not be ruled out. (GE 2; AE A.)
+Neither  Applicant  nor  engineer  X  had  any  previous  security  infractions  on  their
+records.  For  his  role  in  the  security  violations,  Applicant  received  a  two-week  unpaid
+suspension from work, which was consistent with his employer’s published disciplinary
+process.  He  was  also  ineligible  for  supplemental  compensation  (merit  pay)  from  his
+employer  in  2017.  Applicant  was  reeducated  on  the  importance  of  safeguarding
+classified  information.  (GEs  2-3;  Tr.  44.)  His  security  violations  were  reported  to  the
+DOD on June 3, 2016. (GE 3.)
+Applicant  immediately  set  out  on  March  3,  2016,  to  establish  a  procurement
+procedure to ensure that classified purchase orders would be properly marked. Among
+the  procedures,  he  established  that,  on  receipt  of  a  classified  customer  requisition
+order,  supply  chain  management  would  identify  a  supply  source  and  then  make  a  DD
+254 determination. Requisitions from the program management office would include in
+the  request  the  classification  for  the  material.  Purchase  orders  would  be  required  to
+state “Yes” in the header for “Classified Items Exist,” and the buyer would have to note
+in  the  header  that  a  DD  254  is  required,  and  to  add  in  the  text  of  the  purchase  order
+“The  PN  for  this  PO  is  CLASSIFIED.  Department  of  Defense  contract  security
+classification  specification,  DD  form  254  has  been  forwarded  under  separate  cover.”
+(AEs  A,  C.)  His  employer  improved  its  processes  to  ensure  that  classified  purchase
+in  compliance  with  regulations.  License
+orders  and  shipments  are  executed
+authorization authority moved from the program management office to an EX/IM role. All
+company  technical  information/services  and  material  orders  are  now  vetted  to
+determine whether a U.S. export or import authorization or license is required from the
+U.S.  State  Department  or  U.S.  Commerce  Department.  Checks  were  established  to
+ensure that new orders are compliant with the authorization. To avoid any ambiguity, for
+the  two  systems  in  his  supply  chain  accountability,  Applicant  had  all  the  classified
+material listed in the security classification guidance (SCG) for the systems entered into
+a  material-tracking  database  against  which  any  new  order  is  matched.  If  an  item  is
+flagged in the database, it is treated as classified. (AE A; Tr. 35-37.) His employer also
+instituted  a  transportation  plan,  and  Applicant  set  up  a  process  to  track  the
+transportation of any classified material. (Tr. 32-33, 39.)
+Applicant  completed  more
+than  40  hours  of  security  authorization  and
+export/import  training  after the  violations  were  discovered  in  2016.  (Tr.  44.)  As  of  May
+2019, he had issued two classified purchase orders and managed or participated in nine
+classified  shipments  since  the  violations.  (AE  A;  Tr.  61.)  There  is  no  evidence  that  he
+failed  to  comply  with  his  company’s  procedures  or  NISPOM  requirements  in  those
+instances. (AE A; Tr. 40.) He sought guidance from his employer’s security staff before
+initiating any purchase order or equipment. (Tr. 61.) In 2019, Applicant was recognized
+by his employer for his trustworthiness.  He has a reputation for always doing the right
+thing for his company and for maintaining open and honest dialog with leadership and
+customers. (AE D.)

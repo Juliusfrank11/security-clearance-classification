@@ -1,0 +1,130 @@
+Applicant  is  a  58-year-old  system  administrator,  senior  software  engineer,  and
+information  systems  security  officer  for  a  defense  contractor,  employed  since  2008.
+Applicant married in 1980 and has two adult children. He received a bachelor’s degree in
+1991.  He  testified  that  he  has  held  a  DOD  top  secret  security  clearance  for  nearly  30
+years.
+The  SOR  alleges  under  Guideline  K  (Handling  Protected  Information),  that
+Applicant  committed  security  violations  in  2015  by  not  properly  securing  classified
+information;  and  in  2016  by  improperly  using  his  system  administrator  logins  and
+passwords, in violation of his privileged user agreement. The SOR also alleges that in
+2017,  his  employer  relieved  him  of  his  information  system  security  officer  and  system
+administrator duties  and access  to  system accounts following  several inspection  items
+from  2016  to  2017  that  showed  repeated  failures  to  comply  with  system  security
+requirements, policies, and procedures. The incidents described in SOR ¶¶ 1.b and 1.c
+were cross-alleged under Guideline M (Use of Information Technology). In his Answer to
+the SOR, Applicant  admitted the two incidents  in 2015 and 2016, but denied the 2017
+allegation  and  the  cross-allegation  under  Guideline  M.  The  Government’s  evidence  is
+sufficient to establish the SOR allegations.
+SOR  ¶  1.a  alleges  Applicant  failed  to  properly  secure  classified  information.
+Applicant was appointed the information systems security officer (ISSO) by his employer
+in January 2015 after the previous ISSO retired. Applicant was not fully familiar with his
+duties and responsibilities, and relied on the security team supporting him, “on the job
+training,”  and  the  supervision  of  the  information  systems  security  manager  (ISSM).
+Historical audit computer logs were backed up on rewritable compact discs (CD) that were
+marked  with  the  appropriate  security  classification,  since  the  information  was  being
+written from a classified system. The CDs were kept in plastic sleeves in a portfolio binder,
+marked  with  classification  markings,  and  secured.  Applicant’s  assistant  ISSO  (AISSO)
+was required to create the CDs for a historical record, until the company transferred all of
+the logs to external hard drives. The CDs were phased out, and another new AISSO was
+tasked to ensure the destruction of the old CDs. Applicant and his assistant emptied all
+of the CDs from their plastic sleeves in the binder, and sent the “empty” portfolio binder
+to a supply room to be reused. The supply room was in an access-controlled area, but
+not a classified controlled area. The binder was later discovered by an employee with one
+CD still in a sleeve. Applicant claims the CD did not have any classified information on it,
+but it was marked “classified” because the data came from a classified computer system.
+Applicant was cited for a security violation, but there was no evidence of loss, compromise
+or suspected compromise of classified information found. Applicant took responsibility for
+the mistake, was given remedial training, and never repeated this security violation again.
+SOR ¶ 1.b alleges Applicant improperly used his system administrator logins and
+passwords,  and failed  to follow  user privileges  and  information  assurance  procedures.
+Shortly after assuming the ISSO position, Applicant was tasked to work on an information
+system (IS) with which he was previously unfamiliar. He was read into the program, and
+entered the particular lab in 2015, where he first saw a completely assembled IS system.
+He noted that the IS had not been certified, however it was already located in a special
+secured area. Applicant was tasked to certify it by the security official for the program. At
+the  time,  common  practice  was  to  allow  the  ISSO  to  log  into  the  system  using  root
+credentials, but that practice was later stopped. Applicant met with the security staff for
+the  program  and  explained  what  he  needed  to  do  to  certify  the  IS,  and  Applicant
+requested  that  the  security  department  permit  another  system  administrator  (SA)  who
+developed the IS, to assist him. The SA was briefed by the program security officer and
+permitted  to  enter  the  space.  Applicant  later  learned  that  the  security  official  was  not
+authorized to give the SA both a general user and a privileged user briefing at once. One
+of the briefings should have been done by another security office within the company, but
+Applicant noted it was often done by the same person. According to Applicant, once the
+oversight was discovered, the SA received the proper authorization “within five minutes,”
+and believed his actions were authorized and the most efficient method to accomplish the
+task.
+Applicant  was  also  alleged  to have  continued  to  use the  root account for logins
+after the system had been certified, and that he failed to document the logins using the
+root account for tracking and auditing purposes. Applicant explained that using the root
+credentials  was  the  only  way  to  solve  the  problems  with  the  IS,  and  that  the  security
+department should have made logs available to be used to document occasions where
+the root certification was used. However, Applicant took responsibility for not logging the
+uses properly, and testified that logins were in fact traceable, even without the logs. As a
+result  of  the  security  violation,  Applicant  was  denied  access  to  particular  programs
+operated  by  that  military  branch.  No  evidence  of  loss,  compromise,  or  suspected
+compromise of classified information was found.
+SOR ¶ 1.c alleges that Applicant was relieved of his ISSO duties and access to
+secure areas in October 2017, after self-inspections disclosed repeated failures to comply
+with the information system configuration and operational security requirements, policies,
+and procedures. In particular, the Government’s evidence shows various non-compliance
+issues with users on the system, user briefings, seal logs, incomplete permissions and
+auditing settings, poor maintenance log retention, laptop CD/DVD drive and removable
+media  controls  not  configured  properly,  and  no  system  warning  banner  displayed.  In
+addition, Applicant did not correct the deficiencies within the two-week period provided.
+Applicant  explained  that  he  was  responsible  for  keeping  track  of  200  user
+authorizations  for  18  systems.  There  were  discussions  and  changes  to  the  user
+authorization procedures and forms during this period, and that the system in question
+was housed at a military base under a mobile deployment plan to allow it to be operated
+in the field. At the same time the system was returned to Applicant’s facility for audits,
+patching,  and  updates  after  a  longer-than-usual  period  outside  the  facility,  a  self-
+inspection was conducted. Applicant supported the self-inspection and was interested in
+seeing the results so that he could make the corrections and return the system back to
+the field. Applicant argued that the ISSM agreed with the field engineers to permit them
+to  create  user  accounts  and  were  responsible  for  the  system  while  it  was  outside
+Applicant’s facility. Applicant did not have physical access to the system or oversight while
+it was in the field, and the engineers improperly created new user accounts for personnel
+that needed access while the system was deployed.
+Applicant  sent  his  ASSOs  to  the  meeting  to  discuss  the  self-inspection  findings
+because  of  a  conflict,  and  later  learned  that  his  ASSOs  did  not  make  the  simple
+corrections to fix the deficiencies. Applicant’s access was denied before he could inspect
+the  system  on  his  own,  and  was  not  fully  apprised  of  the  deficiencies  after  the  self-
+inspection. After being denied access, Applicant spent the next two weeks instructing his
+ASSOs on how to correct the deficiencies. Applicant admits he should have been more
+forceful  in  demanding  the  list  of  findings  of  the  self-inspection  and  more  proactive  in
+addressing the problems, but relied on others to do the work. Applicant agrees that he
+was responsible for supervising his ASSOs in completing the work required, but notes
+that security rules changed after the system was certified for deployment. He disagreed
+with  some  of  the  findings  regarding  hard  drives,  and  asserted  that  the  ISSM  shared
+responsibility for the system, certified it for mobile deployment, and should have worked
+with him to correct deficiencies once they were discovered, rather than deny him access.
+He  also  acknowledged  that  he  was  aware  of  one  previous  user  agreement  deficiency
+before  the  2017  findings,  but  not  the  other  previous  deficiencies  noted  in  the  self-
+inspection  report.  No  compromise  of  classified  information  or  counter-intelligence
+implications were found as a result of the incidents discussed above.
+Applicant emphatically denies any intention to violate security rules or procedures
+during any of the incidents listed in the SOR. He had never had a security violation in the
+past, despite nearly 30 years with a top secret security clearance. He believes the large
+volume  of  work  and  poor  training  and  directions  from  his  manager  led  to  the  eventual
+security violations. Applicant submitted a detailed narrative response to the allegations,
+a 2016 security training certification, a certificate of recognition from his company,  and
+other  documents  in  support  of  his  testimony.  His  testimony  was  comprehensive,
+straightforward, and sincere, while always maintaining his professionalism.
+Applicant’s former information systems security risk manager and former ISSM at
+the company provided a signed, sworn statement of support for Applicant, and claimed
+that three unnamed employees within the information security office targeted Applicant
+and other employees to interpret the rules to find security infractions in order to cause
+them to lose their security clearance and job. He noted that once an infraction was found,
+the  employee  had  very  little  recourse  in  defense.  He  also  noted  that  Applicant  was
+trustworthy,  and  called  him  an  asset  to  the  community  that  cares  about  protecting
+classified information and a proud supporter of the warfighter. No corroborating evidence
+of  inappropriate  behavior  of  security  personnel  at  the  company  was  presented  at  the
+hearing, but Applicant quoted the writer’s claim in his Answer to the SOR.
+Another coworker attested to Applicant’s good judgment, stating he would never
+knowingly  violate  security  regulations  or  procedures,  and  noted  Applicant  was
+conscientious, stable, caring, and trustworthy. A director of security for another defense
+contractor who has known Applicant since 1987 when they were friends and coworkers,
+wrote of Applicant’s “great integrity.” A current engineer at Applicant’s company wrote of
+Applicant’s  reliability,  good  judgment,  stability,  and  responsibility.  He  notes  situations
+where  Applicant  steadfastly  followed  security  rules  to  maintain  security  compliance
+regardless of user complaints or inconvenience.

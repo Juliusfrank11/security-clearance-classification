@@ -1,0 +1,388 @@
+Applicant  is  a  40-year-old  senior  cybersecurity  engineer  and  security  control
+assessor/validator currently employed by a defense contractor since December 2017. He
+has also been employed as a consultant part-time by another defense contractor since
+2016. He received his high school general equivalency degree (GED) in 2002. Applicant
+enlisted in the Army in 2003 and served honorably on active duty until 2007. During his
+enlistment, he deployed to Iraq where he sustained significant injuries during combat in
+2004.  He  has  since  been  awarded  a  VA  Disability  Rating  of  70%.  Applicant  served
+honorably  in  the  Army  National  Guard  from  2009  until  2012.  He  married  in  2006  and
+divorced  in  2009,  and  has  an  11-year-old  daughter  from  this  marriage.  Applicant  was
+granted his first security clearance in 2008. (GX 1.)
+The SOR consists of allegations under Guidelines E and M. Under Guideline E, ¶¶
+1.a and 1.b allege that Applicant was terminated from two employers, in part, for failure
+to perform audits as required by the National Industry Security Program Operating Manual
+(NISPOM). This conduct is cross-alleged under Guideline M, ¶ 1.a. The SOR allegations
+and Applicant’s responses to them, are discussed more fully below.
+SOR Allegations
+Applicant was terminated from Company A in 2016 for failing to complete
+his job responsibilities
+Applicant worked or Company A from January 2016 until August 2016 as a
+systems  security  manager.  SOR  ¶  1.a  stems  from  this  employment.  The  SOR
+alleges:
+SOR ¶ 1.a: Alleges:
+You  were  terminated  from  your  employment  at  [Company  A]  in  about
+August 2016 for labor mischarging, which is a violation of [Company A’s] code of
+ethics and business conduct, along with failing to complete mandatory NISPOM
+required audits.
+In response to SOR ¶ 1.a, Applicant admits in his Answer that he was terminated
+from his employment in August 2016, but denies the alleged conduct that resulted in his
+termination. He states that despite his efforts to determine the reason for his termination,
+to include filing an ethics complaint (which was found to be without merit), he did not know
+the reason he was terminated until he received the Government’s discovery. He further
+contends that the fact that he successfully claimed unemployment benefits is evidence
+that  he  was  not  terminated  for  cause.  Additionally,  he  denies  overcharging  his  hours,
+stating “my pay was always correct, if I had falsified my timecard my paycheck should
+have been different or changed.” He supports this statement by providing copies of his
+May to September 2016 bank statements. (AX L.)
+An  August  8,  2016,  JPAS  incident  report  states  an  internal  investigation  into
+Applicant’s  conduct  was  underway  because  software  patches  were  not  completed  as
+necessary,  audits  were  not  performed  weekly,  and  there  was  potential  adverse
+information concerning timecards. (GX 5.)
+The  Government  presented  a  January  24,  2017,  letter  from  Applicant’s  former
+employer’s facility security officer (FSO) to DSS. (GX 7.) The letter that states that the
+internal  investigation  concluded  that  Applicant  “was  consistently  over  reporting  time
+worked.” The  conclusions  of  the  investigation  were  “based  on  badging  data  and  video
+evidence that was obtained from our Security Operations Center along with network login
+data  and  cell  phone  records  obtained  from  our  Incident  Response  Team.”  The
+investigation  also  concluded  that  Applicant  had  “failed  to  conduct  mandatory  NISPOM
+required audits and software updates on classified systems.” The letter also noted that
+“all auditing and software updates have been completed and it was determined that there
+was no loss or compromise of classified data due to this finding.” (GX 7.)
+Applicant  described  his  job  responsibilities  as  “the  facility  security  officer,
+[community  security]  custodian,  the  information  system  security  manager,  the  offsite
+program manager, that was it.” (Tr. 90.)
+Based on the findings of the investigation, Applicant’s employer determined that
+Applicant  was  in  violation  of  its  code  of  ethics  and  business  conduct  and  NISPOM
+requirements  and  terminated  Applicant  in  August  2016.  The  letter  also  stated  that  all
+auditing and software updates had since been completed and that no classified material
+had been compromised. (GX 7.)
+Applicant refutes the findings of investigation set forth in the January 2017 letter.
+He  testified  that  he  completed  all  audits  as  required  and  that  he  properly  reported  his
+hours.  (Tr.  30-31.)  He  also  stated  that  the  fact  that  he  was  eligible  for  unemployment
+benefits is evidence that he was not fired for cause. (Tr. 30.)
+Applicant presented a May 3, 2019, letter from a former off-site FSO of the 2016
+employer  to  refute  the  Government’s  evidence.  The  former  FSO  worked  for  the  2016
+employer  January  2006  until  January  2019.  Her  tenure  included  Applicant’s  period  of
+employment. She did not directly supervise Applicant in his FSO responsibilities, but he
+did report to her department. She stated that he did  not have any security incidents or
+violations and that he successfully passed two Defense Security Service (DSS) audits.
+DSS routinely conducts security vulnerability assessments to assess compliance with the
+provisions  of  NISPOM  and  evaluate  facilities’  programs  for  protecting  classified
+information in compliance with current directives. (AX M.) The former FSO further stated
+that  she  had  known  Applicant  for  five  years  and  strongly  recommends  continuing  his
+security clearance. (AX W.)
+The former FSO states that she reviewed the January 2017 letter and states “with
+a degree of certainty that the evidence collected against [Applicant] could not be possible
+for the following reasons:
+1)  The closed area (classified workspace) where Applicant worked did not have
+badging capabilities;
+2)  The closed area contains classified materials, and there are no video recording
+devices within the facility for this reason;
+3)  The  closed  area  contains  a  classified  network  that  is  not  connected  to  the
+Internet.    It  would  not  have  been  possible  to  obtain  Applicant’s  login  data
+records because there is no external connection;
+4)  The employer did not allow company applications, to include email, on personal
+mobile devices, therefore it would not have been possible to obtain Applicant’s
+personal cell phone records.
+The  former  FSO  also  states  that  she  prepared  for  a  DSS  audit  immediately
+following Applicant’s termination, although she does not specify the date the audit was
+performed.  She  states  that  when  she  conducted  the  audit,  it  showed  that  all  required
+audits had been properly completed and were in compliance with NISPOM, and that there
+were no missing software updates.
+Applicant testified that the employer installed a badge reader on an external door
+shortly before Applicant’s termination. (Tr. 94.) Additionally, he also stated that he was
+required to log in to the company’s internal network to utilize the company’s email. (Tr.
+130.)
+Applicant was terminated from Company B in 2014 for failing to complete
+his job responsibilities
+Applicant worked or Company B from April to November 2014 as an information
+security manager. SOR ¶ 1.b stems from this employment. The SOR alleges:
+SOR ¶ 1.b: Alleges:
+You  were  terminated  from  your  employment  at  [Company  B]  in  about
+November  2014  for  failure  to  perform  an  audit  on  a  computer  used  to  process
+classified information as required by the NISPOM Section 8-602a. You completed
+a  tracking  log  indicating  you  perform  the  audit  on  October  24,  2014,  and  when
+confronted about the audit, you continued to claim you had completed the audit. A
+subsequent  investigation  determined  you  did  not  complete  the  audit  and  were
+capable for falsifying business/government records and not acting in accordance
+with the [Company B] code of ethics.
+In  his Answer, Applicant  denies SOR  ¶  1.b and  sets forth  several bases for his
+denial. First, Applicant states that he does not believe that he was “fired from his position.”
+He  bases  this  statement  on  the  facts  that  he  successfully  collected  unemployment  as
+being “laid off,” the employer did not protest his unemployment claim, and that he was not
+required  to  reimburse  the  company  for  his  relocation  funds  as  he  would  have  been
+required to do if he had been terminated for cause.
+In his Answer and testimony, Applicant further supports this position by referencing
+an email exchange he had with a former coworker wherein Applicant stated that he told
+a potential employer that he had been “downsized.” In this same email, Applicant states
+that his former manager and a human resources (HR) representative would not provide
+him with any information as to why he was “let go, just that [he] was.” He characterizes a
+statement made by the former coworker in an email “no one is saying what happened.”
+Applicant  submitted  an  email  exchange  with  HR  wherein  HR  stated  that  it  would  not
+provide  Applicant  with  a  copy  of  the  JPAS  incident  report  (GX  5)  concerning  his
+termination or any documentation concerning why he was “dismissed,” and that he did
+not need to complete any forms in order to apply for unemployment. (Tr. 34-35; AX N.)
+Applicant also noted during his testimony that he was offered another position with the
+employer in another state approximately three weeks after he was terminated. (Tr. 35.)
+However, Applicant testified that in 2014:
+APPLICANT:  I  was  --  same  thing,  human  resources  called  me  into  their
+office and just said that I was terminated and that was it. I wasn't given any
+reason.
+ADMIN. JUDGE: So that was in November of 2014, you were --
+APPLICANT: Yes.
+ADMIN. JUDGE: -- they told you, you were fired?
+APPLICANT: Yes, ma'am.
+ADMIN.  JUDGE:  But  you  didn't  put  that  on  your  security  clearance
+application?
+APPLICANT: Well not fired, just terminated, and then I --
+ADMIN. JUDGE: Well what do you think terminated means?
+APPLICANT: I attempted to find out after, what the reason was.
+ADMIN. JUDGE: What do you think terminated means?
+APPLICANT: I don't know ma'am. It could mean anything. (Tr. 87-88.)
+The second basis of Applicant’s denial of SOR ¶ 1.b is that his “position did not
+include  performing  audits  on  computers.  This  was  the  responsibility  of  [a  coworker].”
+(Answer.)
+During  his  testimony,  Applicant  made  the  following  assertions  regarding
+performing audits:
+1)  It was not Applicant’s job to perform NISPOM audits, and he did not have
+the  necessary  authorizations  to  do  them.  Performing  NISPOM  audits
+was the responsibility of his coworker. (Tr. 35-36.)
+2)  The  audits  were  divided  into  the  technical  part  and  the  policies  and
+procedures part. It was Applicant’s coworker’s responsibility to perform
+the technical part of the audits and Applicant’s responsibility to perform
+the policy and procedure part of the audits. (Tr. 62-63.)
+3)  Applicant never performed any of the audits. (Tr. 70.)
+4)  Applicant described audits in general as being about 90% policies and
+procedure and 10% technical. (Tr. 92.)
+5)  Applicant  and  his  coworker  performed  as  a  team  wherein  Applicant
+performed the policy and procedure part of the audits and his coworker
+performed  the  technical  part  because  Applicant  did  not  have  the
+required credentials to do so. (Tr. 128-129.)
+The  conduct  alleged  in  SOR  ¶  1.b  is  based  on  a  November  11,  2014,  JPAS
+incident  report  (GX  5)  and  the  employer’s  report  of  findings  of  an  investigation  dated
+November 20, 2014. The report of investigation states:
+The investigation determined that [Applicant] failed to perform an audit on
+a  computer  used  to  process  classified  information  as  required  by  the
+NISPOM section 8-602a. In addition,  [Applicant]  recorded an entry  in  the
+audit log book indicating that he did in fact complete the audit on October
+24, 2014. Finally, [Applicant] was not truthful when confronted about this.
+This  security  incident  was  the  result  of  an  intentional  disregard  for  the
+NISPOM  requirements  and  of  the  [company’s]  Code  of  Ethics.  The
+investigation deems [Applicant] culpable for an intentional security incident
+and as a result his employment with the company was terminated. (GX 4.)
+The  report  lists  the  individuals  involved  in  the  investigation,  one  of  whom  is  a
+contractor.  The  report  sets  forth  details  of  conversations  between  Applicant  and  the
+contractor  regarding  Applicant’s  performance  of  an  audit  on  classified  computer  #6,
+nicknamed “Poseidon.” The report also includes an email exchange between Applicant
+and the contractor wherein Applicant represents that he performed the audit on October
+24, 2014, but forgot to record an entry in the safe logbook.
+The report also gives details of a meeting and conversation between Applicant and
+his supervisor. Applicant’s supervisor, who was also the FSO, confronted Applicant about
+routinely  submitting  inaccurate  and  incomplete  reports  and  asked  if  Applicant  had
+performed the required audit. Applicant again confirmed that he had.
+The  report  then  delineates  the  process  of  the  investigation  that  unequivocally
+concluded  that  Applicant  did  not  perform  the  required  audit  on  the  classified  computer
+Poseidon  on  October  24,  2014,  as  he  recorded  in  the  logbook  and  represented  in
+conversations, emails, and during a meeting.
+Following  the  investigation,  the  HR  manager  and  the  ethics  officer  interviewed
+Applicant about  the  results  of  the  investigation and  Applicant again  stated  that  he had
+completed the audit as required. Applicant was terminated for his conduct.
+Applicant refutes the report of investigation on the following bases:
+1)  Applicant never met the contractor and does not know who he is;
+2)  Applicant confirmed that his email address was accurate, but stated he
+never exchanged emails with the contractor;
+3)  Applicant was out of state on vacation at the time of these incidents;
+4)  Applicant  was  never  confronted  by  his  supervisor  about  his  job
+performance;
+5)  Applicant was never interviewed about the results of the investigation.
+(Tr. 37-39; Tr. 74-77.)
+Applicant also testified that the report was inaccurate because classified computer
+#6 was not nicknamed Poseidon. According to Applicant, Poseidon was the name of a
+computer numerically controlled (CNC) machining tool on which audits were not only not
+required, but could not be performed. (Tr. 72-73.)
+Applicant submitted a January 27, 2014, letter from DSS to the 2014 employer’s
+FSO. Although prior to Applicant’s employment, the letter states that DSS conducted a
+security  vulnerability  assessment  at  the  facility  and  rated  it  “commendable.”  The
+assessment  found  six  vulnerabilities,  which  are  delineated  in  the  letter.  The  fourth
+vulnerability,  which  was  corrected  on  the  spot,  was:  “Security  relevant  objects  are  not
+audited for failed access.” It lists the systems effected, which includes “Poseidon.” (AX
+T.)
+Finally, during his testimony Applicant asserted, for the first time, that the events
+as described in the report could not have happened because he was visiting his daughter
+in another state on the specified dates. In support of this assertion, Applicant submitted
+by email attachment three copies of photographs of him with his daughter. (AX X  – AX
+AA.)
+Each photograph is attached to the email as a “JPG” file, which is “a computer file
+format for the compression and storage of digital images.” (merriam-webster.com.) The
+photographs in the JPG files can be opened on a computer to view/print. The JPG file
+names  appear  as  “10.26.14  Picture.jpg;”  “10.30.14  Picture.JPG;”  and  “10.23.14
+Picture.JPG.” The email states that “each JPG can have the metadata shown by simply
+clicking  on  file  info  on  the  picture  itself.”  The  metadata  includes  the  date,  time,  and
+location of where the picture was taken. (AX Y.) However, this type of metadata can be
+edited  using  widely  available  smartphone  applications  such  as  “pixelgarde”  and
+“metapho.” Applicant did not offer any other evidence to corroborate the dates his travel.
+Applicant  failed  to  properly  disclose  the  2014  and  2016  employment
+terminations  on  a  security  clearance  application  and  in  two  background
+interviews.
+SOR  ¶  1.d:  Alleges  that  when  Applicant  answered  “no”  on  his  e-QIP  on  November  1,
+2016, “no” to Section 13C, which asks: in the last seven years, have you been “fired from
+a job” he falsified material facts by  deliberately failing to disclose his terminations from
+two employers as set forth in SOR ¶¶ 1.a and 1.b.
+Applicant denies this allegation in his Answer and states:
+I did not falsify information on the e-QIP. I do not believe I was terminated
+from this employer. If I was terminated I would have listed this on the e-QIP
+form. I did not deliberately fail to disclose anything.
+It  is  unclear from  Applicant’s  Answer  whether  he  is  referring  to  the  2014  or  the
+2016  employer.  However,  Applicant  received  a  letter  from  his  2016  employer  dated
+August 22, 2016, which stated that Applicant was terminated effective that same day. (AX
+K.)
+Applicant also testified that he filed an ethics complaint with the 2016 employer to
+determine why he was terminated.
+DEPARTMENT  COUNSEL:  I  don't  see  your  ethics  claim  in  here.  Do  we
+have a copy of your ethics claim?
+APPLICANT: No. I don't have a copy.
+DEPARTMENT COUNSEL: What was in it to your best recollection? What
+did you allege? What was the concern?
+APPLICANT: I wanted to know why I was fired, why they sent me home,
+basically just to really find out what happened and then I received that letter.
+In a November 24, 2014, email to HR, Applicant stated “I have a right to know what
+information  was  submitted  into  JPAS  on  my  clearance  especially  since  it  was
+recommended that my accesses be revoked.” When queried by Department Counsel why
+he did not disclose the JPAS incident report on his e-QIP, Applicant stated that he did not
+know  what  information  was  in  the  incident  report and  that  “anything  can  be entered  in
+JPAS for any reason.”
+SOR ¶ 1.e: Alleges that Applicant falsified material facts during a personal subject
+interview (PSI) on January 25, 2018, when he stated that he did not know the reason for
+his termination from the 2016 employer.
+In his Answer, Applicant denies this allegation and contends that he did not know
+the  reason for his  “termination.” He  testified  that  he  did not find  out  the  reason for his
+termination until he received the Government’s discovery in December 2018. (Tr. 49.)
+SOR ¶ 1.f: Alleges that Applicant falsified material facts during a PSI on November
+2, 2017, when he stated that he was laid off from his 2014 employment, but was in fact
+deliberately concealing that he had been terminated.
+In his Answer, Applicant denies this allegation and states:
+I was laid off from this employer and filed and collected unemployment for
+being laid off. The information contained in the SOR is false. I also made
+attempts to obtain the reason why I was let go from HR and other employees
+and was given no information at all.
+In his 2017 PSI, Applicant told the investigator that  he was laid off for unknown
+reasons with about 30 other people. (GX 2.) In an email exchange asking a coworker to
+be a reference, Applicant stated that he had told a potential employer that he had been
+“downsized”  because  HR  and  Applicant’s  supervisor  would  not  provide  him  with  “any
+information as to why I was let go, just that I was.” (AX N.) On his 2016 e-QIP, Applicant
+listed the reason for leaving his 2014 employer as “unknown. Reason for termination was
+never provided by employer. Unemployment claim was not contested. Reason given by
+employer to [another state] unemployment office was I was laid off due to lack of work.”
+(GX 1.)
+As set forth above under SOR ¶ 1.b, Applicant was called into the HR office and
+told he was terminated.
+SOR  ¶  1.g:  Alleges  that  Applicant  falsified  material  facts  on  a  resume  that  he
+submitted  for  employment  in  October  2016  when  he  reported  that  he  obtained  a
+bachelor’s degree from [a university] in August 2011 with a 3.8 GPA.
+Applicant  submitted  the  resume  for  employment  with  Company  C,  where  he
+worked from to October 2016 until October 2017 as an information systems security and
+technology manager. In his Answer, Applicant admits in part and denies in part SOR ¶
+1.g. Applicant admits that he did not graduate from the university, and did not take any
+classes there. He states that he enrolled with the intent of attending, and August 2011
+10
+would have been his projected graduation date. He further states that he received the 3.8
+GPA after transferring credits from “prior training and military service” to the university.
+Applicant also stated that it was not his “intent to defraud or make a false claim of having
+a bachelor’s degree.”
+Applicant also attached with his Answer a biography. The document is undated,
+however, he  describes  work experience  through  October 2017.  Applicant  states  in  the
+document that he dropped out of high school and then received a GED in August 2002.
+There is no reference to any attendance of or enrollment in any college or university. (AX
+A.)
+In his January 2018 PSI, Applicant confirmed that he had not graduated with any
+college degrees or taken any college classes within the last 10 years. When confronted
+about  the  resume  he  submitted  that  stated  that  Applicant  had  graduated  from  [a
+university] with a bachelor’s degree in August 2011. Applicant stated that he did not take
+any classes at the university, but that he did accumulate college credits for his military
+training and work experience. (GX 2.)
+In  his  August  2018  responses  to  the  Government’s  interrogatories,  specifically
+when  asked  to provide  copies of  all  college  transcripts  and  diplomas for all  completed
+degrees,  Applicant  responded  “I  do  not  possess  any  college  transcripts  or  diplomas.  I
+have no completed degrees. I only have a GED.” (GX 3.)
+However, Applicant also reported on his 2016 resume that he was enrolled in a
+university in a dual Master of Science in Cybersecurity with a 4.0 GPA and a Bachelor of
+Science in Information Technology with a 4.0 GPA with an anticipated graduation date of
+April 2019. (GX 6.) He testified that the university was primarily on-line and that he had
+completed approximately 18 courses. He further testified that he was in the process of
+transferring his credits from this university and another (not previously mentioned) college
+where he had gotten credits for his military training to another on-line university starting
+in August 2019. He hoped to complete his degree by December 2019. (Tr. 110; Tr. 134-
+136.)
+Applicant completed a talent profile as part of his job application for the employer
+to whom he submitted his 2016 resume. (AX H.) Under the education section, he did not
+list the false information regarding his 2011 bachelor’s degree and 3.8 GPA. However, he
+listed the university with the dual master’s and bachelor’s programs and stated that he
+had been attending that university from January 2016 until the present. (GX 6.)
+When asked by Department Counsel why he provided this false information on his
+2016 resume, Applicant responded:
+APPLICANT:  I  had  placed  it  on  my  resume  years  ago  and  it  had  a
+graduation date I think of 2011, and 24 then it was just -- it stayed on my
+resume.
+11
+DEPARTMENT COUNSEL: Now why'd you put a graduation date in for a
+program that you never took a class in?
+APPLICANT:  No  I  don't  mean  a  graduation  --  I  mean  like  a  projected
+graduation date. (Tr. 58-59.)
+Applicant  also  offered  testimony  as  to  why  his  2016  resume  contained  false
+information:
+I  remember enrolling  in  [the  university]  back  in  2008, I  transferred  all  the
+credits I had there, which is where the GPA had come from. I had placed it
+on an older version of my resume with the graduation date of 2011 and then
+I hadn't taken it off my resume.  (Tr. 114.)
+SOR ¶ 1.h: Alleges that Applicant falsified material facts on a resume he submitted
+for  employment  with  [Company  B]  in  April  2014  when  he  reported  that  he  obtained  a
+bachelor’s degree from [a university] with a GPA of 3.8.
+The 2014 resume listed the city and state where the university was located, the
+2016 resume did not. The 2016 resume included a “completion” date of August 2011, the
+2014 resume did not. Additionally, the font and formatting are different on the 2014 and
+2016 resumes.
+In his Answer, Applicant’s response to this allegation is the same as his response
+to SOR ¶ 1.g.
+Applicant has failed to resolve the outstanding balance on his Company B
+travel credit card
+SOR ¶ 1.c: Alleges that Applicant failed to pay a collection account of $1,528 on
+a credit card issued by Company B in about October 2014, and that the account remains
+delinquent.
+The  debt  is  verified  by  a  2018  credit  report,  Applicant’s  statements  during  his
+November 2017 PSI, and his testimony. According to Applicant, the balance owed is for
+expenses for his out-of-state travel for training in November 2014 and should have been
+paid by his employer. In his responses to interrogatories, Applicant states that the account
+was paid. He testified that he submitted his expense report to HR prior to his termination
+on November 17, 2014. He further testified that he has done online disputes of this debt
+multiple  times.  He  also  stated  that  he  has  written  multiple  letters,  faxed  letters,  and
+contacted various branches of the financial Institute that issued the credit card and there
+is no record of his name or Social Security number in their systems. (Tr. 44-46.) Applicant
+did not submit any copies of these dispute letters into the record.
+On November 18, 2014, Applicant was provided with a form from HR via email to
+submit his expense report and receipts. On November 20, 2014, Applicant responded to
+HR  stating  that  HR  should  receive  the  expense  report  by  the  following  week.  (AX  N.)
+Applicant did not submit a copy of the completed expense report into the record.
+On August 20, 2018, Applicant submitted an online dispute with the stated reason,
+“I  have  never  paid  this  account  late.  My  account  balance  is  incorrect.”  (AX  P.)  In  his
+Answer, Applicant stated that the credit-card company will not accept any payments on
+his behalf. He further stated that he has never been successful in disputing this account
+or having it removed from his credit reports but does not believe he owes the money for
+this card. Applicant testified that the account has been removed by one of the three major
+credit  reporting  agencies.  (Tr.  44.)  He  did  not  provide  any  additional  documentation
+regarding this account. This account remains unresolved.
+Applicant’s Character Evidence
+Applicant  submitted  13  letters  of  recommendation  from:  his  current  security
+manager  supervisor,  direct  supervisor,  FSO,  five  coworkers,  and  the  IT  director of  the
+company  where  Applicant  has  worked  as  a  consultant  since  2016;  and  his  former
+supervisor, platoon leader, and two coworkers. Collectively, the letters state that Applicant
+is  a  highly  professional  and  trustworthy  individual  and  recommend  him  for  a  security
+clearance. Additionally, 12 of the letters state that Applicant “is always very respectful of
+privacy, classified information, laws, rules, and regulations.” (AX R.)
+While  on  active  duty,  Applicant  received  numerous  medals  and  awards.  He
+achieved or exceeded course standards in his service school academic evaluations. (AX
+B.) Between 2014 and 2017, he completed multiple cybersecurity certifications. (AX G.)
+Applicant received a positive work performance evaluation from his employer in January
+2017,  wherein  his  supervisor  stated  that,  Applicant  “has  taken  a  leadership  role  in
+documenting new procedures to ensure compliance with new regulatory requirements”
+while  quickly  assuming  “all  duties  of  the  information  systems  security  manager  and
+alternate facility security officer with no difficulties.”

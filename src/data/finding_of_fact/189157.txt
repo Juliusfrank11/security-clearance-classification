@@ -1,0 +1,99 @@
+Applicant  is  a  60-year-old  civilian  of  a  defense  contractor  who  seeks  a  security
+clearance. Allegations covered in the SOR and admitted by Applicant are incorporated
+and adopted as relevant and material findings. Additional findings follow.
+Background
+Applicant married  in  June  2003  and  has  six  children  (ages 17, 15,  14, 12,  9, and
+8) from  this  marriage. (Item  4) Applicant earned  a  bachelors  degree  in December 1997
+and a master’s degree  in May 2006. (Item  4) He enlisted  in the  Marine  Corps  in January
+1980   and   served   six   years   in  the   Inactive   Reserve  before  receiving   an   honorable
+discharge in June  1986. (Item  4)
+Since March 2016, Applicant has worked for his current employer as a computer
+systems technologist. (Item 4) Between November 2003 and March 2016, he worked for
+other  employers  in  various  systems  administrator  positions.  (Item  4)  He  has  held  a
+security clearance since April 2004. (Item 4)
+Applicant’s  security infractions
+Between  October  2019  and  November  2020,  Applicant  received  multiple  verbal
+warnings  for  security  infractions,  and  more  recently,  in  March  2021,  a  written  warning
+for failing to properly  secure a classified hard  drive while in a closed area.  (Items 4-6)
+Records  document  that  in  October  2019,  Applicant  self-reported  to  his  information
+security systems officer (ISSO) that he downloaded classified information on a compact
+disc (CD) without authorization in September 2019 and left it unsecured on his desk in
+his cubicle until October 2019. (Item 6)
+Further  investigation  by  his  ISSO  confirmed  that  Applicant  had  downloaded  12
+files to a CD without authorization, failed to document the trusted downloads (TD) in e-
+Binder, and failed to properly label and secure the CD.  His ISSO administrators  found
+no loss or compromise of classified information and advised him of the need to properly
+download  classified  information  in  the  future  to  ensure  his  understanding  of  proper
+downloading procedures. (Item 6)
+In  April  2020,  Applicant  (while  employed  by  his  current  employer)  received  a
+security  infraction  notification  with  a  verbal  warning  for  allowing  access  and  use  of
+unauthorized  software  (Skype)  on  a  classified  information  system  without  following
+required  cybersecurity  procedures.  (Item  3)  Applicant  denied  parts  of  the  substantive
+allegation,  claiming  the  software  had  been  approved  by  his  ISSO  administrator.
+However, he admitted that his further testing of the software was unauthorized. (Item 3)
+In
+their  own
+investigation  of
+the  April  2020
+ISSO
+administrators confirmed that  another employee of the company was in the process of
+getting the Skype for business software certified for use on the  company’s information
+system  (inclusive  of  ensuring  that  certain  security  controls  were  on  the  system  and
+certified  for  use)  when  the  employee  discovered  that  Applicant  had  been  allowing
+employees  to  use  the  program  before  the  full  certification  could  be  finalized.  (Item  6)
+While  no  loss  or  compromise  of  classified  information  was  detected,  Applicant  was
+issued a verbal warning. (Item 6)
+incident,  Applicant’s
+In May 2020, while still employed by his current employer, Applicant committed a
+company  policy  infraction  when  he  inadvertently  brought  a  cell  phone  into  a  closed
+area. (Items 3 and 6) Employer records affirm that Applicant self-reported the incident,
+and  his  employer’s  ISSO  administrators  confirmed  the  absence  of  any  compromise  of
+classified information.
+Upon concluding their investigation, his ISSO administrators verbally warned him
+of his violation without the issuance of a security infraction. ISSO administrators, in turn,
+referred  their  findings  to  Applicant’s  supervisor  for  any  further  consideration  of  the
+incident. (Item 6) Company records confirmed that Applicant received a company policy
+infraction  with  corrective  actions  deferred  to  management  for  inadvertently  bringing  a
+cell phone into a closed area, in violation of established procedures. (Item 6)
+Applicant’s  employment  records   document   that   in  November   2020,   he   self-
+reported  his failure to  secure a  classified  hard  drive  while in a  closed  area. (Items 3  and
+6)  Admitting  the  infraction, Applicant told  his company’s ISSO administrator that he  had
+found   the   classified   hard  drive   in  his   desk  drawer,   but   could   not   recall   how   the   drive
+arrived  in his cubical.  (Item  6) He  told  the  ISSO administrator  investigating  the  incident
+that   he   last   used   similar  drives  in   2016   upon   his   new   arrival  to   the   company.   (Item   6)
+ISSO   administrators, in   turn  took   possession   of  the   hard   drive   and   found  no   nefarious
+activities or anomalies  in their audit. (Item 6)
+ISSO administrators based their findings on the absence of any exhibited activity
+with the hard drive since 2016. (Item 6) Although, Applicant’s actions were confirmed to
+be inadvertent, he was considered to be responsible for violating established safeguard
+procedures  for  storing  materials  bearing  secret  labels  (as  was  the  case  with  the  hard
+drive found in his cubicle drawer), and was issued a verbal warning. Applicant’s claims
+that  there  was  no  formal  process  to  inventory  their  cubes  when  he  first  entered  his
+employment  with  his  employer  were  neither  acknowledged  nor  accepted  by  ISSO
+administrators. (Items 3 and 6)
+More recently (in March 2021), Applicant received a written warning for failing to
+properly secure a classified hard drive while in a closed area. (Items 3 and 6) Claiming
+he  inherited  the  hard-drive  from  a  person  who  occupied  the  cubicle  before  him,  he
+acknowledged  the  incident  and  claimed  he  was  told  to  accept  the  hard  drive  “as-is”
+when he assumed possession of the hard-drive as a new employee. (Item 3) Applicant’s
+employer’s records reflect that Applicant acquired his hard drive in 2018, and the drive
+was  found  when  an  employee  of  the  company  was  moving  into  Applicant’s  cubical.
+(item  6)  When  asked  by  ISSO  administrators  about  the  hard  drive,  Applicant
+acknowledged his acquiring the drive when he joined the company in 2018 (believing at
+the time that the drive was unclassified).
+ISSO  administrators  in their investigation  of  the  2021  incident  found  Applicant’s
+acquired hard drive to bear a classified label (albeit in a clear case with an unclassified
+sticker  on  the  exterior),  and,  as  such,  was  a  classified  hard  drive  that  was  improperly
+stored  by  Applicant  for  approximately  two  years  without  any  evidence  of  a  suspected
+loss  or  compromise  of  classified  information.  (Item  6)  Based  on  the  investigation’s
+findings, Applicant received a written warning.
+Since the investigated March 2021 incident, Applicant has been transferred to a
+new  position  where  he  is  no  longer  responsible  for  classified  assets.  (Item  5)  He
+assured in his personal subject interview (PSI), conducted in February 2022, that should
+he be assigned to another position in the chain of assets, he will be sure to check the
+inventory and ensure that all items are properly labeled. (Item 5)
+In  his  defense,  Applicant  expressed  his  belief  that  he  had  proved  his
+trustworthiness  through  his  work  as  a  system  administrator  entrusted  with  the
+responsibility  for  handling  “thousands  of  classified  hard  drives/tapes,  performed
+hundreds software installations, and ensured the classified information systems that he
+was responsible for were compliant with DoD requirements for over 5 years.” (Item 3)

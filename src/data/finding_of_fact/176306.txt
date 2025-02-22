@@ -1,0 +1,130 @@
+Applicant  is  a  64-year-old  employee  who  is  seeking  to  obtain  a  security
+clearance, although he has held a clearance in the past. He has a  job as an engineer
+for  an  aerospace  company  in  the  defense  industry.  He  has  worked  for  the  same
+company  since  about  1988.  He  had  a  break  in  employment  beginning  in  June  2017,
+when  he  accepted  a  voluntary  layoff  with  severance  pay,  until  about  January  2021,
+when  he  resumed  employment  with  the  same  company.  He  has  no  previous  military
+service.  He  earned  a bachelor’s  degree  in  1996.  He  married  in  1995,  and  he  has  two
+adult children. He and his spouse have lived apart since August 2015. They entered into
+a mediated property settlement agreement and stipulation in January 2019. (Exhibit 4)
+The SOR concerns a single delinquent debt, an unpaid judgment  in the amount
+of $45,235 obtained against Applicant by his spouse. (Exhibits 5 and 6) He admitted the
+allegation  in  his  answer  to  the  SOR.  It  is  also  established  by  documentary  evidence.
+(Exhibits 3-8) In April 2020, the court awarded a judgment to his spouse in the amount
+of  $35,500  representing  funds  due  her  from  his  voluntary  investment  plan  (VIP)  held
+with  his  employer.  The  judgment  was  based  on  Applicant’s  unilateral  actions  of
+liquidating  all  funds  from  his  employer’s  retirement  and  VIP  accounts  resulting  in
+insufficient  funds  to  provide  his  spouse  monies  as  agreed  in  the  parties’  property
+settlement  agreement.  (Exhibit  5  at  2)  Per  the  court  order,  judgments  of  $35,500  and
+$6,500 (previously entered in December 2019) were consolidated for a total judgment of
+$42,500. By June 2021, the remaining judgment balance was $45,235. (Exhibit 6)
+In  his  answer  to  the  SOR,  Applicant  explained  that  the  legal  settlement
+agreement  meeting  and  the  aftermath  was  an  emotional  and  trying  event  for  him.
+Financially, it left him with few resources and he was then unemployed due to the layoff.
+He used what he had left in his employer accounts to pay living expenses and federal
+income tax due for tax year 2018 of nearly $20,000, of which his spouse had agreed to
+pay half. He stated he paid the balance due and his spouse has not repaid him her half
+of the tax bill. He stated that he has a long history of financial responsibility, and he has
+held a security clearance in the past without a serious security violation. He also stated
+he would never compromise his security responsibilities for financial gain. In reply to the
+FORM, given his return to work, he stated that he now has an opportunity to take care
+of the debt. He presented six paystubs from various periods in 2021 showing his wages
+were  garnished  in  the  total  amount  of  about  $4,700.  (Exhibit  A)  Otherwise,  he  did  not
+present  documentation  showing  he  had  entered  into  a  repayment  agreement  on  the
+judgment or had otherwise made payments on the judgment.
+Law and Policies
+This  case  is  adjudicated  under  Executive  Order  (E.O.)  10865,  Safeguarding
+Classified Information within Industry (February 20, 1960), as amended; Department of
+Defense  Directive  5220.6,  Defense  Industrial  Personnel  Security  Clearance  Review
+Program  (January  2,  1992),  as  amended  (Directive);  and  the  National  Security
+Adjudicative Guidelines for Determining Eligibility for Access to Classified Information or
+Eligibility to Hold a Sensitive Position (AG), effective June 8, 2017.
+It  is  well-established  law  that  no  one  has  a  right  to  a  security  clearance.1  As
+noted by the Supreme Court in Department of the Navy v. Egan, “the clearly consistent
+standard indicates that security clearance determinations should err, if they must, on the
+side  of  denials.”2  Under  Egan,  Executive  Order  10865,  and  the  Directive,  any  doubt
+about  whether  an  applicant  should  be  allowed  access  to  classified  information  will  be
+resolved in favor of protecting national security. In Egan, the Supreme Court stated that
+the burden of proof is less than a preponderance of evidence.3
+The   DOHA  Appeal  Board  has  followed   the   Court’s  reasoning,  and   a   judge’s
+findings  of   fact  are  reviewed   under  the   substantial-evidence   standard.4   Substantial
+evidence  means “evidence  that  a  reasonable  mind  could accept as adequate  to  support
+a conclusion; evidence beyond a scintilla.”5  Substantial evidence is a  lesser burden than
+both   clear  and   convincing   evidence   and   preponderance   of   the   evidence,  the   latter  of
+which  is  the   standard   applied   in  most   civil   trials.  It   is  also   a   far  lesser  burden   than
+evidence beyond a reasonable doubt, the  norm  for criminal trials.
+1   Department  of  the  Navy   v.  Egan,  484   U.S.  518,  528   (1988)   (“it  should  be   obvious   that  no   one   has   a
+‘right’  to a security  clearance”); Duane v. Department  of Defense, 275 F.3d  988,  994 (10th  Cir. 2002)  (no
+right to a security clearance).
+2 484 U.S. at 531.
+3 484 U.S. at 531.
+4 ISCR Case No. 01-20700 (App. Bd. Dec. 19, 2002) (citations omitted).
+5  Black’s  Law Dictionary  640 (Bryan A. Garner  ed., 9th  ed.,  West 2009).
+There is no presumption in favor of granting, renewing, or continuing eligibility for
+access  to  classified  information.6  Under  the  Directive,  the  parties  have  the  following
+burdens:  (1)  Department  Counsel  has  the  burden  of  presenting  evidence  to  establish
+facts alleged in the SOR that have been controverted; (2) an applicant is responsible for
+presenting  evidence  to  refute,  explain,  extenuate,  or  mitigate  facts  that  have  been
+admitted or proven; and (3) an applicant has the ultimate burden of persuasion to obtain
+a favorable clearance decision.7
+Discussion
+Under Guideline F for financial considerations, the suitability of an applicant may
+be  questioned  or  put  into  doubt  when  that  applicant  has  a  history  of  excessive
+indebtedness or financial problems or difficulties. The overall concern is set forth in AG
+¶ 18 as follows:
+Failure  or  inability   to   live   within  one’s  means,  satisfy   debts,   and   meet
+financial  obligations  may   indicate   poor  self-control,  lack  of   judgment,   or
+unwillingness  to   abide   by   rules   and   regulations,   all   of  which  can   raise
+questions  about  an   individual’s  reliability,  trustworthiness,  and   ability   to
+protect classified  or sensitive  information. . ..
+The  concern  is  broader  than  the  possibility  that  a  person  might  knowingly
+compromise  classified  or  sensitive  information  to  obtain  money  or  something  else  of
+value.  It  encompasses  concerns  about  a  person’s  self-control,  judgment,  and  other
+important qualities. A person who is financially irresponsible may also be irresponsible,
+unconcerned,  or  negligent  in  handling  and  safeguarding  classified  or  sensitive
+information.
+In  analyzing  the  facts  of  this  case,  I  considered  the  following  disqualifying  and
+mitigating conditions as most pertinent:
+AG ¶  19(a) inability to satisfy debts;
+AG ¶  19(b) unwillingness to satisfy debts regardless of the ability to do so; and
+AG  ¶   20(b)  the   conditions  that  resulted   in   the   financial  problem   were
+largely  beyond  the  person’s control (e.g.,  loss of  employment,  a  business
+downturn,  unexpected   medical   emergency,  a   death,   divorce,  or
+separation,  clear  victimization   by   predatory   lending   practices,  or  identity
+theft), and the [person] acted responsibly under the circumstances.
+6 ISCR Case No. 02-18663 (App. Bd. Mar. 23, 2004).
+7 Directive, Enclosure 3, ¶¶ E3.1.14 and E3.1.15.
+The evidence supports a conclusion that Applicant has a large unpaid judgment
+that he is unable or unwilling to pay, which is sufficient to raise a security concern under
+Guideline F. The disqualifying conditions noted above apply here.
+It’s obvious that Applicant’s financial problem (e.g., the unpaid judgment) resulted
+from  a  combination  of  a  job  layoff  and  a  marital  separation.  Had  Applicant  remained
+continuously  employed,  happily  married,  or  both,  it  is  highly  unlikely  that  the  financial
+problem would have occurred. But it did. And so the question is whether Applicant has
+taken  sufficient  action  to  resolve  the  unpaid  judgment  owed  to  his spouse.  His  wages
+have been subject to garnishment, but otherwise he has not made voluntary payments
+on the debt. Nor has he established a repayment plan in an effort to pay down the debt
+over  time.  It  does  not  appear  he  has  much  enthusiasm  or  motivation  to  do  so,  and
+perhaps that’s understandable given the origin of the debt. Nevertheless, the evidence
+does  not  support  a  conclusion  that  Applicant  has  acted  responsibly  under  the
+circumstances. In other words, there is no evidence of a reasonable plan to resolve the
+debt  and  concomitant  conduct  by  Applicant.  The  mitigating  condition  at  AG  ¶  20(b)
+applies in part, but it is not sufficient to mitigate the security concern stemming from the
+remaining judgment balance of about $45,000.
+Following  Egan  and  the  clearly  consistent standard, I have  doubts and  concerns
+about  Applicant’s  reliability,  trustworthiness,  good   judgment,  and   ability   to   protect
+classified   or  sensitive   information.   In   reaching   this  conclusion,  I  weighed  the   evidence
+as  a   whole  and   considered   if   the   favorable  evidence   outweighed   the   unfavorable
+evidence  or  vice versa. I also considered  the  whole-person  concept. I conclude  that he
+has not  met his ultimate  burden  of persuasion  to  show  that  it  is clearly  consistent with
+the  national interest  to  grant him  eligibility for access to classified information.
+The formal findings on the SOR allegations are:
+Paragraph 1, Guideline F:
+Against  Applicant
+Subparagraph 1.a:
+Against  Applicant
+Conclusion
+It is not clearly consistent with the national interest to grant Applicant eligibility for
+access to classified information. National security eligibility is denied.
+Michael H. Leonard
+Administrative Judge

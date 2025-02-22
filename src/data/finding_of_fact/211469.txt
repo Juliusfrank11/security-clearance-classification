@@ -1,0 +1,252 @@
+Having   thoroughly  considered   the   evidence   in  the   record,  I  make   the   following
+findings  of  fact:   Applicant  is  51   years  old.  He   enlisted   in  the   Marine   Corps  in  August
+1990.  He served  in  Desert Storm,  Desert Shield, Operation  Restore Hope,  31st  Marine
+Expeditionary Unit (MEU) out of Okinawa, Japan, and  on  two  sea  service  deployments
+throughout  Southwest   Asia.   He  earned  a   master’s  degree   in  2007   from   the   Naval
+Postgraduate   School  in   information   technology  management  (ITM).  He  retired   with   an
+honorable  discharge  in  July  2011  at the  rank of  staff  sergeant. His decorations  include
+the   Meritorious   Service  Medal,  Navy   Commendation   Medal,   and
+three   Navy
+Achievement Medals. He has an  extensive  background  in IT and  various certifications.
+Applicant  was   married   in  1994   and   subsequently   divorced   in   2018.  He   has  an   adult
+daughter, and a  son, age 17.  (Tr. 12-13, 23-25; GE 1, GE 2)
+Applicant  was  hired  in  February  2014  by  a  government  contractor  as  an
+operations  manager.  One  of  his  responsibilities  was  to  ensure  that  the  company’s  IT
+operations  ran  smoothly.  He  held  a  DOD  security  clearance  in  this  position.  Under
+Guideline  M  (Use  of  Information  Technology),  SOR  ¶  1.a  alleges  that  Applicant,  while
+employed  in  this  position  and  without  the  chief  executive  officer’s  (CEO)  approval,
+obtained and utilized access to his employer’s network drives, which contained the co-
+owners’ personal information, as well as corporate sensitive information. (Tr. 23, 25-29;
+GE 4)
+Applicant testified at the hearing that he  had asked the co-owner  (minority owner)
+of the company  for  system  administrator access  through  an  email  communication, with
+the  CEO  copied  on  the  email. In about June  2014, he  was granted  system  administrator
+access   in  order to   perform   a   network  assessment.   He admitted  that  with   administrator
+access   he   had   admittance   to   the   owners’   personal   information   and   any   company
+proprietary  information  that was  saved  on  any of the  drives  on  the  network.  He  denied
+this  allegation   in  his  SOR  Answer  because   he   did  not  use   or  take   any  proprietary  or
+sensitive information.  Applicant  also adamantly  denied  in his SOR  Answer ever having
+system  administrator access, which  would  have  prevented  him  from  doing  some  of the
+activities  alleged  in the  SOR.  This information  contradicts his testimony.  (Tr. 30-31, 51-
+52)
+SOR ¶ 1.b alleges that Applicant, without being tasked to do so, gave an outside
+vendor and personal friend/acquaintance, access to his employer’s network and allowed
+the  vendor  to  install hardware/software  devices  on  the  network  without  prior  approval.
+He did not obtain a nondisclosure agreement (NDA) from the vendor before giving the
+vendor access to sensitive company data.
+In  June  2014,  Applicant  hired  vendor  (A  to  come  to  the  business  where  the
+vender  installed  software  and  hardware  (Infoblox)  to  access  the  network  to  ensure
+cyber compliance and to perform network hardening, or the testing of vulnerabilities on
+the  company’s hard  drives.  Applicant  was familiar  with  the person who  worked for the
+software  company,  but  not  the  vendor  who  used  the  software.  After  the  vendor
+performed  these  services,  Applicant  admitted  the  CEO  claimed  that  he  had  not  been
+given  authorization  to  have  a  vendor  perform  specific  tasks  during  the  network
+assessment. He stated that he had been clear during weekly work meetings of his intent
+to hire vendor A to access the company’s network. He was present with the vendor the
+entire  time  they  were  on  location  performing  these  tasks.  The  vendor  tested  for
+vulnerabilities across the network and provided recommendations on how to harden the
+network.  He  was  not  aware  that  he  was  supposed  to  obtain  an  NDA  from  the  vendor
+since he thought NDAs were only needed in business development. Applicant admitted
+he  used  the  system  administrator  status  he  was  granted  so  the  vendor  could  perform
+these tests. He testified that he held the system administrator rights for about two weeks
+in June 2014. (Tr. 32-36, 50-52; GE 4)
+A  government  witness,  Mr.  Z,  with  31  years  of  IT  experience  and  who  also
+provided IT services to the federal contractor through his company, testified that a few
+weeks before Applicant resigned from his employment, Mr. Z was tasked with reviewing
+and  monitoring  the  government  contractor’s  network  to  determine  if  any  company
+documents were lost or if any data was transferred from the company’s network. Mr. Z
+testified  that  he  managed  all  the  rights,  permissions,  and  access  to  data  on  the
+company’s network. He did not grant system administrator privileges to Applicant, but in
+May 2014, he did grant vendor A full access through a temporary system administrator
+account. Applicant was also able to have system administrator access via the temporary
+account  that  was  to  be  used  only  by  the  vendor.  He  stated  that  Applicant  used  the
+temporary  account  access  privileges  from  May  2014  until  late  September  2014,  when
+an  employee  reported  that  Applicant  had  complete  domain  administrator  privileges
+because Applicant had given him the account access password. Mr. Z testified that the
+security manager immediately requested that he remove Applicant’s access through the
+temporary account created for the vendor. (Tr. 18, 97-99, 101-103, 105-107; GE 2, 4)
+SOR  ¶  1.c  alleges  that  on  January  14,  2015,  Applicant  downloaded  his
+information  regarding  the
+employer’s  proprietary
+employer’s owners, and project data related to one or more government contracts.  He
+saved approximately 7 GB of data to a personal Dropbox and then deleted evidence of
+the activity from his work laptop.
+information,  sensitive  personal
+Applicant testified this event occurred about a month before he left this place of
+employment.  He  stated  that  he  installed  a  Dropbox  account  due  to  employees  having
+difficulty  obtaining  information  from  the  company  drives.  This  Dropbox  allowed  project
+employees  access  to  information  while  there  were  at  their  customer  worksites.  The
+information he placed in the Dropbox was necessary for the employees to perform their
+job duties, and he said the Dropbox was in full compliance with IT rules and regulations.
+He did not recall asking for permission to set up the Dropbox account but stated he had
+provided  notice  during  the  weekly  meetings  that  he  was  going  to  do  so.  He  started
+moving data  into the Dropbox, which he claimed was  a  secure environment, using  his
+work e-mail. He worked out of the conference room on a regular basis and sometimes
+turned off the lights to take advantage of the natural lighting. As soon as the CEO found
+out  that  he  had  completed  this  task,  she  got  extremely  upset,  and  he  immediately
+deleted the information he had placed into the Dropbox. (Tr. 36-45, 62-64; GE 2)
+Mr. Z testified that the night of January 14, 2015, just before Applicant departed
+from  his  employment,  he  was  accessing  files  from  the  company’s  server  at  4:20  p.m.
+The forensic evidence showed that about 7 GB of data was transferred onto Applicant’s
+laptop in his Dropbox account. Mr. Z stated that the Dropbox was not a secure or proper
+way  to  handle  the  transference  of  sensitive  information.  The  office  video  camera
+footage showed that at 6:26 p.m., Applicant turned off the lights in the conference room
+while  waiting  for  the  data  to  migrate.  At  7:04  p.m.,  Applicant  deleted  the  Dropbox
+content from his laptop with encryption to prevent detection. Security video footage also
+showed that Applicant then turned on the lights, activated the building’s security alarm,
+and  exited  the  building  with  his  personal  belongings  in  hand.  Based  on  the  forensic
+evidence found by Mr. Z during an examination of Applicant’s work laptop, the CEO filed
+an  incident  report  against  Applicant.  She  accused  Applicant  of  downloading  company
+proprietary information and sensitive personal information concerning the owners of the
+company,  and  project  data  related  to  one  or  more  government  contracts  that  was
+possibly considered Controlled Technical Information. On this day, Applicant moved the
+data into a personal Dropbox account on his work laptop using his personal email, and
+then he deleted the trail from his laptop that same evening with the use of File Sanitizer,
+which  was  used  to  permanently  delete  files.  Less  than  a  week  after  this  incident,
+Applicant  submitted  his  letter  of  resignation  to  the  company.  The  detailed  analysis  of
+forensic  data  recovered  from  Applicant’s  laptop  was  provided  to  the  Defense  Security
+Service and the FBI. (Tr. 107-112; GE 2, 3, 4)
+Due  to  this  incident,  in  April  2015,  the  security  manager  of  the  government
+contractor  contacted  their  customer  on  a  government  contract  to  self-report  a  security
+incident  concerning  their  former  employee.  The  security  manager  informed  their
+customer  that  Applicant  had  downloaded  sensitive  information  regarding  the  contract,
+and requested further direction from the customer. (GE 4)
+SOR  ¶  1.d  alleges  that  Applicant  violated  his  employer’s  IT  policies  when  he
+used  his  work  laptop  to  download  or  access  pornographic  material.  Applicant  testified
+that  he  was  not  aware  that  he  had  accessed  pornography  on  his  work  laptop,  but  he
+takes  accountability  for  this  transgression.  “I'm  not  saying  I  didn't  do  it.  I'm  just  not
+aware  of  it.”  He  testified  that  he  would  never  download  porn  but  he  could  have
+accessed porn on his work laptop. He was aware that he should generally not access
+pornography on a work laptop, but he was not aware of any specific rule or policy that
+prohibited  such  conduct.  He  was  not  aware  that  porn  sites  were  notorious  for  having
+viruses or malware. (Tr. 46, 77-78; GE 4)
+SOR  ¶  1.e  alleges  that  Applicant  “enabled”  or  tampered  with  “HP  Protect”
+security  software on his laptop  in  violation of company policy. Applicant  stated that he
+did use HP Protect to wipe the work computer when he was departing his employment
+in February 2015, which he thought was an acceptable practice at most companies. He
+denied installing HP Protect on his work computer because he believed it was already
+preloaded  onto  his  work  computer.  He  did  not  admit  to  wiping  his  computer  clean  on
+more than one occasion, but he did admit he did so at the end of his employment. (Tr.
+36-45, 47-49; 62-64; GE 2, 4)
+Mr. Z testified that wiping a computer clean is a red flag for IT professionals that
+someone  is  trying  to  hide  something  on  their  computer.  Wiping  a  computer  before
+departing a place of employment is also not a common practice within the industry. He
+testified that a standard user should not have access to do a factory reset of the work
+computer  unless  they  had  administrator  rights.  When  a  laptop  is  returned  by  an
+employee, all that is needed is to wipe out the user’s profile. There is no need to initiate
+a  complete  wipe  of  the  computer.  Mr.  Z said  that  Applicant  had  completed  a  previous
+wipe  to  his  work  laptop  in  either  July  or  August  2014,  in  addition  to  the  wipe  he
+performed in February 2015, based on his forensic analysis. Mr. Z was able to recover
+most of the deleted data on Applicant’s laptop by using R-Studio, and other applications
+in  his  forensic  examination.  He  determined  that  Applicant  had  been  able  to  do  many
+activities that a standard IT user would not be able to do. (Tr. 108-117; GE 4)
+SOR  ¶  1.f  alleges  that  Applicant  created  multiple  usernames  and  passwords
+without  IT  or  CEO  permission  in  violation  of  company  policy.  Applicant  stated  this
+incident  stemmed  from  the  time  he  hired  a  vendor  to  perform  system  checks  and
+vulnerabilities  on  the  company’s  network.  He  created  multiple  usernames  and
+passwords  so  that  the  system  screenings  could  be  performed.  Another  employee
+reported  to the  security  manager  in  September 2014  that Applicant  had  given  him  the
+system administration password. The security manager contacted Mr. Z and requested
+that Applicant’s system administrator access be removed immediately. When Applicant
+was questioned about this incident, he stated; “I don’t really understand the context, so
+it’s hard for me to say.” (Tr. 50-52; GE 4, 5)
+SOR ¶ 1.g alleges that Applicant installed unauthorized software on his company
+laptop  in  violation  of  company  policy.  Department  Counsel  acknowledged  this  SOR
+allegation  somewhat  overlapped  with  the  allegation  of  Applicant  installing  or using  HP
+Protect  software.  Applicant  stated  in  his  SOR  response  “I  did  not  utilize,  nor  was  I
+afforded  system  administration  or  network  administration  right  in  any  capacity  of  my
+job.”  This  sentiment  is  repeated  several  times  in  his  SOR  Answer.  His  testimony
+indicated  he  was granted  system  administrator  privileges for approximately two  weeks
+in June  2014  by  the  minority owner.  Applicant explained  previously that  the  HP Protect
+software   was  already   preloaded   on   his  work  computer,  but  the   IT  provider,  Mr.  Z,
+testified   that  he   deleted   all   applications  of   HP  Protect  from   all   of  the   work  laptops
+provided  to  government contractor employees. When  I specifically asked  Applicant if  he
+had  downloaded  HP Protect,  which  was used  to  wipe  his laptop,  his response  was;  “No,
+not  that  I'm   aware   of.”   He  denied   knowledge   of   the   File  Shredder   on  his  laptop,  and
+explained   that  the  Dropbox account  was   not   software   but  was  actually   “a   link  to   go   to
+the  internet”  in  order to  interface  with  an  encrypted  site, like  a  cloud.  (Tr. 47,  52-54, 56-
+57; SOR Answer; GE  4)
+Mr.  Z testified  that the federal contractor did not utilize  Dropbox. He  stated  that
+government contractors are not permitted to store any information on the cloud unless it
+is  an  approved  government  cloud,  such  as  DOD  SAFE,  for  instance.  He  also  pointed
+out that if an employee needed Dropbox, they would use their work email address and
+create  the  account.  Applicant  did  not  use  his  work  email  address.  Applicant  used  his
+personal account when using Dropbox on his computer. Mr. Z stated that the analysis of
+the Dropbox  not only showed the  contractor’s  data  was stored there,  but also  showed
+data Applicant had taken from a previous employer. Mr. Z stated, “so, we see a pattern
+here.” (Tr. 117-122; GE 4)
+SOR ¶  1.h  alleges that  Applicant disabled  or  failed  to  run  virus protection  on  his
+work  laptop,  which   resulted   in  malware  virus  infestation   of  his  local  profile.   He  denied
+this allegation  in  his Answer and  again during  his testimony.  When questioned  about  his
+access  to  porn  websites to  view pornography, I asked  Applicant  whether it  was  common
+knowledge   in  the   IT  industry  that  many  of  these   porn   websites  contained   viruses  or
+malware.  Applicant  answered  that  he  was not aware  of this  information.  (Tr. 54-55, 77-
+78; SOR Answer; GE  4)
+Mr.  Z logged into Applicant’s  work laptop and  discovered  that  there  was  not  an
+active  virus  defense  application  installed.  A  full  scan  of  the  computer  revealed  Trojan
+viruses and malware in the local profile used by Applicant. Mr. Z had to have the viruses
+and  malware  removed  before  a  detailed  analysis  of  Applicant’s  laptop  could  be
+completed.  Mr.  Z  also  noted  that  accessing  pornographic  websites  could  have
+contributed to the viruses and malware on the laptop. (GE 4)
+Applicant departed employment with the federal contractor in February 2015 and
+started  a  franchise.  He  testified  that  the  franchise  did  not  interfere  or  overlap  with  the
+business of his former employer. He operated the franchise for five years while he also
+worked concurrently as a sales director for another company. Since 2018, Applicant has
+served as a vice president of his current company, and he is requesting a DOD security
+clearance  be  granted  so  he  can  perform  specific  job  duties.  (GE  1;  Tr.  12-13,  22-23;
+SOR Answer)
+Paragraph  2  of  the  SOR  alleged  Guideline  K  (Handling  Protected  information)
+security  concerns,  and  it  cross-alleged  SOR  ¶¶  1.a-1.c.  Applicant  denied  that  he
+mishandled  protected  information  in  any  way.  (SOR  ¶  2.a)  Paragraph  3  of  the  SOR
+alleged Guideline E (Personal Conduct) security concerns, as follows:
+SOR ¶ 3.a alleges that in approximately August 2014, Applicant refused a direct
+order  from  the  CEO  to  lay  off  an  employee.  Applicant  admitted  this  information  in  his
+Answer. Instead of laying off the employee, he stated that the CEO wanted him to fire
+the  female  employee  for  a  dress  code  violation,  specifically,  for  a  skirt  that  was  too
+short.  Applicant  determined  that  this  employee  was  not  in  violation  of  company  policy
+and  refused  to  fire  the  employee.  A  meeting  followed,  and  the  CEO  again  asked
+Applicant to fire the employee. Applicant stated that he refused because the female was
+not his employee and because he believed that both owners of the company were also
+in  violation of  the  dress  code policy.  Applicant  denied that  he had a  close  relationship
+with this employee, but he did acknowledge she was hired to work for his franchise after
+he left the government contractor. The CEO reported that Applicant was asked to lay off
+the employee due to lack of contract work, and he refused. (Tr. 64-69; GE 5)
+SOR  ¶  3.b  alleges  that  in  approximately  August  2014,  Applicant  informed  the
+company’s security officer that he already had possession of all of his employer’s data.
+Applicant  denied  this  information.  He  stated  in  his  Answer  that  any  data  that  he
+maintained was for the normal performance of his employment duties. He testified that
+because  he  did  not  have  system  administrative  rights,  he  denied  that  he  had  “full”
+access to all of the company’s data. (Tr. 69-70; GE 5)
+SOR ¶ 3.c alleges that while Applicant was the sole administer of his employer’s
+LinkedIn account, he allowed, or caused, the employer’s page to be changed or redirect
+visitors to Applicant’s new startup company, rather than the federal contractor. Applicant
+admitted  setting  up  his  employer’s  LinkedIn  account.  After  his  departure,  he  was  not
+aware  he  was  the  sole  person  who  retained  rights  to  the  LinkedIn  account.  Once  the
+human  resources  director  contacted  him  about  this  matter,  he  immediately  provided
+access  and  privileges  to  his  previous  employer.  His  testimony  was  that  this  was  a
+misunderstanding and in no way intentional. (Tr. 70-72; GE 6)
+SOR ¶ 3.d cross-alleged all of the information  cited  under Paragraphs 1  and 2.
+Applicant denied this information.
+Character Evidence
+Applicant called a former colleague who had worked with him while employed by
+the  same  government  contractor.  The  individual  said  he  felt  compelled  to  testify  on
+behalf  of  Applicant  because  after  he  left  this  same  employer  in  early  2016,  the
+company’s  CEO  also  falsely  charged  him  with  many  of  the  same  accusations  they
+made about Applicant after his departure in February 2015. The witness believed these
+were  company  tactics  to  prevent  employees  from  competing  with  the  company’s
+business. He clarified that his role in this company was business development, and he
+was  not  involved  in  IT.  He  also  admitted  that  he  continued  to  develop  business  after
+leaving  this  employment,  and  the  federal  contractor  was  successful  in  preventing  him
+from pursuing business with a contact he had developed. The witness also testified that
+he has worked on many projects with Applicant, and Applicant’s business and personal
+actions  were  always  beyond  reproach.  He  recommended  that  Applicant  be  granted  a
+DOD security clearance. (Tr. 82-93; AE F, G)
+Applicant  also  provided  character-reference  letters  from  a  previous  employee,
+supervisor, and the president of the federal contractor that currently employs Applicant.
+The  general  sense  of  the  character  evidence  is  that  he  is  diligent,  professional,
+productive,  reliable,  and
+important
+contributions to warfighters’ mission. His character statements support reinstatement of
+his security clearance. (AE C, D, E)
+trustworthy.  Applicant  continues
+to  provide

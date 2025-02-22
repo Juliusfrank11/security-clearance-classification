@@ -1,0 +1,109 @@
+Applicant is a 45-year-old employee of a defense contractor. He served in the Air
+National  Guard  from  1996  until  he  was  honorably  discharged  in  2002.  He  graduated
+from law school in 2008. He is married with children. (Transcript (Tr.) at 57, 159; GE 1-
+3; AE 9)
+Applicant  worked  in  software  development  before  he  went  to  law  school.  He
+practiced law for a period, but then went back to software development. He worked for a
+defense  contractor  from  2009  to  2017,  primarily  as  a  software  developer  and  system
+administrator at a DOD agency. (Tr. at 57-60, 87; GE 1-3)
+In August 2017, the DOD agency notified the Inspector General (IG) that during
+routine  monitoring  of  Internet  usage  and  network  traffic,  they  detected  that  Applicant
+used a government information technology (IT) system to view illicit material containing
+sexual content, which was against the agency’s IT policy. The report indicated:
+
+
+
+In January 2017, Applicant searched Google for “girl rubbing herself.” The search
+contained nude images and sexual content.
+In  June  2017,  Applicant  searched  Google  for  “rubbing  her  [vulgar  term  for
+vagina].” The search contained nude images and sexual content.
+In June 2017, Applicant searched Google for “female oral.” Applicant then viewed
+several pages of nude images of men and women engaged in sexual acts. (GE
+4)
+The agency further reported that since 2012, Applicant had been involved in 19
+other cases of unauthorized software downloads. The software included graphics, audio
+and  music  editing  software,  bar  examination  preparation  software,  and  text  editing
+software.  The  agency  noted  that  Applicant  was  sent  a  user  account-violation  warning
+letter on a specific date in April 2016. (GE 4, 5)
+In  August  2017,  Applicant’s  access  to  the  DOD  agency’s  network  was
+suspended, and he was escorted off the premises. He asserted that he was not told the
+reason. He wrote an e-mail with a copy to the IG. He thought the IG might already have
+an  open  investigation,  and  he  was  “concerned  that  [he]  was  being  inappropriately
+removed”  from  the  contract.  He  wrote:  “If  the  reason  that  I’m  being  removed  for  is
+working on [an]other project for another company, during contract hours, I would like to
+explain.”  He  indicated  that  during  lulls  in  work  or  when  he  needed  a  break,  he  would
+practice programming on his personal websites. (Tr. at 111-117; GE 4, 6)
+The IG obtained a report of Applicant’s unclassified Internet usage. From March
+2017 through August 2017, Applicant visited his personal websites 1,015 times. The IG
+contacted  an  unidentified  individual,  who  stated  that  Applicant’s  use  of  his  personal
+websites for duty-related purposes was not in compliance with the contract statement of
+work (SOW). (GE 6)
+Applicant was interviewed over the telephone by an IG investigator in December
+2017.  He  stated  that  he  used  his  personal  websites  to  practice  programming  and
+develop solutions for site problems at the DOD agency. He estimated that from March
+2017  to  August  2017,  he  visited  his  personal  websites  about  three  to  four  times  per
+week, for up to two hours per day. The IG estimated that equated to between 150 and
+200  hours  at  an  hourly  rate  of  $153,  or  between  $23,071  and  $30,762.  The  IG
+concluded that Applicant committed contractor cost mischarging (labor hours) when he
+submitted  fraudulent  timesheets  that  included  150  to  200  hours  that  he  spent  working
+on tasks not specified in the contract SOW. The U.S. Government apparently recouped
+an amount in the above range from a defense contractor. (Tr. at 113-121, 148-151; GE
+6)
+Applicant  denied  some  of  the  conduct  and  explained  the  rest.  He  admitted  that
+he downloaded software, but he stated that it was  primarily for his job. He was a data
+transfer officer (DTO) who would download items for others. He admitted downloading a
+few  programs  that  were  not  for  his  job,  such  as  a  Sudoku  solver  and  an  audio
+manipulation program that he used to make old songs sound better. He does not recall
+downloading  the  bar  examination  preparation  software,  but  he  surmises  that  he  likely
+did.  He  stated  that  employees  were  permitted  incidental  non-official  use  of  their
+computers,  and  he  did  not  realize  that  he  was  unauthorized  to  download  any  of  the
+software. He denied ever receiving a warning letter. He stated that the only thing he was
+told was that the Sudoku solver was unauthorized, and it was deleted from his system.
+(Tr. at 59-70, 85-86, 123-127, 153-155; Applicant’s response to SOR)
+Applicant denied intentionally submitting fraudulent timesheets. He asserted that
+his use of his websites was to hone his skills as a software developer or to benefit the
+DOD  agency.  Additionally,  incidental  non-official  use  of  the  computer  was  permitted.
+(Tr. at 59-60, 86-101, 141-153, 156-159; AE 5-7)
+Applicant admitted that he conducted the Google searches on the government IT
+system,  which  revealed  inappropriate  material,  but  he  denied  that  he  viewed  sexually
+explicit material. Applicant was involved in an online affair with a woman he had  never
+met in person. The affair included graphic chats and exchanges from his phone, which
+involved  sexually  explicit  materials  and  “phone  sex.”  He  wanted  to  send  her  flirtatious
+and  suggestive  material with  “non-explicit  but  sexual images” using  the  GIF  (Graphics
+Interchange Format - short animated or moving pictures) format over the government IT
+system. He knew the system had SafeSearch, which would screen out most, but not all,
+graphic materials. He admitted that even with SafeSearch on, he “came across explicit
+images a few times. [He] did not download these and browsed away quickly, or closed
+the  browser.”  He  also  admitted  that  he  “had  several  inappropriate  text  conversations”
+with the woman from a government computer. (Tr. at 71-77, 82-84, 102-106, 128-141,
+155-156; Applicant’s response to SOR; GE 2, 3; AE 3, 4, 15)
+Applicant  described  one  of  the  GIFs  he  sent  as  what  appeared  to  be  a  man
+performing  oral  sex  on  a  woman.  Another  was  of  a  woman  with  her  hand  inside  her
+underwear  apparently  masturbating.  He  asserted  that  there  was  no  visible  nudity  or
+genitalia in any of the GIFs. (Tr. at 71-72, 83-84, 133-134; GE 2, 3; AE 3)
+Applicant stated that his affair with the woman ended in August 2017, a few days
+before he was removed from the contract. He asserted that he was never told why he
+was  removed  from  the  contract.  He  thought  the  affair  itself,  but  not  necessarily  the
+inappropriate searches, might have been discovered. He stated that he did not think the
+inappropriate  searches  and  images  were  an  issue  until  he  thought  it  through  about  a
+week or two after he was removed from the contract. He told his wife of the online affair
+in August 2017. He also sought advice and counseling through his church. (Tr. at 78-80,
+101, 106-113; AE 4, 9, 14)
+Applicant thought the affair could have been “a point of blackmail.” He indicated
+that he “drafted a letter to self-report in August of 2017 but was advised to not report by
+a  trusted  advisor.”  He  discussed  the  information  during  his  background  interview  in
+March  2018.  He  reported  the  information  to  his  facility  security  officer  (FSO)  in  April
+2018. In that report, he indicated the incidents happened “[d]uring a rough patch in [his]
+marriage in May-July 2017.” When asked at hearing how that accounted for his search
+in January 2017, he stated that  he and the woman were friends before January 2017,
+and the flirtatious behavior, but not the full online affair, started in January 2017.  (Tr. at
+78, 107-111, 131-132; AE 4, 14)
+Applicant  apologized  for  his  inappropriate  conduct.  His  actions  cost  him  his  job
+and almost his marriage. He asserted that he has learned a valuable and costly lesson,
+and that the conduct will not be repeated. (Tr. at 81-82, 121-122, 137)
+Applicant  volunteers  in  his  community,  and  he  is  active  in  his  church.  He
+submitted  documents  and  letters  attesting  to  his  moral  character  and  excellent  job
+performance.  He  is  praised  for  his  work  ethic,  honesty,  trustworthiness,  judgment,
+loyalty,  strength,  determination,  dependability,  integrity,  and  willingness  and  ability  to
+protect  classified  information.  He  is  recommended  for  a  security  clearance.  (Tr.  at  18-
+35, 51-54; AE 8-13)

@@ -1,0 +1,154 @@
+The SOR alleges under Guideline E (SOR ¶ 1.a), and cross-alleges under Guideline
+K (SOR ¶ 2.a), that, in about April 2018, Applicant committed a security violation by exiting
+a classified area with classified papers in his possession, and that he failed to self-report
+that violation to his facility security officer (FSO).  After considering the pleadings, exhibits,
+and transcript, I make the following findings of fact.
+Applicant  is  a  61-year-old  senior  engineer.  (GE  1;  Tr.  43.)  He  and  his  spouse
+married  in  September  1994,  and  they  have  two  sons,  ages  30  and  28.  Applicant  was
+awarded an associate’s degree in October 1991, a bachelor’s degree in May 2002, and a
+master’s degree in October 2012. He served in the U.S. Army Reserve from July 1979 to
+February 1982, when he enlisted in the U.S. Navy. He retired after 20 years of active-duty
+service in May 2002. He started working for his current employer, a defense contractor, in
+September 2003. He held a top-secret clearance when he was in the Navy and for his work
+with his employer until 2018. He was granted access eligibility for sensitive compartmented
+information  (SCI)  in  December  2016.  In  April  2018,  his  clearance  eligibility  was
+downgraded  to  the  secret  level;  his  SCI  access  eligibility  was  withdrawn;  and  he  was
+removed from a classified program following his commission of a security violation in April
+2018. (GE 1, 3; Tr. 55-56.) The details of the April 2018 incident are as follows.
+Because of his experience, high level of clearance, and work demands, Applicant
+was tasked with working on a classified project as well as carrying out his normal duties in
+April 2018. (GE 3; AE A.) That project required him to access a closed area outside of his
+normal  worksite.  (Tr.  24-25,  41.)  Shortly  before  11  a.m.  on  Monday,  April  16,  2018,
+Applicant  exited  a  closed  area  (SCI  facility  (SCIF))  with  working  papers  containing
+information classified at the secret level. He intended to destroy the classified working
+papers.  He  was  out  of  the  closed  area  for  about  eight  seconds  when  he  noticed  his
+“mistake,” returned to the closed area, and dropped the documents in a bin authorized for
+destruction of classified documents. Around noontime on April 17, 2018, Applicant asked
+two “seasoned” program personnel (co-workers X and Y) about what was required if he
+had exited a closed area with papers containing information classified at the secret level.
+Applicant was told by co-worker X to immediately report the action to security officials; that
+it made no difference if he retained control of the information; and that he could not attempt
+to circumvent security requirements. About an hour later, co-worker X informed a security
+official  at  work  about  his  concern  that  Applicant  possibly  deviated  from  security
+requirements and did not report the incident. (GE 2.)
+On Thursday, April 19, 2018, an all-hands security meeting was held with cleared
+personnel to reiterate the security policies while working in the closed area and to remind
+them about the requirement to self-report any deviations or incidents. All attendees at the
+meeting,  including  Applicant,  were  encouraged  to  be  more  security  conscious  and
+reminded of their responsibilities for handling sensitive and classified information. By the
+day’s end, Applicant had not reported his security violation to his program manager or to
+security managers. (GE 2.)
+Applicant had a scheduled day off from work on Friday, April 19, 2018. When he
+returned  to  work  on  April  23,  2018,  he  was  informed  by  security  personnel  about  his
+violation, which he was required to self-report. Applicant provided a written statement to
+security officials in which he explained that he did not self-report the incident as he “did not
+know the seriousness of the matter.” He indicated that “soon afterwards,” he discussed the
+matter with two peers, who told him to self-report. However, he did not believe it was a
+security  infraction  because  he  had  maintained  control  of  the  document.  He  further
+explained that after reading a warning sign against removing classified material from the
+secure area (including classified “Yellow Paper”), which was posted on the inside exit door
+of  the  closed  area,  and  attending  the  all-hands  security  meeting,  he  determined  self-
+reporting was necessary, but he was off from work on that Friday, April 19, 2018. As to why
+it happened, Applicant stated:
+This occurred simply because I walked the wrong way. I intended to destroy
+the working copy that I was using and ended up walking a more familiar route
+to exit the area. Although I now know the seriousness of this event, and had
+the chance to self-correct, at the time I treated the classified material as a
+normal  courier.  To  make  things  worse,  I  disregarded  peer  help  to  self-
+correct. I put myself, my reputation and my standing before what was the
+right thing to do regarding this physical security matter. (GE 2.)
+In  accord  with  its  reporting  requirements  under  Intelligence  Community  Policy
+Guidance (ICPG) 704.2, Applicant’s employer issued  a security access eligibility report
+(SAER) to the DOD on May 10, 2018, concerning Applicant’s security violation and failure
+to self-report. The security manager who authored the SAER expressed concerns about
+Applicant’s judgment and integrity. When asked whether he had exited the closed area
+with a classified “Yellow Paper,” Applicant was very reluctant to admit his conduct and tried
+to rationalize why he did it. The security manager found it troubling that Applicant did not
+realize the seriousness of the incident. Applicant reportedly questioned the security official
+about where it stated that “Yellow Paper” could not be removed from the closed area even
+though   initial  and   refresher  security   briefings  stressed   that  such   material could  not  be
+removed, and  that the  use  of  “Yellow  Paper”  was spelled  out in the  closed  area’s standard
+operating procedures,  which Applicant read and acknowledged on being briefed into the
+program.  The  security  manager also reported  that Applicant exhibited  a  lack  of candor  with
+co-worker X  by  denying, when  asked, whether he  had  removed  classified  material  from  the
+closed  area. Co-worker  X  recounted  in a  written  statement,  which was appended  to  the
+SAER, that after he  told Applicant to  immediately  turn around, return to  the  secure space,
+and  report his action  to  security, Applicant countered  with  an  apparent inquiry  about “even
+if   he   retained   control  of   the   information.”  Co-worker  X   did  not  indicate   in  his  written
+statement that Applicant expressly  denied  having  exited  the  secure space  with  a  paper
+containing  secret  information. (GE 2.)  Applicant maintains that he  never denied  exiting  the
+closed area with the classified paper or said “anything like that.” (Tr. 53.)
+Video-surveillance of the door to the closed area showed that only eight seconds
+passed between Applicant’s exit from, and return to, the closed area with the classified
+papers  in  hand,  but  the  security  manager  concluded  that  the  risk  of  compromise  of
+classified information could not be completely discounted, as visual surveillance could not
+be  validated  for  about  three  seconds  of  time.  Applicant’s  employer  issued  a  written
+reprimand to Applicant; placed him in a probationary status for six months; and removed
+him from the program. (GE 2.)
+On  July  6,  2020,  Applicant  completed  a  Questionnaire  for  National  Security
+Positions (SF 86) for reinvestigation of his clearance eligibility in light of his April 2018
+security violation and failure to self-report. He responded negatively to an SF 86 inquiry into
+whether his security clearance eligibility or access authorization had ever been denied,
+suspended, or revoked, but commented as follows:
+Following a 2018 violation, I was administratively downgraded from TS to S,
+and  removed  from  a  program.  I  have  since  left  that  department  at  the
+company. (GE 1.)
+During a July 29, 2020 interview with an authorized investigator for the Office of
+Personnel Management  (OPM),  Applicant  stated about the April 2018 incident that he
+walked out of a SCIF with his lunchbox and folder without realizing that the folder had a
+yellow cover sheet. His intention was to find a microwave for a working lunch. Seconds
+later, he returned to the SCIF when he realized his mistake. He attributed his failure to self-
+report the violation to wanting to know what kind of violation he had made before reporting
+it, and explained that he could not verify that it was an infraction as there was no written
+procedure in place that such materials could not leave the SCIF. He asserted that when
+asked by a security manager at work whether he had exited the closed area with classified
+information, he explained that he could not find a local instruction of an infraction in that
+regard. During his OPM interview, Applicant expressed regret for his April 2018 actions and
+admitted  that  he  had  plenty  of  chances  to  report  the  incident.  He  denied  any  risk  of
+recurrence as he “learned a valuable lesson.”  (GE 3.)
+At his hearing, Applicant explained about the April 2018 incident that he had put his
+lunchbox on his shoulder and was walking to the microwave for a working lunch and that
+he never intended to leave the closed area with classified material. (Tr. 40.) He was under
+schedule stress due to stalled and overdue projects on which he worked part time. He
+found it “impossible [to] work both projects at the same time and would timeshare days
+between  them.”  He  acknowledged  that  the  proper  procedure  would  have  been  to  ask
+someone in the closed area to handle his classified material for him when he left the area,
+but he “did not know many employees there” and so did not ask anyone to hold classified
+material for him. Normally, he locked up his work when away from his temporary desk in
+the closed area. (AE A; Tr. 41-42.) He testified that after the incident, he could find “nothing
+in any procedure, written or otherwise, that classified material couldn’t leave the SCIF.” (Tr.
+46.)
+Applicant  still  feels  shame  and  regret  over  the  April  2018  incident.  (Tr.  40.)  He
+expressed his understanding that neither his guilt over the incident nor workplace stress
+justifies  his failure  to  self-report.  He  explained  that  he  acted  on  his “personal self  and
+knowledge of right and wrong pertaining to the many security procedures in place” gained
+from his security responsibilities and duties through the years, and he could find nothing in
+his procedures, written or otherwise, that prohibited classified material from  leaving the
+SCIF. (AE A; Tr. 42, 46.) Yet, he admitted on cross-examination that, based on many years
+of  having a clearance and security training, he did not believe he was allowed to take
+classified information from the SCIF; that he knew it was a security violation; and that he
+knew he had to report it. (Tr. 47.) As to why the all-hands security briefing of April 19, 2018,
+did not prompt him to report the incident, Applicant responded,
+I—I think that—you know, that the amount of seconds had something to do
+with it. I think that, you know, it’s a lack of judgment on my part. It was—it
+was  the---you  know,  the  schedule  and  the  problems  I  was  having  in  a
+number of areas. I think that there was just a load on my mind, and---and it
+was just downright bad judgment and wrong. (Tr. 50.)
+Applicant disputes the security manager’s characterization that he was reluctant in
+admitting that he exited the closed area with classified papers in hand on April 16, 2018.
+He asserts that looking for a security instruction or procedure was something he had been
+doing for about 40 years; that he knew he did wrong but that he was trying to find out how
+bad his violation was, and he “ran out of time” in that security got to him first. (Tr. 52-53.)
+Applicant moved into his current work group in 2020. He held a secret clearance
+with no issues until the SOR was issued. (Tr. 38.) His supervisor attests that Applicant has
+been a very reliable worker who takes pride in his work. He requests additional work if he is
+finished  with  his  assigned  tasks,  which  currently  do  not  require  him  to  hold  a  security
+clearance. (Tr. 32-33.) If Applicant’s clearance eligibility is adjudicated favorably, it would
+allow him to work on classified projects in their group. (Tr. 34.) The supervisor is unaware
+of the April 2018 security incident. Applicant offered to inform him of the reason for the
+hearing, but the supervisor thought it best not to know. (Tr. 36.)
+Applicant’s spouse  testified  about the  seriousness with  which Applicant takes his
+work. To  her  knowledge, he  has never revealed  any  classified  information  to  her. (Tr. 19-
+20.) He was “devastated” by  the  April 2018  incident.  She  has known  him  to  be  a  loving  and
+caring  person, as evidenced  by  the  fact that they  have  been  staying  at her  mother’s  to  care
+for her. (Tr. 20, 24.)

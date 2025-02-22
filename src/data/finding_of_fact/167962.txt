@@ -1,0 +1,122 @@
+Applicant  is a 49-year-old  employee of  a defense contractor  (Company B).  She
+has  worked  for  her  current  employer  since  April  2017.  She  seeks  to  retain  a  security
+clearance,  which  she  has  held  since  about  2003.  She  earned  a  bachelor’s  degree  in
+2006.  She  is  married  for  the  third  time  after  two  divorces.  She  has  an  adult  child.
+(Transcript (Tr.) at 15-17,44; GE 1, 3)
+Applicant  worked  as  a  cybersecurity  specialist  for  a  defense  contractor
+(Company  A)  from  2009  until  she  was  terminated  in  March  2017  after  allegations  of
+poor  performance,  timecard  fraud,  and  copying  proprietary  information  onto  a  thumb
+drive.  Applicant’s  section  failed  an  inspection  in  November  2016.  Her  title  and  salary
+remained the same after the inspection, but she no longer supervised employees.  She
+went to human resources (HR) in November 2016 with a complaint that she was blamed
+for  the  failure.  On  January  14,  2017,  she  again  reported  to  HR  what  she  viewed  as
+unethical practices by the company’s leadership. (Tr. at 17, 33-34; GE 1-3)
+In  about  November  or  December  2016,  Applicant  sought  employment  with
+Company  B.  On  February  7,  2017,  Company  B  sent  her  a  welcome-to-the  company
+email with information about her pre-employment actions to complete, including a drug
+test.  Applicant’s  supervisors  at  Company  A  had  difficulty  locating  her  in  January  and
+February 2017.  On  February 8,  2017, Applicant  was  given  a  verbal warning regarding
+her  absences  and  her  inability  to  be  contacted  by  fellow  employees.  On  February  8,
+2017,  Applicant  downloaded  about  3,000  files  from  her  Company  A  computer  and
+server  onto  an  unencrypted  thumb  drive.  The  files  included  32  personal  files,  and  the
+rest were Company A’s files. (Tr. at 27, 33-36, 51; Applicant’s response to SOR; GE 2)
+On February 9, 2017, Applicant’s  management chain requested the company to
+conduct  an  investigation  into  suspected  timecard  fraud.  On  February  14,  2017,
+Applicant  was  interviewed  by  the  investigators  about  her  hours  and  about  the  files  on
+the thumb drive. (Tr. at 27; GE 2)
+Applicant testified that she gave her employer two weeks’ notice on February 14,
+2017, before the investigation was initiated. There  is nothing  in Company A’s report of
+the  investigation to  substantiate that  assertion.  Company A  was  aware  from  reviewing
+Applicant’s computer that Company B had requested that she undergo a drug test. She
+was asked if she had a job offer from Company B. She stated that she accepted the job
+offer,  but  a  start  date  was  yet  to  be  determined  until  all  contingencies  were  met.
+Applicant was placed on paid suspension until the investigation was complete. She was
+terminated  by  Company  A  on  March  17,  2017.  Applicant  asserted  that  Company  A’s
+actions  against  her  were  because  of  her  whistleblower  report  to  HR.  (Tr.  at  22-23;
+Applicant’s response to SOR; GE 2)
+Applicant  stated  that  she  was  not  terminated  from  Company  A  because  she
+voluntarily resigned to take the job  with Company B before she was terminated. I note
+that  she  reported  on  her  Questionnaire  for  National  Security  Positions  (SF  86)  in
+November  2017  that  she  was  “Fired,”  and  her  attorney  noted  in  her  response  to  a
+proposed   debarment   that   Applicant   was  “terminated”  in   retaliation   after  she   reported
+unethical  conduct  to   HR   and   she   gave   notice  of  her  intent   to   resign.  Applicant  was
+successful  in the  debarment  action.  (Tr.  at  22-23, 40-44; Applicant’s response  to  SOR;
+GE  1)  For the  purpose  of  this decision, it makes little difference  whether Applicant was
+terminated   or  resigned   before  she   could  be   terminated.  The   underlying   conduct  is  the
+issue here.
+Applicant  denied  the  allegation  of  timecard  fraud.  Company  A  investigators
+checked  Applicant’s  timecards  against  the  records  of  when  she  swiped  into  her  work
+facility,  and  determined  that  over  a  six-month  period,  there  was  a  discrepancy  of  294
+hours. Applicant asserted, and her supervisor confirmed, that her supervisor permitted
+Applicant  to  unofficially  work  from  home.  Additionally,  the  investigators  checked
+Applicant’s primary facility, but the company had another facility a few miles away. The
+records would not show all the time she spent at that facility and traveling back and forth
+between  the  facilities.  Finally,  Applicant’s  supervisor  suspected  that  Applicant  was  not
+working all of the hours that she reported on her timecards, but with the approval of the
+supervisor  above  her,  they  chose  not  to  question  Applicant  about  her  hours,  and  just
+approved Applicant’s timecards. (Applicant’s response to SOR; GE 2, 3)
+During  her  interview  by  Company  A  investigators  on  February  14,  2017,
+Applicant admitted that she downloaded the files. She stated that she was backing up
+her personal files, and found it easier to copy her entire directory and go to a meeting
+while the files were being copied. She stated that she planned to delete the Company A
+files from the thumb drive, but had not had the opportunity to do so. (Tr. at 27; GE 2)
+The investigation determined that it took 68 minutes to download the more than
+3,000 files onto the thumb drive. It would have taken less than two minutes to download
+Applicant’s personal files. The investigation concluded that Applicant is an experienced
+cybersecurity  professional  who  knew  it  was  inappropriate  to  use  an  unapproved  and
+unencrypted thumb drive to download Company A proprietary information. (GE 2)
+Applicant  testified  that  she  “inadvertently”  and  “purely  by  accident”  transferred
+the  Company  A  proprietary  files  along  with  her  personal  files  to  the  thumb  drive,  and
+that  it  was  never  her  intention  to  download  or  keep  the  files.  She  stated  that  it  was  a
+simple swipe to download everything, and that she did not notice that it took more than
+an hour to download the files because she went to a meeting. Applicant’s assertion that
+she “inadvertently” downloaded the files is inconsistent with her statement to Company
+A  investigators  in  February  2017  that  she  found  it  easier  to  copy  her  entire  directory.
+She indicated that she knew that plugging in  the thumb drive would prompt a report to
+the security office; she self-reported the incident to the security office; and she returned
+the  thumb  drive  the  same  day  that  the  files  were  downloaded.  That  assertion  is
+inconsistent with the report of the investigation that showed the files were downloaded
+on  February  8,  2017,  and  Applicant  provided  the  thumb  drive  on  February  14,  2017,
+when she was interviewed. She  later testified that she went to security on February 8,
+2017, who told her that copying her own personal files was not against their rules and
+procedures. (Tr. at 27-30, 37-40, 44-45, 51-54; GE 2)
+Applicant  submitted   a   Questionnaire   for   National   Security   Positions  (SF  86)  in
+November  2017.  She   reported   the   timecard   issues  with   Company   A,  but  she   did  not
+report  that   she   downloaded   Company   A’s   proprietary   files   without  the   company’s
+authorization.  Even   if  the   downloading   was  inadvertent,  she   should   have   reported   the
+information  under the  Use of  Information  Technology  Systems question  that asked: “In
+the  last seven (7) years  have  you  introduced, removed, or used hardware, software, or
+media   in  connection   with   any   information   technology   system   without  authorization,
+when   specifically   prohibited   by   rules,  procedures,  guidelines,  or  regulations   or
+attempted  any of the  above?”1  (GE 1)
+During  her  March  2019  interview  for  her  background  investigation,  Applicant
+discussed  the  timecard  allegations.  She  also  indicated  that  she  downloaded  personal
+files onto a thumb drive. There is no indication in the report of the interview that she also
+downloaded  Company  A’s  files.  In  her  response  to  the  SOR  allegation  that  she
+downloaded about 3,000 Company A files onto a thumb drive, she wrote:
+I partially  admit. While  working  at [Company  A] for approximately  8  years
+I  worked   on   numerous  computer  systems;  one   work  station   which  could
+be   considered   my   personal  work  computer  which  housed   unclassified
+information  and  numerous other work stations which did contain  classified
+information.   After  I  accepted   my   new   job   at  [Company   B]  I  transferred
+what I had  accumulated  on  my  “personal work computer”  to  a  thumbdrive.
+Things  included   were  tax   returns,   leases,   receipts   and   various  other
+personal  items;  I  admit  I  should  not  have   had   these   items   on   my
+computer.  Nonetheless  when   leaving   [Company   A]  I  transferred   all   my
+files. I would note  that nothing on my computer was classified at all. I knew
+this when I took this action.
+I  was  contacted   shortly   after  that  [Company   A’s  system]  put   out  a
+notification   of   this  transfer.   Once   notified   I  immediately   returned   the
+thumbdrive   with   all   files.  I   did   not  download   any   file   to   any   computer
+including all of  my personal documents.
+I did not find Applicant credible. After considering all  of  the evidence,  I find that
+she  intentionally  downloaded  Company  A  proprietary  information,  and  she  has  been
+less than forthcoming about her conduct up to and during her hearing.
+Applicant  submitted  documents  and  letters  attesting  to  her  character  and
+excellent job performance, both at Company A and Company B. She is praised for her
+work ethic, patience, mentoring skills, positive attitude, technical proficiency, leadership,
+stability,  discretion,  dependability,  professionalism,  trustworthiness,  and  reliability.
+(Applicant’s response to SOR; AE A)
+1   Any  matter  that  was  not  alleged  in  the  SOR  will  not  be  used  for  disqualification  purposes.  It  may  be
+considered  in  assessing  Applicant’s  credibility,  in  the  application  of  mitigating  conditions,  and  when
+conducting the whole-person analysis.

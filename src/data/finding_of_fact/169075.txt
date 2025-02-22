@@ -1,0 +1,323 @@
+Applicant admitted the allegations at SOR ¶¶ 1.a, 1.b, 2.a, and SOR ¶¶ 4.a – 4.g,
+all without further comment. He denied the allegations at SOR ¶¶ 3.a, 4.h, 4.i, and 4.j,
+all with narrative explanations. He did not answer SOR ¶ 2.b, but it is a cross-allegation
+of subparagraphs ¶¶ 1.a and 1.b, both of which he admitted. Applicant’s admissions and
+explanations  are  incorporated  into  the  findings  of  fact.  After  a  thorough  and  careful
+review of the pleadings and exhibits submitted, I make the following findings of fact.
+Applicant is 48 years old. He has never married and he has no children. (Tr. 52)
+He earned a bachelor’s degree in 1996. He has taken subsequent graduate classes and
+is about four credits shy of a master’s degree. (Tr. 53, 63; GE 3 at 11-12)
+Applicant’s  employment  history   is  detailed   in  security   clearance   applications
+(SCAs)  he   submitted   in  connection   with   his  employment,  in   January   2010   (GE   1),
+February  2015  (GE  2),  and  January  2018  (GE  3)  and  an  SF-85P  application  for  a
+position  of  public  trust  in  September  2018.  (GE  5)  Applicant  also  submitted  a
+Declaration for Federal Employment (DFE) in September 2018. (GE 4)
+From 2007 until July 2012, Applicant worked in various classified positions with a
+variety  of  defense  contractors.  (GE  1  at  17-22,  46,  GE  2  at  15)  He  has  held  various
+positions  in  the  IT  field,  mostly  as  a  contractor,  in  the  years  since.  Since  July  2017,
+Applicant  has  worked  for  his  current  employer  and  clearance  sponsor,  defense
+contractor  S.  (GE  5  at  10)  He  has  held  a  clearance  for  about  15  years,  and  he  also
+holds a clearance with another government agency (AGA). (Tr. 13, 53-54, 141-142) At
+the time of the hearing, he had an annual salary of $120,000. (Tr. 143)
+From   July   2012   to   July   2013,  Applicant  worked   for  another  department  of  the
+U.S.  Government  as   an   information   security   specialist.  He  testified   that   he   had
+nationwide   responsibility   for  IT  security   regarding   the   Affordable   Care   Act   (ACA),
+working   with  each  of  the  50  states.   He described  the  experience  as “a nightmare.” He
+had  no  prior government experience,  and  little  to  no  support. He said he   had  “no  idea
+what to  do.”  He missed  deadlines and  acknowledged  that  he  “failed  to  perform  up  to  the
+expectations”   of  the   job.  He   said   it   was  “completely   my   fault.”  (Tr.  55-57)   Following   a
+written   warning   in  January   2013,  Applicant  was  terminated   from   that  position   in  July
+2013  for unsatisfactory  performance.  (SOR ¶¶  4.f,  4.g)  (GE 2  at 13-14) As Department
+Counsel  acknowledged,  the   “internet  rollout”   of   the   ACA  had   significant  problems,  as
+was  widely   publicized   at  the   time, and  Applicant  was  by   no   means  solely   responsible.
+(Tr.  98-99)  Applicant  said  he   did  not   have   any   personality   conflicts,   and   praised   the
+interpersonal and  professional skills of his co-workers there. (Tr. 99-100)
+Shortly   thereafter,  in   July   2013,   Applicant  began   working   for  government
+contractor   C.  He   said  he   loved   his   job,   which  involved   travelling   to   Army   bases
+nationwide   and   testing   IT   equipment.   He  also  said   the   job   was  in  a   very   stressful
+environment  with   lots  of   travel  and   little  sleep.  He  said  he   did  not  get  along   with   his
+boss. Following  two  written  warnings, in September 2013  and  December 2013  (SOR ¶¶
+4.f, 4.e), Applicant was placed  on  a  probationary  performance  plan. In  about April 2014,
+he  and  his boss got into  a  heated  argument.  Applicant was  terminated  soon  thereafter
+for failing  to  perform  to  expectations and  for losing  his temper. (SOR ¶  4.c) (GE  2  at 12-
+13,  GE   7;  Tr.  58-59,  101-102)  He  did  not  dispute   his  employer’s  version   of   his  work
+performance. (Tr. 60)  He believes they were looking to get him  to resign. (Tr. 101-102)
+In   June   2014,  Applicant  began   working   part   time  for another federal  contractor,
+T.  (GE   2   at  11;  Tr.  60-62,  107-110)  Beginning   in  December  2015,  he   also   began
+working   full   time   for  another  contractor,  M.   (Tr.  61-62)  He   worked   both   jobs  until  July
+2017, when  he  was terminated  by  contractor T for unsatisfactory  performance,  after he
+missed   some   important  deadlines  for  the   customer  (another  large   defense   contractor)
+because   he   did  not  have   enough   time   to   devote   to   the   work.   (SOR  ¶   4.a)  (Tr.  61-62,
+110-112)  However, Applicant was otherwise well-regarded  by  contractor T.  (Tr. 110-112
+and  AE  E, a July 2017  letter from the  president of contractor T)
+Guideline K:
+In May 2017, Applicant was working for contractor M at an Army facility. He said
+he  was  not  in  a  “SCIF”  (Sensitive  Compartmented  Information  Facility)  but  did  have
+access to what he  called  a  “simulated” SIPRNet, which he asserted had not been fully
+accredited. (Tr. 108-109; Answer) While there, he received an unclassified e-mail from
+Ms. M, his government supervisor, the contractor office’s representative (COR). (Tr. 44)
+The e-mail listed all of the names of the systems within the lab that were supported by
+his  then  employer.  Some  of  the  systems  processed  classified  information.  The  e-mail
+was  labeled  as  “unclassified,”  but  the  spreadsheet  document  contained  the  names  of
+some  classified  systems.  (Tr.  36)  Applicant  was  supposed  to  complete  appropriate
+“patches” for that particular week on the document and then return it to Ms. M, per her
+instructions, which he did. (Tr. 36, 46; Answer)
+Applicant  acknowledged  in  his  testimony  that  he  should  have  encrypted  the  list
+when he returned it, but he said the list was also not encrypted when he got it. “I didn’t
+think it needed to be encrypted because of the publically available information and there
+was  no  classified  information  in  the  e-mail.”  (Tr.  47)  He  said  that  he  believes  that  the
+COR  should  have  known  that  “she  was  setting  someone  up  for  aggregation”  of
+classified information. (Tr. 48)
+Applicant  also  denied  that any classified  spillage  took  place, because  “nowhere
+within  the  SEC  community  classification  guide  does  it  say  that  the  names  of  any
+classified  systems  were  themselves  classified.” (Tr.  42)  This assertion  is unsupported.
+He  said  it  was  the  aggregation  of  certain  information  that  was  classified.  (Tr.  43)  He
+denied moving any classified information onto an unclassified system. (Tr. 44; Answer)
+Applicant  said  he   was  he   was  “accused   of   committing   aggregated   spillage.”  He
+indicated   in   his  testimony   and   in   his  Answer  that   he   was  pressured   to   sign   a   security
+form   acknowledging   culpability   for  the   spill.  (Answer)   He  believes  he   was  “intimidated
+into  telling  the  government that it was my  fault and  [that]  I’ll  never do  it again.” (Tr. 37,
+48) The security form referenced  by Applicant is not in evidence.
+The  Government’s  evidence  includes  a  May  10,  2017  memo  from  the  Army
+command to Applicant’s employer that names Applicant as “the originator of a classified
+spillage  that  occurred  on  5  May  2017.”  (GE  8  at  3;  GE  8  at  6)  In  its  memo,  the  Army
+Information  Assurance,
+cited  Army  Regulation  25-2,
+Paragraph  4-14,  Personnel  Security  Standards;  subparagraph  b.(6):  “New,  credible,
+derogatory information revokes any standing waiver and results in immediate denial of
+access to IT systems.” (GE 6 at 3)
+Information  Management,
+As  a  result,  Applicant’s  access  to  the  government  customer’s  information
+technology (IT) system was suspended that day, pending the results of an Army inquiry.
+(GE 8 at 3) As a result, Applicant could not perform his duties for contractor M, so he
+was terminated, on May 12, 2017. (GE 8 at 6, Tr. 49-52) (SOR ¶¶ 3.a, 4.b)
+The  termination  memo  to  Applicant from  his employer began, “This  letter serves
+as  your  official  notice   that  you   have   been   removed   from   contract  due   to   unintentional
+classified   spillage.”  (GE  8   at  4)   (Emphasis  added)  This  conclusion   comports  with
+Applicant’s testimony  that his actions were unintentional and  not  deliberate. (Tr. 50-51,
+103-104) He  continues  to  believe  that  the  information  at  issue  in  the  incident  was not in
+fact classified; and  he  attested  that others working  in the  lab  told  him  this as well. (Tr.
+106-107)  However,  Applicant   stated   at  the   hearing   that   he   acknowledged   to   his
+employer at the time that he was culpable  for the incident. (Tr. 105-106)
+Applicant  testified  that  he  was  verbally  informed  of  the  government  customer’s
+concerns about the spillage incident, but was not given an opportunity to respond, either
+verbally or in writing. (Tr. 103-104) He said he  “strongly disagreed  with  the  decision  to
+terminate  him,  and  he  said  he  “did  not  spill  or  aggregate  classified  information.”  He
+believes  that  the  government  supervisor  should  have  “retracted”  (i.e.,  redacted)  or
+encrypted  the  information.  (Tr.  37-39)  He  said  he  was  not  aware  of  the  result  of  any
+government investigation into the incident, and he is not aware that his clearance itself
+was  ever  suspended.  (Tr.  54-55,  139)  Nor  is  there  documentation  of  any  such
+investigation in the record.
+Applicant said he had no other employment issues at contractor M before he was
+terminated over the spillage incident. (Tr. 107) He said he was told he was eligible for
+rehire.  (Tr.  37)  Applicant  also  noted  his  stellar  security  record,  with  no  violations,  and
+said this would not happen again. (Tr. 39-40)
+The Government did not offer testimony of any expert witness in the security field
+regarding whether the spillage  was in fact classified; whether it was due  to  Applicant’s
+culpability;  whether  Applicant’s  actions  were  deliberate,  negligent,  or  inadvertent;  and
+what  damage  to national security  resulted from the spill,  if  any.  Beyond  the  May 2017
+letter from the Army on the matter  (GE 8), the Government offered no evidence of the
+conclusions of any investigating authorities. Nor did the Government offer any testimony
+about applicability of any of the NISPOM paragraphs cited in the SOR.
+Guidelines J & G:
+In  August  2007,  Applicant  was  arrested  and  charged  with  driving  under  the
+influence of alcohol. (DUI) (SOR ¶ 1.b) He explained that he was drinking at a pub one
+evening and was pulled over on his way home after making a left turn at a red light. He
+failed a roadside breathalyzer test. He was cited or ticketed, and allowed to take a cab
+home. He said he was not arrested. He went to court in August 2007 and received one
+year of probation  including a six-month alcohol awareness group therapy program. He
+completed  the  program  early,  in  April  2008.  (Tr.  64-65;  GE  1  at  45,  93-96)  Applicant
+was required to abstain from alcohol while on probation, but resumed drinking casually
+once his probation ended. (Tr. 94-95)
+In  June  2017,  Applicant  was  out  one  night  at  a  nightclub  and  restaurant  with  a
+friend. Applicant had about three beers and two shots. While driving the friend home in
+the early morning hours, he crossed the center line and was pulled over by police. After
+failing  a  roadside  sobriety  test  and  refusing  a  breathalyzer,  he  was  arrested  and
+charged with driving while impaired by alcohol (DWI) (SOR ¶ 1.a (Tr. 118-119) He was
+later allowed to call a cab. Applicant acknowledged at his hearing that he had had too
+much to drink, and that it was “completely my fault.” (Tr. 66) He pleaded guilty and was
+sentenced to  two  years of  probation.  He also  spent three  weekends  in  jail.  (Tr. 65-66,
+69)
+In  July  2017,  Applicant  was  evaluated  and  found  appropriate  for  a  26-week
+outpatient substance abuse treatment program. No diagnosis of an alcohol use disorder
+was  indicated.  (Tr.  67-68,  72;  AE  B)  The  program  consisted  of  group  sessions.
+Applicant was an active and positive participant and was regarded as a model client. He
+completed the program successfully in early March 2018. (AE B)
+In  November 2017, while  on probation for the  DWI, Applicant was  arrested and
+charged  with  a  probation  violation,  after  he  attempted  to  purchase  a  firearm  in  a
+neighboring state. (SOR ¶ 2.a) Applicant testified that during this period, when he was
+“going  in  and  out  of  jail”  on  weekends,  he  would  make  himself  feel  better  by  “buying
+things.” He saw a shotgun that he thought his father would like as a gift. The best deal
+for the gun was in a neighboring state, where there was no sales tax, so he went there
+to purchase the weapon. (Tr.  73-74) The attempted firearms purchase was disallowed
+because of the background check. (Tr. 143-144) Applicant does not own any firearms.
+(Tr. 74)
+Applicant testified that he was not aware that his actions were prohibited while on
+probation, because he did not read the full details of his probation document and other
+available information detailing the restrictions. (Tr. 73, 124) His DWI charge came up in
+the  background  check  for  the  firearms  purchase.  A  warrant  was  issued,  and  he  was
+arrested. Applicant had to perform 10 hours of community service as a result, which he
+completed in May 2018. (Tr. 68, 71; AE C, AE D) Applicant acknowledged the probation
+violation was his fault. (Tr. 73) He testified that he reported the violation to his employer.
+(Tr. 124)
+Applicant  testified  that  there  was  no  other  negative  impact  on  his  probation  for
+the DWI. He completed  probation  successfully in  August 2019. (GE  6 at 3;  Tr. 69) He
+has had no other charges. (Tr. 143)
+Applicant said he was required to abstain from drinking while on probation  for two
+years, and  did  so. (Tr.  119-120)  He  said  that  since  his second  alcohol offense,  he  has
+significantly   curtailed   his  drinking.  He  recalled   having   “a  drink  or  two”  at  home   on
+Memorial  Day   and   on   the   July   4th   weekend   (2021),  but  otherwise,  “I  really   don’t  drink
+much  at all.” And  he  does not  drink and  drive  “no  matter how  much  I’ve  been  drinking.”
+(Tr. 71, 119, 123)  He said he  now  consumes alcohol once  a  week or less (“if  that.”). He
+said he  consumes  at most,  three  beers, and  not  to  intoxication. (Tr. 120-122) Applicant
+said he  was not currently  in any  alcohol counseling  or therapy  and  does not believe  he
+has an alcohol problem. (Tr. 122-123)
+Guideline E:
+Having  submitted  an  SCA  in  January  2018  (GE  3),  Applicant  had  a  related
+background interview on September 13, 2018. (GE 6 at 5-10) Days later, on September
+17,  2018  (addendum  signed  September  18,  2018),  Applicant  submitted  a  Declaration
+for  Federal  Employment  (GE  4),  for  a  job  application  with  another  government
+department.  (Tr.  88-89)  He  then  submitted  a  Questionnaire  for  Public  Trust  Positions
+(SF-85P).  on  September  27,  2018.  (GE  5) The  record  does  not  contain  a  subsequent
+background interview after GE 4 and GE 5.
+The Guideline E allegations in the SOR concern Applicant’s allegedly deliberate
+failure to disclose some of his arrests and some of his employment terminations on his
+January  2018  SCA  and  his  September  2018  SF-85P  application.  Applicant  denied  all
+allegations of deliberate falsification in the SOR. (Answer; Tr. 74)
+Alleged  Falsifications relating to  Arrests:
+SOR ¶ 4.h alleges in part, that in answering a series of questions on his January
+2018  SCA  with  a  seven-year  timeframe  (“In  the  past  seven  (7)  years  …”),  Applicant
+failed to disclose his first DUI in 2007. (GE 3 at 35) During questioning at his hearing, it
+became  clear  that  Applicant  had  no  duty  to  disclose  that  offense  in  answer  to  those
+questions, since it occurred in 2007, 11 years prior. (Tr. 75-82)
+Applicant  acknowledged,  however,  that  he  also  did  not  list  his  2007  DUI  in
+answer to other questions on GE 3, such  as “Other than those offenses already listed,
+have you  EVER had the following happen to you? . . . Have  you EVER been charged
+with  an  offense  involving  alcohol or drugs?” (GE  1  at 37)  Falsification  of  that  question
+was not alleged in the SOR.
+Applicant  had   disclosed   his  2007   DUI  on   his  2010   SCA,   and   detailed   the
+circumstances of  the  arrest,  his court case, and  alcohol awareness program. (GE 1  at
+43-45; Tr. 96-98) He did not list the 2007 DUI on his 2015 SCA, in answer to a question,
+“Have  you  EVER been  charged  with  an offense  involving  alcohol or drugs.” (GE 2  at 31-
+32) When  asked  why  he  did  not  list the  2007  DUI in answer to  that question,  Applicant
+said  he   “must  have   misinterpreted   the   question   and   that  it   was  another  seven-year
+question.”   He  asserted   that   he   would   not   have   “intentionally   tried   to   hide   something   I
+already  [had] previously  disclosed.” (Tr. 115, 116)  This omission  was not alleged  in the
+SOR as a deliberate  falsification.
+Applicant  also  explained  that  when  he  was  interviewed  in  2015  about  his
+previous SCA, he was told by the interviewing agent that he did not have to discuss his
+2007 DUI after that interview. (Tr. 75-78, 117-118) Applicant also volunteered the 2007
+DUI  in  his  September  2018  background  interview  (GE  6  at  10)  and  listed  it  on  his
+September 2018 SF-85P. (GE 5 at 27)
+On  his January  2018  SCA,  Applicant disclosed  his 2017  DUI, but did  not disclose
+his November 2017  probation  violation  arrest  for the  attempted  gun  purchase. (GE  3  at
+35) This omission is alleged as an  additional deliberate  falsification in SOR ¶ 1.h.
+Applicant  acknowledged  that  he  should  have  disclosed  his  2017  probation
+violation  arrest  on  GE  3.  He  asserted  that  he  told  his  security  chief  and  program
+manager about it, but this is uncorroborated. He denied intentionally failing to disclose it
+and said he must have overlooked it or misinterpreted the question. (Tr. 82) However,
+Applicant  acknowledged  that  in  January  2018,  the  charge  from  the  November  2017
+probation violation was pending, and had yet to be adjudicated. (Tr. 144-147) As such,
+he  should  have  disclosed  it  in  answer  to  the  question,  “Are  you  currently  on  trial  or
+awaiting  a  trial  on  criminal  charges.”  (GE  3  at  35)  That  omission,  however,  was  not
+alleged in the SOR as a deliberate falsification. The summary of Applicant’s September
+2018  background  interview  reflects  that  he  voluntarily  disclosed  the  arrest  and  the
+violation to the interviewer. (GE 6 at 9)
+When   he   prepared   his  September  27,  2018   SF-85-P,  Applicant  disclosed   both
+the   2007   DUI  arrest  and   the   2017   DWI   arrest,   but,   again,   not  the   subsequent  2017
+probation   violation   arrest,  in  answer  to   a   question   about  his  criminal  history   with   a
+seven-year timeframe.  (SOR ¶  4.j)  Of this  omission,  Applicant  said, “I  don’t  know  why  I
+would intentionally  deny  it. Maybe  because  it  hadn’t gone  to  trial yet,  I’m  not sure.” (Tr.
+83)   In   fact,   the   document  regarding   Applicant’s  completion   of   the   10   hours  of  work
+release   shows  a   trial  date   of   March  27,  2018,  and   that  he   completed   the   required
+community  service a  month  later,  so  the  charge  was no  longer pending  by  September
+2018. (AE D)
+Asked why he failed to list his 2017 probation violation arrest on either GE 3 or
+GE 5, Applicant said, “I don’t know why I wouldn’t have, Your Honor. I discussed it with
+both  investigators.  It  must  have  been  an  oversight  on  my  part  and  I’m  sorry.”  (Tr.  90,
+130-131)
+Alleged Falsifications relating to  Employment  Terminations:
+SOR  ¶  4.i  concerns  several  employment-related  falsification  allegations  on
+Applicant’s  September  2018  SF-85P.  (GE  5)  In  answer  to  a  question  calling  for
+disclosure of all employment terminations in the past seven years, Applicant disclosed
+his  2017  termination  from  contractor  M  (SOR  ¶  4.b),  but  he  did  not  disclose  his  other
+terminations,  from  contractor  T  in  July  2017;  from  contractor  C  in  April  2014  (SOR  ¶
+4.c); or from his federal job in January 2013 (SOR ¶ 4.g).
+When asked why he did not disclose these other terminations on GE 5, Applicant
+testified that he had filled out a lot of SCAs and  SF-85Ps in the past, and believed he
+had  disclosed  them  previously.  He  asserted  that  the  errors  he  made  on  his  various
+applications  were honest mistakes, and  were  not an  attempt  to  “obfuscate  any sins or
+past indiscretions whatsoever.” (Tr. 91)
+On his 2015 SCA, Applicant disclosed his termination from another government
+department and provided extensive details. (GE 2 at 13-15) He also disclosed his April
+2014  termination  from  contractor  C  and  noted  that  he  had  been  fired  because  the
+customer was not satisfied with his work, (GE 2 at 12-13)
+On  his  January  2018  SCA,  Applicant  disclosed  his  July  2017  termination  from
+contractor T, and  noted  that the  customer, a  large  defense  contractor, “didn’t need  my
+input  anymore.”  (GE  3  at  14-15;  Tr.  125).  He  disclosed  his  2017  termination  from
+contractor M, said that he “left by mutual agreement following charges or allegations of
+misconduct,”  noted  the  spillage  incident,  and  said  he  had  been  removed  from  the
+contract, but was subject to rehire. (GE 3 at 16; Tr. 125)
+On   his  January   2018   SCA,   Applicant  also   noted   other  terminations,  from
+contractor  C,   in  April  2014   and   from   the   federal  department   job,  in  July   2013,   but   he
+gave  no  details. (GE 3  at 17-18) He also answered  “No” in answering  questions calling
+for  disclosure  of   adverse  circumstances   (if   he   was  fired,  quit,   or  left  by   mutual
+agreement following  allegations of  misconduct or  unsatisfactory  performance). (GE 3  at
+27)  Applicant  explained   that,   he   was  confused   by   the   page   break   in  the   middle  of  the
+page   that  he   filled   out,   and   did  not  realize   he   should  have   answered   “yes”  to   the
+question,  since   he   knew   he   had   been   fired   by   contractor  C.  (Tr.  126-129)   No
+employment-termination-related  falsifications of GE 3  are alleged  in the SOR.
+Applicant  discussed  his  various  terminations  during  his  September  13,  2018
+background  interview.  (GE  6  ay  6-7).  However,  on  his  September  27,  2018  SF-85P,
+submitted  only  two  weeks  later,  Applicant  did  not  disclose  his  terminations  from
+contractor  C  and  contractor  T,  both  of  which  had  occurred  during  the  previous  seven
+years,  in  answer  to  a  question  calling  for  disclosure  of  those  events.  (GE  5  at  22).
+Curiously,  Applicant  disclosed  his  July  2017  termination  from  contractor  M,  which
+occurred  within  the  seven-year  timeframe  of  the  question,  but  also  two  other
+terminations from many years before, in 2002 and 2005. (GE 5 at 22; Tr. 137) Applicant
+again acknowledged that he should have disclosed the terminations from contractors C
+and  T,  but  asserted  that  his  omissions  were  unintentional.  (Tr.  137-138)  Applicant
+expressed remorse for his errors and apologized for them. (Tr. 147-148, 161-162)
+Applicant  also  did  not  list  his  terminations  from  contractors  C,  M,  and  T  on  his
+Declaration  for  Federal  Employment,  in  September  2018,  despite  the  presence  of  a
+question calling for disclosure of all employment terminations in the last five years. (GE
+4 at Question 12). As to this form, Applicant explained that he thought the question he
+was only being  asked  to  disclose  terminations from  “a federal job  or a  government job
+within the  last  five  years. That’s how  I looked  at the  question.” (Tr.  134-135) Applicant
+maintained  his  interpretation  of  the  question  under  additional  questioning  at  hearing.
+(Tr. 135-136)
+Among the documents Applicant submitted after the hearing was a  DFE that he
+submitted in April 2020. (AE G) On that form, he checked “Yes” to a question asking if,
+during the  last  seven  years, he  had  been  convicted,  imprisoned,  been  in  prison,  been
+on probation or been on parole. The question “includes felonies, firearms or explosives
+violations,  misdemeanors,  and  all  other  offenses.”  (AE  G  at  Q.  9)  He  reported  an
+offense as follows:
+2019   [City   B,  State   X].   2.   Year
+Question   9:   Misdemeanor  DUI  5/17/----
+probation  completed  August 2019. No further  issues” followed  by  a  phone
+number (AE G at 2) (Emphasis added).
+The   year of  the   offense   given,  2019,  is   likely  an   error,   as   probation   ended   only
+months   later,   in  August  2019,   and   there  was  no   discussion   at  hearing   of   a   May   2019
+DUI.   I  conclude   that  he   likely   meant   to   disclose   his  2017   DUI  on   AE   G.  Yet   Applicant
+also did not list his November 2017  arrest for  the  probation  violation  on  AE  G, in answer
+to   this  question   with   a   seven-year  timeframe,  and   also   said  that   probation   was
+completed with “no other issues.”
+AE G also contained a question asking, in part,
+During the last five years, have you been fired for a job for any reason, did
+you  quit  after  being  told  that  you  would  be  fired,  did  you  leave  any  job
+because  of  specific  problems,  or  were  you  debarred  from  Federal
+employment by the Office of Personnel Management or any other Federal
+agency? (AE G at Q. 12)
+Applicant  answered   “Yes”  and   disclosed   his  May   2017   termination   from
+contractor  M   “per  request  of   the   Government  COR  for  allegedly   mishandling   sensitive
+information;  eligible   for  rehire.”  (AE   G  at  2)  He  did  not  disclose   his  termination   from
+contractor  T,  in  July   2017.   Since   Applicant   submitted   AE   G  post-hearing,  he   was  not
+questioned about any of these  answers.
+Since  his termination  following  the  spillage  incident  in  May  2017,  Applicant  has
+subsequently participated in extensive annual training required for his position. After the
+hearing,  he  provided  extensive  documentation  of  his  remedial  and  other  security
+training on numerous subjects related to his professional position. (Tr. 140; AE F, AE H)
+Applicant’s  2020   performance   review   reflects  that  he   exceeds   expectations
+across  the  board.  He performed   “extraordinary   work”   under difficult  circumstances.   He
+is  a   highly   trained   and   capable   security   professional  and   greatly  contributed   to   the
+mission’s success. (AE A)

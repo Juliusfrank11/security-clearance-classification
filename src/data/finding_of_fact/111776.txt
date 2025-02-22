@@ -1,0 +1,187 @@
+Applicant  is  a  38-year-old  employee  who  is  seeking  to  retain  a  security
+clearance.  (Tr.  5-6)  He  works  as  an  aircraft  mechanic  for  a  company  in  the  defense
+industry.  He  has  been  so  employed  since  May  2017.  His  educational  background
+includes a bachelor’s degree in information technology awarded in October 2016. He is
+married,  and he  and  his spouse  share  their household  with five  children,  ages  14,  13,
+12,  7,  and  5.  The  13-year-old  child  is  a  niece.  His  wife  is  recently  employed  at  a  call
+center. (Tr. 49)
+Applicant’s employment history includes honorable service in the U.S. Air Force
+beginning  in  April  2003  until  his  release  from  active  duty  in  May  2013.  His  separation
+was  voluntary, although he stated that  he felt forced out, and he left with a separation
+payment  of  $10,000.  (Tr.  25-26)  He  was  trained  and  worked  as  an  aircraft  mechanic
+while on active duty.
+After  his  honorable  discharge  from  the  Air  Force,  Applicant  was  unemployed
+from  June  2013  to  January  2015.  He  was  a  student  during  this  time  working  on  his
+bachelor’s degree. He had a part-time job with an aviation company from February 2015
+to October 2016, while at the same time working on his bachelor’s degree. He was then
+unemployed for a few months, from November 2016 to April 2017. He began his current
+job in May 2017, more than two years before the hearing.
+The  SOR  alleged  and  Applicant  admitted  a  history  of  financial  problems.  In
+addition  to  his  admissions,  the  factual  allegations  in  the  SOR  are  established  by  the
+documentary evidence. (Exhibits 2, 5-9) The SOR concerns the following matters: (1) a
+mortgage  loan  that  went  into  foreclosure  in  2013;  (2)  three  car  loans  that  ended  with
+repossession and deficiency balances of $8,313, 4,238, and $1,922; (3) five collection
+or charged-off accounts in amounts ranging from $380 to $2,299 for a total of $4,784;
+and  (4)  two  unpaid  judgments  in  amounts  of  $12,067  and  $982.  Applicant  did  not
+present  documentation  to  establish  that  any  of  these  delinquent  debts  were  paid,
+settled, in a payment arrangement, cancelled, forgiven,  or otherwise resolved. (Tr. 31-
+46) A couple of these matters require further discussion.
+SOR ¶ 1.a—Applicant obtained a mortgage loan in 2009 to buy a home for about
+$158,000. (Exhibit 6; Tr. 31-33) He bought the home with the assistance of a VA home
+loan. He was unable to make the loan payments due to a decline in income related to
+his  reduction  in  pay  and  his  subsequent  honorable  discharge  from  the  Air  Force.  A
+notice of trustee’s sale was made in September 2013 and the house was sold at auction
+in  2014.  There  is  no  indication  of  a  deficiency  balance  after  foreclosure;  indeed,  the
+June 2017 credit report shows $0 past due. (Exhibit 7 at 5) The state where the home is
+located has an anti-deficiency statute that would normally prevent a lender from seeking
+a  deficiency  judgment  after  foreclosure.  Given  the  circumstances,  I  find  this  matter  is
+resolved.
+SOR  ¶  1.g—Applicant  explained  that  the  $12,067  judgment,  filed  in  July  2013,
+was  paid  via  garnishment  of  his  wages  from  his  current  job  over  a  two-year  period.
+(Exhibit  5;  Tr.  42-43)  The  wage  garnishment  took  about  $1,100  per  month.  The
+judgment  does  not  appear  in  the  most  recent  credit  reports  from  2019.  (Exhibits  8-9)
+Given these circumstances, I find the judgment is resolved.
+The  SOR  also  alleged  that  Applicant  made  four  deliberately  false  statements
+when completing his May 2017 security clearance application and a fifth false statement
+during  the  course  of  his  November  2018  background  investigation.  Three  of  the
+allegations  concerned,  essentially,  his  failure  to  disclose  that  he  was  subject  to  non-
+judicial punishment under Article 15, UCMJ, in about January 2013, while on active duty
+with  the  Air  Force.  Although he admitted  the  allegations  in his answer to  the SOR, he
+clarified  that  he  did  not  understand  or  realize  that  he  had  been  subject  to  Article  15
+proceedings in addition to a reduction or demotion in pay grade from E-5 to E-4. At the
+hearing, he further explained his mistaken belief or confusion concerning the Article 15
+proceedings.  (Tr.  27-30,  47-48)  He  stated  that  he  received  a  demotion  because  he
+failed  to  follow  a  technical  data  order  while  performing  aircraft  maintenance,  but  he
+understood the matter was limited to a demotion and no more.  I found his explanation
+odd, but nonetheless credible and worthy of belief.
+The  other  two  falsification  allegations  concern  failure  to  disclose  adverse
+financial  information  (e.g.,  delinquent  accounts,  judgments)  in  response  to  two
+questions in the May 2017 security clearance application. Applicant admitted he lied in
+response to the two questions because he was worried he would not obtain the security
+clearance or his current job. (Tr. 48-49)
+Law and Policies
+This  case  is  adjudicated  under  Executive  Order  (E.O.)  10865,  Safeguarding
+Classified Information within Industry (February 20, 1960), as amended; Department of
+Defense  Directive  5220.6,  Defense  Industrial  Personnel  Security  Clearance  Review
+Program  (January  2,  1992),  as  amended  (Directive);  and  the  National  Security
+Adjudicative Guidelines for Determining Eligibility for Access to Classified Information or
+Eligibility to Hold a Sensitive Position (AG), effective June 8, 2017.
+It  is  well-established  law  that  no  one  has  a  right  to  a  security  clearance.1  As
+noted by the Supreme Court in Department of the Navy v. Egan, “the clearly consistent
+standard indicates that security clearance determinations should err, if they must, on the
+side  of  denials.”2  Under  Egan,  Executive  Order  10865,  and  the  Directive,  any  doubt
+about  whether  an  applicant  should  be  allowed  access  to  classified  information  will  be
+resolved in favor of protecting national security. In Egan, the Supreme Court stated that
+the  burden  of  proof  is  less  than  a  preponderance  of  evidence.3  The  DOHA  Appeal
+Board  has  followed  the  Court’s  reasoning,  and  a  judge’s findings  of  fact  are  reviewed
+under the substantial-evidence standard.4
+There is no presumption in favor of granting, renewing, or continuing eligibility for
+access  to  classified  information.5  Under  the  Directive,  the  parties  have  the  following
+burdens:  (1)  Department  Counsel  has  the  burden  of  presenting  evidence  to  establish
+facts alleged in the SOR that have been controverted; (2) an applicant is responsible for
+presenting  evidence  to  refute,  explain,  extenuate,  or  mitigate  facts  that  have  been
+admitted or proven; and (3) an applicant has the ultimate burden of persuasion to obtain
+a favorable clearance decision.6
+Discussion
+Under Guideline F for financial considerations, the suitability of an applicant may
+be  questioned  or  put  into  doubt  when  that  applicant  has  a  history  of  excessive
+indebtedness or financial problems or difficulties. The overall concern is set forth in AG
+¶ 18 as follows:
+Failure  or  inability  to  live  within  one’s  means,  satisfy  debts,  and  meet
+financial  obligations  may  indicate  poor  self-control,  lack  of  judgment,  or
+unwillingness  to  abide  by  rules  and  regulations,  all  of  which  can  raise
+questions  about  an  individual’s  reliability,  trustworthiness,  and  ability  to
+protect classified or sensitive information. . . .
+1  Department  of  the  Navy  v.  Egan,  484  U.S.  518,  528  (1988)  (“it  should  be  obvious  that  no  one  has  a
+‘right’ to a security clearance”); Duane v. Department of Defense, 275 F.3d 988, 994 (10th Cir. 2002) (no
+right to a security clearance).
+2 484 U.S. at 531.
+3 484 U.S. at 531.
+4 ISCR Case No. 01-20700 (App. Bd. Dec. 19, 2002) (citations omitted).
+5 ISCR Case No. 02-18663 (App. Bd. Mar. 23, 2004).
+6 Directive, Enclosure 3, ¶¶ E3.1.14 and E3.1.15.
+The  concern  is  broader  than  the  possibility  that  a  person  might  knowingly
+compromise  classified  or  sensitive  information  to  obtain  money  or  something  else  of
+value.  It  encompasses  concerns  about  a  person’s  self-control,  judgment,  and  other
+important qualities. A person who is financially irresponsible may also be irresponsible,
+unconcerned,  or  negligent  in  handling  and  safeguarding  classified  or  sensitive
+information.
+In  analyzing  the  facts  of  this  case,  I  considered  the  following  disqualifying  and
+mitigating conditions as most pertinent:
+AG ¶ 19(a) inability to satisfy debts;
+AG ¶ 19(c) a history of not meeting financial obligations;
+AG  ¶  20(b)  the  conditions  that  resulted  in  the  financial  problem  were
+largely beyond the person’s control (e.g., loss of employment, a business
+downturn,  unexpected  medical  emergency,  a  death,  divorce,  or
+separation,  clear  victimization  by  predatory  lending  practices,  or  identity
+theft), and the individual acted responsibly under the circumstances; and
+AG ¶ 20(d) the individual initiated and is adhering to a good-faith effort to
+repay overdue creditors or otherwise resolve debts.
+The  evidence  supports  a  conclusion  that  Applicant  has  a  history  of  financial
+problems  that  is  sufficient  to  raise  a  security  concern  under  Guideline  F.  The
+disqualifying conditions noted above apply to this case.
+Turning to the matters in mitigation, Applicant’s financial problems are related to
+his separation from military service  and the corresponding decline in pay and benefits.
+Those  circumstances  occurred  several  years  ago  in  2013.  His  financial  problems  are
+also related to his periods of unemployment, although he has had his present full-time
+job  since  May  2017.  While  those  matters  were  largely  beyond  his  control,  I  cannot
+conclude that he has acted  responsibly under the circumstances. He has done little to
+address  his  delinquent  debts.  The  foreclosure  on  the  mortgage  loan  essentially  took
+care  of  itself,  with  the  benefit  of  a  VA  loan  and  a  state  with  an  anti-deficiency  statute.
+The  single  delinquent  debt  that  was  paid,  the  $12,067  judgment,  was  by  wage
+garnishment,  which  is  not  a  form  of  voluntary  payment.  Otherwise,  he  has  taken  no
+action  to  resolve  the  remaining  nine  delinquent  accounts  in  the  SOR.  Given  the
+circumstances, the mitigating conditions at AG ¶ 20(b) and AG ¶ 20(d) do not apply in
+Applicant’s favor.
+Under  Guideline  E,  personal  conduct  involving  questionable  judgment,  lack  of
+candor,  dishonesty,  or  unwillingness  to  comply  with  rules  and  regulations  can  raise
+questions about a person’s reliability, trustworthiness, and ability to protect classified or
+sensitive information. The concern is stated fully in AG ¶ 15.
+In analyzing the facts of this case, the following disqualifying condition applies
+AG  ¶  16(a)  deliberate  omission,  concealment,  or  falsification  of  relevant
+facts
+from  any  personnel  security  questionnaire,  personal  history
+statement,  or  similar  form  used  to  conduct  investigations,  determine
+employment  qualifications,  award  benefits  or  status,  determine  national
+security eligibility or trustworthiness, or award fiduciary responsibilities.
+As  set  forth  in  the  findings  of  fact,  Applicant  made  two  deliberately  false
+statements  during  the  security  clearance  process.  He  omitted  derogatory  information
+about  his  financial  record  in  response  to  two  questions  on  his  May  2017  security
+clearance application. He did so because he was concerned that truthful answers would
+have negative consequences for him. The disqualifying condition at AG ¶ 16(a) applies.
+In mitigation, I have considered all the information Applicant presented, including
+his  honorable  military  service.  I  have  also  considered  the  mitigating  conditions  under
+AG  ¶  17,  and  none  apply  in  Applicant’s  favor.  Making  deliberately  false  statements
+during  the  security  clearance  process  is  serious  misconduct,  and  it  is  not  easily
+explained away, excused, or otherwise mitigated.
+Following  Egan  and  the  clearly  consistent  standard,  I  have  doubts  about
+Applicant’s reliability, trustworthiness, good judgment, and ability to protect classified or
+sensitive  information.  In  reaching  this  conclusion,  I  weighed  the  evidence  as  a  whole
+and considered if the favorable evidence outweighed the unfavorable evidence or  vice
+versa. I also considered the whole-person concept. I conclude that he did not meet his
+ultimate  burden  of  persuasion  to  show  that  it  is  clearly  consistent  with  the  national
+interest to grant him eligibility for access to classified information.
+The formal findings on the SOR allegations are:
+Paragraph 1, Guideline F:
+Against Applicant
+Subparagraph 1.a:
+Subparagraphs 1.b - 1.f:
+Subparagraph 1.g:
+Subparagraphs 1.h - k:
+For Applicant
+Against Applicant
+For Applicant
+Against Applicant
+Paragraph 2, Guideline E:
+Against Applicant
+Subparagraphs 2.a – 2.b:
+Subparagraph 2.c -2.d:
+Subparagraph 2.e:
+For Applicant
+Against Applicant
+For Applicant
+Conclusion
+It is not clearly consistent with the interests of national security to grant Applicant
+eligibility for access to classified information. Eligibility denied.
+Michael H. Leonard
+Administrative Judge

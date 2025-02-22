@@ -1,0 +1,247 @@
+Applicant, age 33, earned a high school diploma in 2005. He has taken courses at
+a  university  (University  A)  since  2012,  but  has  not  yet  earned  a  degree.  He  served
+honorably  in  the  U.S.  Air  Force  from  2006  through  2012.  He  was  employed  as  an
+information assurance specialist by a defense contractor (Company A) from April 2018
+until  July  2019;  and  as  a  cyber-information  assurance  analyst  by  another  defense
+contractor (Company B) since July 2019. He held an active DOD security clearance while
+employed by Company A, but the record did not otherwise indicate his security clearance
+history while in the service or thereafter. Company B is sponsoring his pending security
+clearance application. (Item 2, 4, 6; Item 5 at 4)
+The SOR alleged under Guideline K (SOR ¶¶ 1.a – 1.b), and cross alleged under
+Guideline  M  (SOR  ¶¶  2.a  –  2.b)  and  Guideline  E  (SOR  ¶¶  3.a  –  3.b),  that,  on  two
+occasions  in  2019,  Applicant  downloaded  files  from  his  unclassified  work  computer  in
+violation of Company A policy. Also under Guideline E, the SOR alleged that Applicant
+falsified material facts regarding his file download activity during two different interviews
+in 2019, one with a Company A investigator (SOR ¶ 3.c) and one with a DOD investigator
+(SOR ¶ 3.d). Under Guideline F, the SOR alleged that Applicant has 11 delinquent debts
+totaling $48,087 (SOR ¶¶ 4.a – 4.k).
+In   his  SOR  answer,  Applicant  responded   “I  admit”  to   the   facts  alleged   under
+Guideline  K  (SOR ¶¶  1.a  –1.b),  which  were cross alleged  under  Guideline  M  (SOR ¶¶  2.a
+–   2.b)   and   Guideline   E   (SOR  ¶¶   3.a   –   3.d).  On   the   other  hand,  in  the   explanations
+accompanying  those  responses, Applicant denied  the  misconduct alleged  in SOR ¶  1.b.
+(and  cross alleged  in SOR ¶¶  2.b  and  3.b). Thus, I have  construed  his admissions to  SOR
+¶¶  1.b,  2.b, and  3.b  as denials. He   also   responded   “I admit” to   the  facts alleged  under
+Guideline  F  (SOR ¶¶  4.a  –   4.k).  Regarding  Guideline  E, he  denied  the  facts alleged  in
+SOR ¶¶  3.c and  3.d.  (Items 1, 2)
+SOR ¶¶  1.a, 1.b, 2.a, 2.b, 3.a, and 3.b
+On  June  20,  2019,  Applicant  downloaded  over  2,000  files  from  his  unclassified
+work computer and transferred them to his personal universal serial bus (USB) drive. On
+June 22, 2019, he informed Company A of his resignation and intent to begin employment
+with Company B on July 22, 2019. On July 8, 2019, Company A discovered Applicant’s
+high-volume file transfer and initiated an immediate investigation. (Items 6, 7)
+Company A determined that the files contained on Applicant’s personal USB drive
+included Company A proprietary information, third-party proprietary information (related
+to  two  U.S.  government  programs  on  which  Applicant  was  contracted  to  work),  and
+export-controlled  information  (as  designated  by  the  International  Traffic  in  Arms
+Regulations (ITAR) and the Export-Import Bank of the United States (EXIM)). Those files
+were  marked  Company  A  Proprietary.  Company  A  concluded
+that  Applicant’s
+downloading and transfer of files to his personal USB drive was a deliberate attempt  to
+obtain proprietary data for outside use, which was unauthorized and a direct violation of
+the following Company A policies: 1) Code of Conduct and 2) Protection of Company A
+and Third-Party Information. (Items 6, 7, 10, 11)
+The investigation revealed no evidence that Applicant ever transferred those files
+from  his  USB  drive  to  any  other  computer,  that  the  USB  drive  ever  left  his  personal
+residence where it had been stored, that any classified data resided on the USB drive, or
+that  Applicant  had  any  previous  security  incidents  on  his  record.  Nevertheless,  the
+investigation concluded that Applicant’s behavior and actions, including false statements
+he made during the investigation, were “Insider Threat Activity” and a risk to all Company
+A  information  systems.  As  a  result,  on  July  8,  2019,  Company  A  expedited  his
+employment separation, seized all of Applicant’s computing devices, removed his badge
+access, escorted him off Company A’s property, and submitted an adverse statement in
+the DOD personnel security clearance and access database. (Items 6, 7)
+On  July  8,  2019,  after  Applicant  was  escorted  off  its  property,  Company  A
+discovered  information  on  Applicant’s  seized  laptop  which  revealed  that  he  also
+downloaded and transferred files from his unclassified work computer to eight computer
+discs  on  July  2,  2019.  Company  A  determined  that  the  files  on  the  discs  contained
+Company A cyber security-related tools and training, but did not provide the results of its
+forensic investigation of the discs which was “in progress” as of July 12, 2019, the date
+of  its  final  report  of  the  misconduct  for  which  Applicant’s  separation  was  expedited.
+Neither the report nor any other record evidence indicated what, if any, conclusions that
+investigation formed about the presence of classified information on the discs or whether
+Applicant’s  actions  in  downloading  or  transferring  the  files  to  the  discs  violated  any
+Company  A  policies  or  other  rules.  While  acknowledging  that  “there  is  currently  no
+evidence that Applicant copied the discs for his own use and/or removed the discs from
+[Company  A’]s  premises,”  the  Government  argued  in  its  FORM  that  Applicant’s  disc-
+related file transfer activity remained relevant “for the concerns it potentially raises under
+Guidelines K, M, and E.” (Item 7)
+Applicant denied that his disc-related file transfer activity was either unauthorized
+or  violated  any  policies  or  rules.  Given  the  timing  of  the  discovery,  Applicant  was  not
+questioned about his disc-related file transfer activity during Company A’s investigation.
+However,  he  addressed  it  during  his  December  2019  security  clearance  interview  (SI)
+and in his SOR answer. During his SI, Applicant explained that he never copied any files
+onto discs for his personal use and that his team regularly copied files onto discs in the
+ordinary course of business. In his SOR answer, he provided more details about the file
+transfer  and  reiterated  that  it  was  not  done  for  his  personal  use.  He  clarified  that  he
+transferred  the files (which  were  too  voluminous  to email)  onto  the discs  to facilitate a
+successful transition of the systems he managed to the team member who was taking
+over his position. He maintained that he gave the discs directly to his team member and
+never transferred the files to any other machine or device. (Item 3 at 1; Item 5 at 4)
+Applicant  acknowledged  being  aware  of  the  proper  security  procedures  for
+handling  classified  information  when  he  was  employed  by  Company  A.  However,  he
+claimed that he had not had any training on handling proprietary information. He asserted
+that  he  always  tried  to  follow  security  rules  and  that  anytime  he  witnessed  someone
+violating security regulations,  he  would  counsel them  and  train  them.  As  of  December
+2019, he had not had any security-related incidents while employed by Company B. (5 at
+5; Item 7 at 4)
+In  September  2017,  Applicant  signed  an  employment  agreement  in  connection
+with  his  Company  A  employment  entitled  “Employee  Agreement  –  Proprietary
+Information,  Inventions  and  Other  Intellectual  Property.”  Among  the  matters  to  which
+Applicant agreed were that his work product while employed by Company A was the sole
+and  exclusive  property  of  Company  A  unless  expressly  released  in  writing.  He  also
+agreed that he was prohibited from using, for his own  or another’s benefit, not only his
+own  work  product,  but  also  any  Company  A  or  third-party  proprietary  information  with
+which he had been entrusted or had otherwise acquired by virtue of his employment with
+Company A. (Item 9)
+SOR ¶¶  3.c and  3.d
+In  his  August  2019  SCA,  Applicant  reported  that  he  had  been  “warned,
+reprimanded, suspended, or disciplined” in July 2019 by Company A because he “used
+a  USB  to  transfer  data/files  from  [his]  unclassified  work  computer.”  He  explained:  “My
+intentions  were  to  bring  any  personal  forms  containing  my  [personally  identifiable
+information (PII)], databases or tools I created (via excel, viso [sic], word, powerpoint) to
+build  a  portfolio  [sic]  I  can  reference  prior  work  that  assisted/streamlined  tasks  for  my
+position.” He asserted that the files that he transferred  were “from an  OPEN area” and
+“from [his] personal UNCLASSIFIED computer.” While he acknowledged that he was told
+by a Company A investigator that the files he transferred were “[Company A] Proprietary,”
+he  claimed  that  the  files  he  transferred  “were  not  marked  with  any  type  of  Proprietary
+Markings (header/footer etc).” (Item 4 at 16)
+Applicant answered  “Yes”  on his SCA when asked whether  he  had  “introduced,
+removed,  or  used  hardware,  software,  or  media  in  connection  with  any  information
+technology  system  without  authorization,  when  specifically  prohibited  by  rules,
+procedures, or regulations” within the  prior seven  years. He reported  July  2019  as the
+date of the incident. For reasons not explained in the record, Applicant did not report on
+his SCA that he was previously granted a security clearance. (Item 4 at 35-36, 39-40)
+Applicant  was  interviewed  twice  about  the facts  and  circumstances  surrounding
+his Company A file transfer activity. The first interview was conducted by a Company A
+investigator  during  its  July  2019  investigation  (Interview  1).  The  second  interview  was
+conducted  by  a  DOD  investigator  in  December  2019  in  connection  with  Applicant’s
+security clearance background investigation (Interview 2). (Items 5, 7)
+Company  A  concluded  that,  during  Interview  1,  Applicant  provided  false
+statements,  including  his  self-described  “unfamiliarity”  with  Company  A  and  National
+Industrial  Security  Program  Operating  Manual  (NISPOM)  polices.  When  initially
+questioned during Interview 1, Applicant stated that he had not used any USB drive. After
+the question was rephrased, he stated that he was uncertain as to previous usage of a
+USB  drive.  After being reminded that  Company A  conducts user monitoring,  Applicant
+reported that he discovered a USB drive on his desk. When asked to describe the data
+saved  on  the  USB  drive,  Applicant  claimed  that  only  PII  information  containing  social
+security  number (SSN)  data  was  stored  on  the  USB  drive.  After  he  was  informed  that
+Company A’s system  indicated  over 2,000  documents were downloaded  onto  the  USB
+drive, Applicant admitted that he copied personal files and databases that he created with
+the intention to use them for reference purposes in the future. He later clarified that the
+files on the USB drive were intended to be used as references for future work outside of
+Company  A.  He  acknowledged  that  he  had  taken  the  USB  drive  to  his  home,  but
+maintained that he never connected it to his personal computer. (Item 7)
+During  Interview  1,  Applicant  signed  a  voluntary  statement  admitting  that  he
+“copied  data  from  [his]  unclassified  [Company  A]  computer,  with  the  intension  [sic]  of
+using files for reference purposes at a later date.” He explained:
+The  files were going  to  be  a  means of  “referenced  worked” from  a  coworker
+whom  [sic] trained  me  when  I initially  started.  The  files came  from  my  [two
+U.S.  government   programs  on   which  Applicant  worked]  systems,  large
+networks with  many  hours devoted  to  each  program. The  [USB  drive]  that
+was used  to  transfer the  data  has left  [Company  A] property/grounds, and  I
+stored  it at home. While  it was there, the  [USB  drive]  was not used.  I was
+unaware of  the  [Company  A] Proprietary  Policy.  My  understanding  was that
+it was unclassified, did  not contain classified  information  so  being  able to
+reference prior work was not an issue.  . . .” (Items 7, 8)
+When  initially  questioned  about  his  Company  A  file  transfer  activity  during
+Interview 2, Applicant addressed both his USB drive and disc-related file transfer activity.
+He  denied  transferring  any  files  onto  discs  for  his  personal  use,  but  admitted  that  he
+transferred files to his USB  drive for his personal use. He asserted that he transferred
+only his personal files from a folder labeled with his last name from his unclassified work
+computer to his USB drive around spring of 2019. He also acknowledged that he later
+realized that a folder labeled with the name of one of the U.S. government programs on
+which  he  worked  was  also  copied.  He  did  not  indicate  the  specific  timeframe  that
+realization occurred. He claimed that he intended to use the personal files he copied to
+his USB drive  as a portfolio to assist him with a job  search, and that he had not been
+offered another job at the time that he transferred the files. (Item 5 at 4-5)
+After initial questioning during Interview 2, Applicant was asked if there were any
+records or individuals that would contradict the information he provided about his USB-
+related file transfer activity. He replied that he believed that there were not. He was then
+confronted with information that the files were transferred two days prior to him submitting
+his  resignation.  Applicant  denied  transferring  the  files  two  days  prior  to  submitting  his
+resignation and reiterated that he transferred them in the spring of 2019 before he had a
+job offer. But he admitted that he may have transferred his Company B offer letter from
+his work computer to his personal USB drive two days prior to submitting his resignation
+letter. (Item 5 at 5)
+In his SOR answer, Applicant denied falsifying any information that he provided
+during Interviews 1 and 2. He stated: “To the best of my knowledge, I did not lie or attempt
+to withhold that I had used a USB thumb drive” from the investigator during Interview 1.
+He also claimed that the use of USB devices to transfer files was practiced almost daily
+on his Company A team and that he was “a bit confused” when the investigator explained
+that his file transfer activity was against Company A policy. He reaffirmed the spring of
+2019 timeline he gave to the investigator during Interview 2. Additionally, he clarified that
+he gave the investigator “a broad timeline” of spring of 2019 because he did not recall the
+exact date. He affirmed that he is now certain that his initial file transfer activity occurred
+in  “early  spring  of  2019.”  He  also  reaffirmed:  “Again  the  files  downloaded  prior  to  me
+giving notice were personal . . . The files that were downloaded days prior to me giving
+my notice, was again to copy any [Company B] offer related documentation.” (Item 3)
+In  his  SOR  answer,  Applicant  maintained  that,  in  “early  spring  of  2019,”  he
+intended only to transfer a folder containing his personal files to the USB drive, including
+“blank  tools  (weekly  checklist,  to-do  list),  school/certification  study  material,  and
+documents pertaining solely to [him].” He acknowledged that in “mid to late June 2019,”
+he discovered that the personal folder he transferred to his USB drive also contained an
+additional folder named after one of the U.S. government programs on which he worked.
+He claimed that he did not intentionally transfer that additional folder as he knew that it
+contained information that did not pertain to him. The record did not indicate when or if
+he notified Company A of that discovery prior to confrontation. (Item 3)
+SOR ¶¶  4.a  through 4.k
+Applicant’s admissions and his credit reports confirm the 11 debts alleged in the
+SOR  totaling $48,087, including four utility accounts totaling  $533; six federal student-
+loan accounts totaling $31,894: and a $15,660 charged-off automobile loan. (Items 3, 12,
+13)
+Applicant paid  the  automobile-loan  account in  September 2018  (SOR ¶  4.k) and
+three   of  the   four  utility  accounts   alleged   in   SOR  ¶¶   4.a   through   4.d.  He   paid   the   debt
+alleged  in SOR ¶  4.d  ($26)  in November 2020. The  record does not indicate  when  he  paid
+the  debts alleged  in SOR ¶¶  4.b  ($108)  and  4.c ($332).  Applicant  did not establish  that
+the  debt  alleged  in  SOR ¶  4.a  ($67)  was either paid or disputed  as  claimed  in  his  SOR
+answer. In  fact,  one  of the  documents he  provided   corroborated  that  allegation.  (AE  K
+through  P; GE  5 at 8;  GE 13 at 2-3)
+In his August 2019 SCA, Applicant reported that he owed $7,000 to University A
+for unpaid tuition that was not covered by his GI Bill. He estimated that the delinquency
+began in July 2017. He planned to pay the balance once he determined which collection
+agency was holding the debt. During his December 2019 SI, he revealed that he received
+a phone call in October 2019 advising him that he owed the U.S. Department of Education
+(USDOE)  over  $40,000  (and  not  $7,000  to  University  A).  He  denied  receiving  any
+delinquency or collection notices prior to that phone call, and believed any such notices
+must have been sent to either a wrong or prior address. He asserted, without providing
+corroborating documents, that he initiated a plan  in October 2019 to pay $5 per month
+towards his USDOE debt and was current with those payments as of December 2019.
+(Item 4 at 37-38; Item 5 at 3-6)
+In February 2020, Applicant entered into an agreement to rehabilitate his federal
+student-loan accounts with a collection agent for the USDOE, including the six accounts
+alleged in the SOR (SOR ¶¶ 4.e through 4.j) and one account that was not alleged. At
+that time, the total amount due for all seven accounts was $45,170. He agreed to make
+at least nine monthly payments of $352 beginning February 2020, and expected to have
+his  accounts  fully  rehabilitated  by  November  2020.  In  his  May  2020  response  to
+interrogatories, he claimed that he was current with those payments and had reduced the
+balance  to  approximately  $37,000.  Applicant  did  not  provide  any  corroborating
+documents to show that any payments were made or that the accounts have been fully
+rehabilitated. The information reported about these accounts on his January 2021 credit
+report did not establish that they have been rehabilitated or otherwise resolved. (AE J;
+Item 3; Item 5 at 8)
+Applicant attributed his indebtedness to the fact that his GI Bill had “run out” as he
+was finishing his degree with University A and did not cover the entirety of his expenses
+as he anticipated. Without indicating to what year(s) he was referring, he asserted that he
+was  “unable  to  pay  any  amount”  towards  his  debts  due  to  underemployment  with  an
+annual salary of $45,000, which he used to pay for his living expenses. He claimed that
+he has “made a point to get [himself] out of debt and work on [his] credit” since becoming
+employed by Company B, with an annual salary that increased by “more than  double.”
+He reported that he successfully increased his credit score from “very poor to good.” The
+record did not otherwise specify his relevant income history and expenses, or other details
+about his overall financial stability. It also did not indicate whether he  had any financial
+counseling  or  the  extent  to  which  the  COVID-19  pandemic  may  have  impacted  his
+finances. (Item 3; Item 5 at 8)
+Whole Person  Concept
+Applicant’s  work  performance  and  character  are  highly  regarded  by  nine
+individuals who wrote reference letters on his behalf. None of those individuals signified
+that  they  were  aware  of  the  facts  alleged  in  the  SOR  or  Applicant’s  USB-related  file
+transfer  activity.  (AE  A  –  I).  Applicant  asserted  that  three  of  the  individuals  who  were
+Company A coworkers (AE A, C, F) were aware of that activity. (Item 5 at 5) However,
+the extent of that awareness was not indicated in the record. Two of those three Company
+A coworkers now work with Applicant at Company B (AE A, C).
+During his Air Force service, Applicant served as an Assistant Non-Commissioned
+Officer in Charge (NCO) of Security Forces Training and alternate security manager (SM).
+His  duties  as  SM  included  creating  security  policies  and  regulations.  He  also  was
+entrusted with the responsibility of protecting the security clearance information of over
+7,000  airman.  His  supervisor  stated  that  Applicant  was  “always  very  respectful  of
+classified information and was a stickler of rules and regulations.” (AE D)

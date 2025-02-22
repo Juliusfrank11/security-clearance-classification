@@ -1,0 +1,179 @@
+Applicant’s  personal  information  is  extracted  from  his  SCA  unless  otherwise
+indicated by a parenthetical citation to the record. After a thorough and careful review of
+the pleadings, Applicant’s testimony, and the documentary evidence in the record, I make
+the following findings of fact.
+Applicant is 36 years old and has worked for a major defense contractor as a cyber
+security  engineer  since  September  2018.  After  graduating  from  high  school,  Applicant
+studied  for  one  year  (July  2003-June  2004)  at  the  U.S.  Military  Academy  Preparatory
+School, which is also known as West Point Prep. This education constituted active-duty
+service in the Army. He did not continue his education at West Point and was honorably
+discharged from the Army.  He earned a bachelor’s degree  in August 2007  and  began
+working  for  a  major  defense  contractor  (E1)  in  November  2007  as  an  information
+assurance  engineer.  He  also  continued  his studies  and  earned  two  master’s  degrees,
+one in December 2013 and a second in April 2015, and a Ph.D. in March 2021. He was
+first  granted  a  security  clearance  in  about  November  2007  and  has  continuously
+maintained  his  eligibility.  He  has  lived  with  his  girlfriend  since  2017.  They  have  no
+children. (Tr. at 20-21; GE 2 at 14; AE C.)
+Applicant’s last day of work at E1 was August 30, 2018.  He had previously given
+notice of his intent to resign his position at that company and had accepted a position with
+his current employer (E2). In the afternoon of his last day of work, he downloaded over
+15,000 files onto his personal USB external hard drive (USB Device), and when he left
+the  employer’s  premises,  he  took  the  USB  Device  with  him.  On  September  4,  2018,
+investigators  at  E1  were  alerted  to  this  unusual  downloading  activity  by  a  departing
+employee and investigated the circumstances. (GE 3 at 1.)
+The  investigators  found  that  the  file  path  for  the  downloaded  files  was  titled
+“Personaldocs\[E1].” They issued  a  memorandum  to  Applicant  (the  E1  Memorandum),
+dated September 6, 2018, even though he no longer worked there. Applicant signed the
+E1 Memorandum the next day, acknowledging receipt, and returned it to the investigators.
+In  the  E1  Memorandum,  the  investigators  advised  Applicant  that  he  had  violated  two
+company  policies  set  forth  in  the  E1  Corporate  Information  Protection  Manual  by
+connecting  his USB  Device to  E1’s information  network and  by  downloading files from
+E1’s network onto his personal USB Device  without authorization. The two policies are
+described in the E1 Memorandum  as follows:
+1.   Section  106.6.7(1)  - titled Storage of Information on Personally Owned
+Information Technology Assets; and
+2.   Section  106.6.7(3)  -  titled Connectivity of Personally Owned Information
+Technology Assets to [E1] Infrastructure.
+The investigators instructed Applicant to return his USB Device to E1, which he did. They
+advised him and sought his acknowledgment that E1 may delete E1 information from the
+device and in the process may also delete Applicant’s information. In a separate internal
+E1 memorandum, dated December 10, 2018, which was not shared with Applicant at that
+time, the writer noted that the files recovered from his USB Device  numbered 15,179 with
+a total amount of 8.7 gigabytes of data transferred from E1’s network to the USB Device.
+The investigators compared that number of files with a full-year count of the number of
+files Applicant would transfer in the performance of his work duties, which was 22,599.
+This comparison highlighted the unusual nature of Applicant’s actions on the day he left
+E1. (Tr. at 39, 66-68; GE 3 at 1-2.)
+The  December  10,  2018  internal  memorandum  references  the  allegation  under
+investigation as follows:
+Allegation:   Data  Exfiltration  with  CI/CT  nexus  (SUBSTANTIATED)
+(emphasis in original)
+The   term   CI/CT   stands  for  Counterintelligence/Counter  Terrorism.  The   USB
+Device was wiped  in its entirety  on  September 17, 2018.  The  memorandum  also
+states:   “On  October 9,   2018,   Adverse  information   was  filed   against   [Applicant].”
+(GE 3 at 1.)
+In  his  August  2019  clearance  reinvestigation  background  interview,  Applicant
+initially  denied  any  personal  history  of  misuse  of  any  information  technology  system,
+including any non-compliance with rules, procedures, guidelines, or regulations. He was
+then confronted by the background investigator with information from his E1 employment
+records regarding his actions on August 30, 2018. Applicant was advised that as a result
+of his actions on that date he was not eligible for rehire at E1. He testified at the hearing
+that  he  learned  for  the  first  time  during  his background  interview  that  E1  regarded  his
+actions as improper. Applicant admitted to the investigator that on his last day at E1, he
+accidentally downloaded E1 proprietary information (E1PI) onto his USB Device when he
+was hurriedly downloading his personal files onto his device that he wanted to take with
+him. He explained that this happened because he had used his company’s laptop for both
+work and personal purposes over his 11 years of working at E1. He said he downloaded
+onto  the  E1  network  research  articles  that  he  read  for  his  own  education  as  well  as
+information  related  to  his  doctoral  studies  when  he  was  pursuing  his  Ph.D.  as  well  as
+information related to his master’s degrees prior to that. This information was downloaded
+onto the same drive on the E1 network that he used for work-related activities. He claimed
+that in his haste, he inadvertently downloaded E1PI along with his personal files. (Tr. at
+39-40; GE 2 at 6-7.)
+SOR Allegations
+Paragraph  1,  Guideline  K  - The  SOR  sets  forth  a  single  allegation  under  this
+guideline in which the Government alleges that Applicant deliberately downloaded E1PI
+onto  his  USB  Device  in  August  2018  while  employed  by  E1.  In  his  Answer,  Applicant
+wrote that his actions were not deliberate. He wrote that he only intended to download his
+educational materials related to his master’s degree studies as well as over two years of
+his  studies  in  his  Ph.D.  program.  He  explained  that  his  E1  work  laptop  was  limited  to
+unclassified information. In mitigation, he commented that he immediately complied with
+the request of E1’s security manager to deliver the USB Device to the manager. He also
+argued  that  his  actions  were  infrequent  and  the  result  of  inadequate  training  while  he
+worked at E1.
+Paragraph  2,  Guideline  M  - This  paragraph  of  the  SOR  cross-alleges  under
+Guideline M the same facts alleged under Guideline K. In his Answer, Applicant admitted
+the disqualifying facts, using the words “I accept” rather than “I admit.” In mitigation, he
+noted  that  this  incident  occurred  nearly  three  years  earlier  and  no  similar  action  has
+occurred.  He  also  commented  that  no  classified  information  was  copied  onto  his  USB
+Device. He repeated that his actions were not intentional. He claimed that E1 permitted
+data to be transferred between computer systems using external hard drives, though he
+acknowledged that transferring E1PI to a personal mobile device was not authorized.
+Paragraph 3, Guideline E – This paragraph also cross-alleges under Guideline E
+the  facts  set  forth  under  Guideline  K.  In  his  Answer,  Applicant  denied  the  allegation.
+However, his denial was based upon his mistaken belief that the Guideline E allegation
+concerns a falsification in his SCA for his failure to disclose the August 30, 2018 security
+incident. In fact, the SCA predated August 30, 2018, by three weeks. Instead, the cross-
+allegation  concerns  the  incident  itself,  as  an  independent  personal  conduct  security
+concern.
+At the hearing, Applicant testified at length about the circumstances surrounding
+the August 30, 2018 incident. He explained that E1 had two computer networks and that
+on occasion information had to be transferred from one network to the other. Certain files
+were so large that they could only be transferred by a USB  external hard drive device.
+The administrative process to do this required the completion of a form by the employee
+transferring the files. The form must be approved to authorize the employee to perform
+transfers between networks. While performing his duties at E1, Applicant had submitted
+this form and had permission to transfer files on a USB drive between the two networks.
+Without  such   an   approval,  the   system   would  not  deny   him   access   to   the   company’s
+network  when  he  plugged  in a  USB  hard drive. Applicant claimed  that  it was not necessary
+to  use  a  company-issued  USB  device to  transfer files.  This testimony  is inconsistent with
+the  E1  Memorandum,  which stated  that  Applicant had  violated  company  policy  prohibiting
+the  connection  of a  personally  owned  device to  E1’s  technology  infrastructure.  (Tr.  at 22-
+26; GE 3 at 2.)
+Applicant further testified that he was required to use an external USB device only
+for work-related information. He admitted that one mistake he made on August 30, 2018,
+was  that  he  used  an  external  USB  device  to  transfer  his  personal  files.  That  required
+getting permission from “IT.” He claimed he was unaware of that requirement at the time
+he left the company. The form he had previously prepared to obtain permission to use an
+external  USB  device  required  confirmation  that  the  permission  sought  was  to  perform
+routine work-related activities. (Tr. at 26-28.)
+A  complication  that  increased  the  risk  of  Applicant’s  actions  is  that  he  did  not
+separate his personal files from his work files on his section of the E2 shared drive used
+to  store  information.  Under  any  single  “parent  folder,”  he  would  have  subfolders
+containing both personal and work files. He referred in his testimony to “a nested tree” of
+parent  folders  and  sub-folders  with  further  sub-folders  and  even  more  sub-folders.  He
+used a chronological approach to his filing system so that all of his activities  in a given
+period, both work-related and personal, would be in that one main file, separated into sub-
+folders. As a result, when he copied over to his USB Device a parent folder that he thought
+had  his  academic  literature  as  well  as  personal  information,  such  as  tax  and  pay
+information,  the  parent  folder  would  also  include  sub-folders  with  E1PI.  The  Windows
+copying technology he used was simple “drag and drop,” so he dragged and copied file
+folders that contained both work-related files and personal files. In that process, nothing
+was removed from the E1 system, it was just copied. He did not review each folder to see
+if it had only personal files. He was going through the process of  copying hundreds of
+folders hastily over an hour or two at the end of his last workday at E1 before Labor Day
+weekend. He agreed he made a mistake in how he handled the copying. Nevertheless,
+he  testified  that  it  was  only  his  intent  to  copy  his  academic  and  personal  files.  He
+purchased  the  USB  Device  about  a  week  earlier.  It  was  solely  for  the  purpose  of
+transferring his files in connection with his change of employment. (Tr. at 28-31, 47-55,
+71-74.)
+Applicant also transferred files from his emails that included both personal emails
+and work emails. He testified that E1 allowed personal use of its email system. Some of
+the email files he copied may have been work-related. He believes that a large number
+of the other files he transferred onto his USB Device were publicly available documents
+that he was required to download periodically for work purposes. Those files  are large
+and numerous. (Tr. 31-34.)
+Applicant contends that with the permission he had to use portable USB devices
+to transfer files for work-related purposes, he did not violate any company policies by his
+actions on August 30, 2018. He does not believe he violated any policy by plugging his
+USB Device into the E1’s network on that date. (Tr. at 76-77; GE 3 at 2.)
+With  hindsight,  Applicant  now  realizes  that  he  should  have  talked  to  E1’s  IT
+Department and explained what he wanted to do with his personal computer files, even
+though he already had “USB access” approval. The day he left the company, he had an
+exit interview in which he turned over all of his IT equipment. He had the opportunity then
+to talk about his use of the personal USB Device, but the subject never came up since
+his  actions  were  only  discovered  in  the  following  days.  His  job  at  E1  was  related  to
+information security in connection with a specific DoD project. His new job at E2 was also
+dealing with information security, but at the organization level. Nevertheless, he insisted
+at the hearing that the information he claims he copied inadvertently would not be helpful
+to him in his new position with E2. (Tr. at 61-65, 76-77.).
+Other Mitigating  Evidence
+When Applicant was interviewed as part of his background investigation, he claims
+he  learned for the first time the seriousness of his actions when he left E1. He decided
+to  take  actions  to  avoid  future  problems  like  this  one,  and  he  enrolled  in  a  cyber
+awareness course provided by DoD in 2019 and again in 2021. He also teaches a course
+in  cyber  security  at  a  local  university.  In  connection  with  that  experience,  he  further
+educated himself on such matters. (Tr. at 39-45; AE D at 1-2.)
+Applicant  testified  that  prior  to  the  August  2018  incident,  he  had  never  been
+counseled or written up for being careless with information technology, nor has he had
+any security issues since the incident. He testified that since he was instructed by E1’s
+investigators in September 2018 to return the USB Device, he has been transparent with
+everyone about the incident. (Tr. at 45-46.)
+Applicant’s exit from E1 in 2018 was the first time he had ever gone through this
+transition process. He had three weeks from the date of his new job offer from E2 to his
+last day at E1. He had much to do, including a geographic relocation. He deferred the
+copying process to his last day of work and performed it quickly in a limited amount of
+time. He did not take the time to see what sub-folders were included in each folder he
+copied  and  whether  the  folders  he  was  copying  contained  any  E1PI.  He  testified  that
+throughout his 11 years at E1,  he was aware of E1’s rule that you cannot take E1PI when
+you terminate your employment with the company. (Tr. at 55-56.)

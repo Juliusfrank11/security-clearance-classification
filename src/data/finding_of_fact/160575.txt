@@ -1,0 +1,144 @@
+Applicant  is  a  26-year-old  employee  who  is  seeking  to  obtain  a  security
+clearance.  He  is  employed  as  a  solution  analyst  for  a  company  doing  business  in  the
+defense industry. He has had this job since July 2018. His formal education includes an
+associate degree awarded in May 2015 and a bachelor’s degree awarded in May 2018.
+He  has  never  married  and  has  no  children.  This  case  is  the  first  time  the  U.S.
+Government  has  investigated  Applicant’s  background,  and  he  has  not  been  granted
+national security eligibility in the past. (Exhibit 4 at Section 25)
+Applicant  disclosed  a  history  of  involvement  with  marijuana  in  his  March  2019
+security  clearance  application.  (Exhibit  4  at  Section  23)  He  reported  using  marijuana
+occasionally, for recreation and well-being, beginning in December 2010 to March 2019.
+He  further  stated  that  he  intended  to  use  marijuana  in  the  future,  explaining  that
+marijuana  had  been  decriminalized  where  he  lives  and  he  preferred  not  to  drink
+alcohol.1
+In addition to his marijuana usage, Applicant disclosed a police record involving
+marijuana. (Exhibit 4 at Section 22) He was arrested for felony possession of cannabis
+in  2013.  He  was  not  tried  or  convicted  because  the  charge  against  him  was  nolle
+prossed after he completed a diversion program.
+Applicant provided some additional detail about his marijuana involvement during
+his background investigation. (Exhibit 5) Of note, in a May 2019 interview, he admitted
+currently using marijuana for his well-being. He also stated that he intended to switch to
+medical marijuana, again for his well-being.
+1  Although there is local decriminalization in Applicant’s state of residence, under state law possession of
+20  grams  or  less  is  a  misdemeanor  while  possession  of  more  than  20  grams  is  a  felony.  See
+www.norml.org (summary of Florida drug laws and penalties).
+Law and Policies
+This  case  is  adjudicated  under  Executive  Order  (E.O.)  10865,  Safeguarding
+Classified Information within Industry (February 20, 1960), as amended; Department of
+Defense  Directive  5220.6,  Defense  Industrial  Personnel  Security  Clearance  Review
+Program  (January  2,  1992),  as  amended  (Directive);  and  the  National  Security
+Adjudicative Guidelines for Determining Eligibility for Access to Classified Information or
+Eligibility to Hold a Sensitive Position (AG), effective June 8, 2017.
+It  is  well-established  law  that  no  one  has  a  right  to  a  security  clearance.2  As
+noted by the Supreme Court in Department of the Navy v. Egan, “the clearly consistent
+standard indicates that security clearance determinations should err, if they must, on the
+side  of  denials.”3  Under  Egan,  Executive  Order  10865,  and  the  Directive,  any  doubt
+about  whether  an  applicant  should  be  allowed  access  to  classified  information  will  be
+resolved in favor of protecting national security. In Egan, the Supreme Court stated that
+the burden of proof is less than a preponderance of evidence.4  The Appeal Board has
+followed  the  Court’s  reasoning,  and  a  judge’s  findings  of  fact  are  reviewed  under  the
+substantial-evidence standard.5
+There is no presumption in favor of granting, renewing, or continuing eligibility for
+access  to  classified  information.6  The  Government  has  the  burden  of  presenting
+evidence  to  establish  facts  alleged  in  the  SOR  that  have  been  controverted.7  An
+Applicant  is  responsible  for  presenting  evidence  to  refute,  explain,  extenuate,  or
+mitigate  facts  that  have  been  admitted  or  proven.8  In  addition,  an  applicant  has  the
+ultimate burden of persuasion to obtain a favorable clearance decision.9
+Discussion
+Under Guideline H for drug involvement  and substance misuse, the  concern as
+set forth in AG ¶ 24 is that:
+2   Department  of  the  Navy   v.  Egan,  484   U.S.  518,  528   (1988)   (“it  should  be   obvious   that  no   one   has   a
+‘right’  to a security  clearance”); Duane v. Department  of Defense, 275 F.3d  988,  994 (10th  Cir. 2002)  (no
+right  to a security clearance).
+3 484 U.S. at 531.
+4 484 U.S. at 531.
+5 ISCR Case No. 01-20700 (App. Bd. Dec. 19, 2002) (citations omitted).
+6 ISCR Case No. 02-18663 (App. Bd. Mar. 23, 2004).
+7 Directive, Enclosure 3, ¶ E3.1.14.
+8 Directive, Enclosure 3, ¶ E3.1.15.
+9 Directive, Enclosure 3, ¶ E3.1.15.
+[t]he   illegal  use   of  controlled   substances,  to   include   the   misuse   of
+prescriptions and  non-prescription  drugs, and  the  use  of  other substances
+that   cause   physical  or  mental  impairment   or  are   used  in  a   manner
+inconsistent  with   their   intended   purpose,  can   raise   questions  about  an
+individual’s  reliability   and   trustworthiness,  both   because   such   behavior
+may   lead   to   physical  or  psychological   impairment  and   because   it  raises
+questions about a person’s ability or willingness to comply  with laws, rules,
+and regulations. . .  .
+In  addition  to  the  above  matters, I  note  that the  Director of  National  Intelligence
+(DNI) issued  an  October 25, 2014  memorandum  concerning  adherence  to  federal laws
+prohibiting  marijuana  use. In  doing  so, the  DNI emphasized  three  things. First, no  state
+can  authorize  violations of  federal law, including  violations of  the  Controlled  Substances
+Act,   which  identifies  marijuana   as  a   Schedule  I  controlled   drug.  Second,  changes  to
+state   laws  (and   the   laws  of  the   District  of  Columbia)  concerning   marijuana   use   do   not
+alter  the   national  security   adjudicative   guidelines.   And   third,   a   person’s  disregard  of
+federal  law   concerning   the   use,  sale,  or  manufacture   of   marijuana   remains  relevant
+when making eligibility  decisions for sensitive national security positions.
+In  analyzing  the  facts  of  this  case,  I  considered  the  following  disqualifying  and
+mitigating conditions:
+AG ¶  25(a) any substance abuse;
+AG  ¶   25(c)  illegal  possession  of  a  controlled  substance,  including
+cultivation,  processing,  manufacture,  purchase,  sale,  or  distribution;  or
+possession of drug paraphernalia;
+AG ¶  25(g) expressed intent to continue drug involvement and substance
+misuse,  or failure  to  clearly  and  convincingly  commit  to  discontinue  such
+misuse;
+AG  ¶   26(a)  the  behavior  happened  so  long  ago,  was  so  infrequent,  or
+happened under such circumstances that it is unlikely to recur or does not
+cast  doubt  on  the  individual’s  current  reliability,  trustworthiness,  or  good
+judgment; and
+AG  ¶   26(b) the  individual acknowledges  his or her drug involvement  and
+substance  misuse,  provides  evidence  of  actions  taken  to  overcome  this
+problem,  and  has  established  a  pattern  of  abstinence,  including  but  not
+limited to: (1) disassociation from drug-using associates and contacts; (2)
+changing  or  avoiding  the  environment  where  drugs  were  used;  and  (3)
+providing a signed statement of intent to abstain from all drug involvement
+and  substance  misuse,  acknowledging  that  any  future  involvement  or
+misuse is grounds of revocation of national security eligibility.
+The   three   SOR  allegations  are  established.  The   record  evidence   shows   the
+following: (1) Applicant  began  using  marijuana  in 2010  (at about age  15), and  was still
+using  marijuana  as  of his May  2019  background  investigation; (2) he  intends  to  continue
+using   marijuana   in  the   future;   and   (3)  he   was  arrested   and   charged   with   felony
+possession  of  cannabis in 2013  but not tried  or convicted. The  disqualifying  conditions
+noted above apply.
+I  have   considered   the   totality   of   Applicant’s  involvement  with   marijuana   as
+outlined   in   the   findings  of  fact.  It  includes   using   marijuana   for  about   a   decade   and   as
+recently   as  about  May   2019.  The   latter  fact  means   he   smoked   marijuana   during   his
+employment  with  a  federal contractor  engaged  in the  defense  industry. Any  illegal drug
+use   is  relevant   in  the   context  of   evaluating   a   person’s  security   worthiness,  but  it  is
+particularly   egregious  if   it  occurs   during   the   course  of   employment  with   a   federal
+contractor.  Furthermore,  I  presume   his  marijuana   use  in   2019   was  in  violation   of   his
+employer’s drug-free workplace  policy.10
+Applicant’s case  in mitigation  is not persuasive. The  one  item  that stands out in
+his favor is his candor and  willingness to  disclose  his marijuana  involvement in his 2019
+security   clearance   application   and   during   his  2019   background   investigation.   But   the
+credit in mitigation  is limited  due  to  his marijuana  use  after completing  his 2019  security
+clearance application.
+I  also  considered  the  two  mitigating  conditions  noted  above.  Neither  applies  in
+Applicant’s favor. His marijuana use occurred on a regular basis over a period of years
+and  is  recent  enough  to  be  of  concern.  It  also  occurred  while  his  security  clearance
+application  was  pending.  The  latter  circumstance  cannot  be  overlooked,  ignored,  or
+explained away. Moreover, there is a reasonable likelihood that he has continued using
+marijuana to the present day, given his expressed intent to continue doing so.
+Following  Egan  and  the  clearly  consistent standard, I have  doubts and concerns
+about  Applicant’s  reliability,  trustworthiness,  good   judgment,  and   ability   to   protect
+classified   or  sensitive   information.   In   reaching   this   conclusion,  I  weighed   the   evidence
+as  a   whole  and   considered   if   the   favorable  evidence   outweighed   the   unfavorable
+evidence  or vice versa. I also considered  the whole-person  concept.  In  particular, I gave
+weight to  Applicant’s  relative  youth  and  inexperience  in  the  ways of the  world, but  those
+matters  are  outweighed   by   his  marijuana   use   while   his  security   clearance   application
+was pending.  I conclude  that he  has  not met  his ultimate  burden  of persuasion  to  show
+that  it  is clearly  consistent  with  the  national  interest  to  grant  him  eligibility  for  access  to
+classified information.
+10  ISCR Case No. 16-00578 (App. Bd. Sep. 26, 2017) at 2 (noting the Drug-Free Workplace Act requires
+federal contractors with a contract over $100,000 to establish certain drug-free workplace policies).
+The formal findings on the SOR allegations are:
+Paragraph  1, Guideline  H:
+Against Applicant
+Subparagraphs  1.a  –  1.c:
+Against Applicant
+Conclusion
+It is not clearly consistent with the national interest to grant Applicant eligibility for
+access to classified information. National security eligibility is denied.
+Michael H. Leonard
+Administrative Judge

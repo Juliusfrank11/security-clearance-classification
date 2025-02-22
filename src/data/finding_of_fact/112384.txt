@@ -1,0 +1,85 @@
+The  SOR  alleges  that  Applicant  was  terminated  from  his  employment  with  a
+federal contractor for gross negligence in September 2016, after his employer’s internal
+investigation  determined  that  he  intentionally  and  knowingly  manipulated  program
+performance test data. Applicant admitted that he was terminated from his employment
+for  gross  negligence,  but  denied  any  misconduct  or  that  he  intentionally  or  knowingly
+manipulated the data.
+After a  thorough  review  of the  record  evidence,  I make  the following findings of
+fact:
+Applicant  is  a  62-year-old  design  engineer  working  for  a  federal  contractor.  He
+became a naturalized U.S. citizen in 1983. He earned a master’s degree in 1985, and
+received a doctorate degree (Ph.D.) in 2017, both from U.S. universities. He married in
+1982, and has two adult children.
+Between 2000 and 2010, Applicant worked for federal contractor “1.” He worked
+for federal contractor “2” from 2010 until he was terminated in September 2016 for gross
+negligence  and  intentionally  and  knowingly  manipulating  program  performance  test
+data.  An  adverse  incident  report  was  submitted  by  contractor  “2”  to  the  Defense
+Industrial  Security  Clearance  Office  shortly  after  Applicant’s  termination  in  September
+2016. He has held a clearance since about 2007.
+Applicant was unemployed between September 2016 and January 2017. He was
+hired  and  has  been  working  for  his  current  employer  and  security  sponsor,  federal
+contractor “3,” since January 2017.
+In his response to Section 13A (Employment Activities) of his March 2017 SCA,
+Applicant  disclosed  that  he  was  terminated by  contractor  “2”  after  some  data anomaly
+was discovered accidentally in September 2016 and he was blamed for it. He stated he
+did not remember exactly  what happened three years ago, but that he was terminated
+for gross negligence.
+Applicant  admitted  to  committing  gross  negligence  in  an  email  to  a  supervisor
+and others, dated May 5, 2016. (Applicant’s Memo 1-1) In that same email, he explains
+how data could have been deleted and the wrong data overwritten. He stated:
+I  usually  create  working  directory,  and  copy  the  results  to  the  main
+directory, but in this case, it looks like the working directory I processed . .
+.  . has  been  deleted  . .  . .  so  it  is possible that this working  directory  got
+deleted inadvertently . . . . before data had been captured . . . . I think it is
+a  strong  possibility  that  I  must  have  entered  the  wrong  numbers  to
+produce wrong results . . . . But, I tried to reproduce the results I got from
+the scratch since I could not find the control files . . . . I think it is a strong
+possibility that I must have entered the wrong numbers to produce wrong
+results . . . . I feel immense shame that this represents a gross negligence
+on record keeping on my part.
+Applicant also admitted to his program manager that he intentionally substituted
+data  from  another  test  into  his  test  data.  To  substitute  the  data,  Applicant  had  to
+manually overwrite the test data results. A folder with data was erased from contractor’s
+“2”  network.  The  overwriting  and  erasing  of  the  data  was  established  through  the
+computer  logs.  When  questioned  by  a  second  coworker  about  the  data  substitution,
+Applicant stated that he wanted to “come clean” and asked the coworker to pray for him.
+In  his  response  to  the  FORM,  Applicant  stated  that  he  had  no  recollection  of
+knowingly and intentionally manipulating the test data. He also did not remember using
+the words “come clean,” but stated that if he used them, it must have been in reference
+to different data or in a different context.
+Concerning  his  admission  of  gross  negligence  in  his  email  to  his  supervisor
+(Memo 1-1), Applicant believes that his statement was misunderstood by contractor “2”
+as  an  admission  of  wrongdoing  and  gross  negligence.  He  stated  that  the  gross
+negligence  he  expressed  was  a  reference  to  his  own  standard  of  not  keeping  the
+personal  record,  but  avers  that  the  personal  record  keeping  was  not  a  contractual
+requirement.
+Applicant also noted that there were at least three engineers with access to the
+same computer and data, and any of the three could have done what he was accused
+of doing. He believes that he was singled out by contractor “2” as a scapegoat for the
+contractor’s negligence in up keeping and maintaining its test equipment.
+The  Department  of  the  Air  Force  Office  of  Special  Investigations  submitted  a
+report  of  investigation  (ROI)  in  September  2017.  The  report  titled  Applicant  for  fraud
+offenses (false pretenses/swindle/confidence game).
+During  his  September  2017  background
+interview  with  a  government
+investigator, Applicant stated that he had not disclosed his termination to any member
+of his family or friends. He lied to his spouse about his termination and told her that he
+had retired early. When asked why, he stated that his native country’s culture does not
+allow for the head of a household to be disgraced in the eyes of his family. He reiterated
+that if this become an issue he would retire.
+Applicant did not disclose his termination to his current employer, contractor “3.”
+Applicant  told  the  investigator  that  this  was  a  big  trauma  in  his  life.  He  is  very
+embarrassed and has a difficult time talking about his termination. Applicant stated that
+the  incident  cannot  be  used  to  blackmail  him.  He  further  stated  that  if  his  current
+employer (contractor “3”) discovered the termination and fired him, he would retire.
+In  his  answer  to  DOHA  interrogatories,  Applicant  adopted  the  summary  of  his
+three  2017  interviews.  In  his  response,  he  indicated  that  when  he  was  terminated,  he
+hired  an  attorney  to  contest  his  termination  and  requested  an  administrative  officer
+review  to  be  performed  by  contactor  “2.”  He  did  not  follow  up  on  the  appeal  of  his
+termination because the legal fees were too expensive and he had moved out of state
+to take the job with contractor “3”.” He also stated that after his interviews in 2017, he
+had a chat with his wife about his termination and she was now aware of it.
+Applicant  noted  in  his  answer  to  the  FORM  that  he  had  not  disclosed  his
+termination for gross negligence to his current employer, contractor “3.” He explained it
+was  very  difficult  to  for  him  to  voluntarily  disclose  his  termination  after  contractor  “3”
+identified him as a valuable asset and had spent more than $50,000 for his relocation.

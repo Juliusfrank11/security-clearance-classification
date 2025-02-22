@@ -1,0 +1,130 @@
+Applicant  is a 52-year-old married man with two teenage children. He earned a
+Bachelor of Science degree in architecture in 1994, and an associate’s degree in project
+management in 2007. (AE A at 2) He has been working in the information technology field
+since 1984, and has been a program manager since 2003. He was first granted a security
+clearance in 2006. (AE A at 2)
+Applicant is an engineer who installs and upgrades fiber security systems. (AE C at
+1) His current supervisor, who has worked with him in various capacities for 34 years,
+characterizes him as an exceptional engineer who performs his duties above and beyond
+the scope of work required by their clients. (AE C at 1)
+Applicant worked for his previous employer from 2010 to 2013.  (GE 1 at 11) He
+supervised a team of five engineers and ten technicians as part of a project to upgrade the
+network systems. (Tr. 75; GE 2) The project was two pronged. It first involved going to
+several  rooms  to  inventory  the  network  systems  and  determine  which  needed  to  be
+physically  replaced,  then  replacing  the  systems  that  needed  to  be  upgraded.  (Tr.  89)
+Applicant’s team worked on the identification and inventory prong of the project. (Tr. 89,
+106) Each day, team members went to multiple classified rooms and security closets. Entry
+to  these  rooms  was  controlled  by  up  to  two  combination  locks,  depending  upon  the
+classification level. (Tr. 90)
+Each day, Applicant went to a swipe-access-controlled sensitive compartmented
+information facility (SCIF) to retrieve the combinations. The combinations that controlled
+access to SCIFs were in a separate room than the lock combinations for the rooms that
+housed lower-level classified information. (Tr. 105) Each of the combinations had three
+numbers.
+Because the numbers to the combinations were classified, Applicant could not write
+them  down.  Instead,  he  had  to  memorize  them.  After  retrieving  the  combinations  and
+memorizing them, he would pass them along to his team members, who would then go to
+the respective rooms to execute their assignments. (Tr. 134-135) Combinations could not
+be disclosed in unclassified facilities.
+Memorizing  all  of  these  numbers  in  the  proper  order  was  challenging.  At  most,
+Applicant had to memorize “30 different numbers in a specific order, couple[d] with nine to
+eighteen different combinations.” (Tr. 106 -107) If he forgot a combination, he had to return
+to the room where he had originally received it. This could slow the project by 30 minutes.
+(Tr. 115) In late 2012, an engineer who worked at Applicant’s company suggested that he
+store  the  combination  codes  in  his  personal  cell  phone.  (Tr.  117,  127)  He  provided
+Applicant with encryption software to protect the information which Applicant downloaded
+onto his phone. Applicant did not check with his FSO or supervisor  about whether the
+encryption software had been approved for use by either his employer or the agency. (Tr.
+142)
+Using the encryption software, Applicant began inputting the classified combinations
+into  his  personal  cell  phone.  (Tr.  127)  He  would  later  refer  to  the  cell  phone  for  the
+combinations to help remember them when he provided them to his subordinates. The
+disclosure of these classified combinations to his subordinates occurred in an unclassified,
+open office space. (GE 2 at 2) Applicant thought the room was classified because it was
+secured  by  a  special  lock.  (Tr.  129)  It  is  unclear  from  the  record  how  long  Applicant
+obtained and shared classified combinations in this fashion.
+In November 2012, the DOD’s inspector general’s office received an anonymous
+complaint about Applicant’s security practices regarding the classified combinations. (GE 2
+at  1;  AE  F)  The  anonymous  complaint  also  alleged  that  Applicant  wrote  classified
+combinations in a black book. Applicant denied this allegation about the black book and the
+investigation includes no finding regarding this allegation. (Tr. 123, 139)
+The  complaint  was  referred  to  the  facility  and  personnel security  division of the
+department where Applicant was performing his contract work. The complaint prompted an
+investigation that began in April 2013. (GE 6, Enclosure (Enc.) 6; AE F) Subsequently, the
+then-chief security manager interviewed Applicant. During the interview, he “clearly and
+freely admitted that he did house those combinations, and he did disclose them to his
+personnel . . . .” (Tr. 24)
+According to the former chief security manager, Applicant and the other contractors
+received  security  briefings  every  month.  (Tr. 25) Applicant contended that the security
+training he received was generic and did not address the subject of storing combinations
+on personal phones. (Tr. 114) Moreover, he contended storing information on his phone
+enabled him to get more combinations to his teammates more quickly, without having to
+return  multiple  times  to  the  rooms  where  he  was  required  to  go  to  retrieve  them.  By
+promoting efficiency, Applicant “thought it was for the betterment of the team.” (Tr. 115)
+After  completing  the  investigation  in  May  of  2013,  the  chief  security  manager
+concluded  that  Applicant’s  actions  caused  a  compromise  of  classified  combinations.
+Additionally,  he  concluded  that  “contract  security  officers  [were]  not  properly  briefing
+contractor personnel on their security responsibilities.” (GE 2 at 2; AE F) Ultimately he
+recommended that Applicant’s access to classified information be terminated.
+Because  of  Applicant’s  security  violation,  the  agency  had  to  change  all  of  the
+combinations. Changing the 400 to 500 combinations required 192 work-hours.  (Tr. 27)
+The chief security manager who conducted the investigation testified at the hearing.
+He stated that his investigation into Applicant’s improper handling of classified information
+also included reviewing the guidance involving memorizing multiple combinations. (Tr. 52)
+As part of the review process, the chief security manager and his team consulted with
+various work groups that needed access to classified spaces in an effort to ascertain “how
+[they] could actually assist these people and still keep from having compromises.” (Tr. 55)
+He  concluded  that  the  procedure  which  involved  contractors  memorizing  as  many
+combinations as possible was not  a good practice. (Tr. 53) Consequently, the security
+manager and  his staff  developed  a  new policy where “you would have to come to the
+security office, make your case for a number of combinations and we would be the ones to
+vet and provide those combinations to you in our classified facilities.” (Tr. 55)
+On May 22, 2013, Applicant’s employer placed him on unpaid administrative leave,
+pending its investigation. (GE 6, Enc. 3) This decision was reached because Applicant,
+absent a security clearance, was “not permitted to complete [his] duties as outlined in [his]
+employment  agreement  .  .  .”  (GE  6,  Enc.  3)  As  part  of  the  company’s  out-processing
+procedures, he was required to turn in all of his building access keys and badges, and to
+attend a security debriefing. (GE 6, Enc. 4) In addition, he was instructed that his health
+benefits were set to terminate within ten days of the unpaid administrative leave notice.
+(GE 6, Enc. 3) The memo setting forth these instructions does not characterize Applicant’s
+pending departure as a termination.
+On March 1, 2016, the FSO of Applicant’s former employer responded to a request
+for background information received from the U.S. Office of Personnel Management, as
+part of a new clearance investigation. (GE 6; AE F) In his response, the FSO noted that
+Applicant’s continued assertion that he did not receive the proper training to handle the
+classified information “confirms that he was not, and is not capable of handling classified
+information  because  common  sense  dictates  the  information  he  was  handling  was
+classified and his handling of it . . .  was improper.” (AE 6 at 1)
+According to an individual whom Applicant supervised on a job prior to the job where
+the  security  violation  occurred,  he  was  a  “serious-minded  professional”  who  made
+information security “his highest priority.” (AE C at 4) He corrected this former subordinate
+on one occasion, and taught him how “to keep multiple sources of information, floor plans
+and  cut-sheets,  securely  stored  separately,  and  not  together.”  (AE  C  at  4)  His  former
+supervisor at the job where the security violation occurred characterizes it as an anomaly
+that does not reflect Applicant’s ability to protect classified information. (AE C at 5) He
+frequently observed Applicant mentoring subordinates on physical security issues. (AE C at
+5)
+According  to  one  of  Applicant’s  former  coworkers  who  was  involved  with  his
+termination, Applicant was removed from his position, pending an investigation into the
+alleged  security  violation  and  because  there  were  no  other  positions  available  in  the
+company that were commensurate with his experience, credentials, or compensation. (AE
+D at 1)  He considers Applicant to be “honest, very detailed, and passionate about his
+work.” (AE D at 1)
+Applicant completed a security clearance application in February 2016. In response
+to the question whether he had ever been fired, quit after being told he would be fired, left
+by  mutual  agreement  following  charges  or  allegations  of  misconduct  or  unsatisfactory
+performance, he answered “yes,” explaining that he left the position by mutual agreement,
+as  discussed  above,  for  “alleged  violation  of  security  procedures  that  [he]  had  never
+received proper training.” (GE 1 at 12)
+Another question on the February 2016 security application asked whether Applicant
+had ever received a written warning, been officially reprimanded, suspended, or disciplined
+for misconduct in the workplace, such as a violation of security policy. He answered, “yes,”
+again referencing the position that he left in 2013, explaining that he was punished for an
+“alleged violation of security procedures that [he] was never trained on.” (GE 1 at 13)
+A government investigator interviewed Applicant in March 2017. He told the agent
+that he left his previous employer by mutual agreement following the security violation
+allegations, and that he was eligible for re-hire. (Tr.  152-153) He believed this to be the
+case because he never was told that he could not return.
+Applicant has continued to take security trainings over the years. In March 2019, he
+completed a counterintelligence training, and later that month, he completed an annual
+security awareness refresher course. (AE D3 at 1; AE D4 at 1)

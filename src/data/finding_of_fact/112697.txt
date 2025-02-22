@@ -1,0 +1,178 @@
+In his answer to the SOR, Applicant denied SOR 1.a concerning his termination
+from  his  employment  after  he  allegedly  stole  a  company  laptop.  Although  he  was
+terminated from his job  on  June  6,  2017,  he  did  not  steal the  laptop  at  issue.  He  was
+authorized  to  carry  in  and  take  laptops  (and  other  equipment)  out  of  the  special
+compartmented information facility (SCIF) and into the storage area. He was not aware
+of  a  change  in  corporate  policy  disallowing  his  access  to  the  storage  area.  He  denied
+SOR 1.b in part because he knew he was terminated for violating corporate policy, but
+did  not  know  the  specific  reasons  why.  Applicant’s  denial  of  SOR  1.c  is  based  on  his
+belief  he  provided  truthful  information  to  the  OPM  investigator  in  the  March  2018  PSI,
+although  he  was  still  unaware  of  the  specific  reasons  for  his  termination.  Applicant
+denied SOR 2.a because he did not commit a criminal offense when he used the laptop.
+He  never  attempted  to  steal  the  laptop.  He  denied  that  he  failed  to  comply  with  rules
+applying  to  information  technology  systems  as  alleged  under  SOR  3.a.  He  followed
+policy and protocols in regularly handling laptops in the SCIF. If he had known about the
+new restrictive policies, he would have complied with them. (September 2018 answer to
+SOR)
+Appellant  is  58  years  old.  He  has  been  married  to  his  second  wife  since  1986
+and  has  two  adult-aged  children.  Applicant  served  in  the  United  States  Navy  (USN)
+from  1978  until  his  honorable  discharge  in  1998.  In  2005  and  2006,  he  took  some
+courses online. Since December 2017, he has been working for a defense contractor as
+an  information  systems  security  manager.  Before  his  current  job,  he  worked  for  six
+months  with  another contractor,  but  left his position  due  to a  reduction  in  job  benefits.
+Between April 2013 and his termination in June 2017 (SOR 1.a), he was employed as a
+corporate  information  security  manager  by  a  defense  contractor.  From  2005  to  April
+2013,  Applicant  was  an  information  security  manager  for  another  contractor;  his
+supervisor  during  this  period  was  the  vice  president  of  government  security  who
+terminated  Applicant  in  June  2017.  Applicant  is  certified  as  an  information  system
+security  professional. He  has  held  a  security  clearance  since 1978.  (GE  1 at 8-40; Tr.
+14-17; AE E; AE F)
+SOR 1.a – Applicant was terminated by his employer on June 6, 2017 for alleged
+theft  of  a  company  laptop.  In  the  June  2017  termination  letter,  the  vice  president  of
+government  security  indicated  that  Applicant’s  conduct  resulted  in  a  series  of  security
+violations  as  outlined  in  the  company’s  “Master  System  Security  Plan.”  The  vice
+president  and  others  saw  Applicant  in  a  video  on  January  25,  2017  removing  an
+unclassified  laptop  from  the  storage  area.  The  vice  president  determined  that:  (1)
+Applicant  had  violated  company  policy  and  government  security  regulations;  and  (2)
+Applicant  performed  a  willful  action  inconsistent  with  his  job  duties  and  classification.
+The second allegation appears to be a restatement of the first allegation using different
+words, with the addition of the word “willful.” Applicant never saw the final investigation
+report (June 6, 2017); he saw the termination letter (June 6, 2017) for the first time two
+weeks  before  the  hearing.  He  did  not  dispute  the  termination  because  he  violated  the
+policy prohibiting his access to the storage areas. However, Applicant was unaware of
+the change in policy. (GE 3 at 1; GE 4 at 1; Tr. 23-24, 54-57)
+Applicant  did  not  steal  the  laptop.  In  preparation  for  a  security  inspection  on
+January 25, 2017, he was asked to ensure the secure communication equipment in the
+SCIF was  working  properly.  To  check  the  system,  he  reviewed  the  instructions for the
+secure telephone equipment  (STE) which indicated that the phone software should be
+tested  and  updated  as  required.  In  order  to  check  the  software,  the  phone  had  to  be
+connected to a laptop and the system checked as necessary. (GE 2 at 2-3; Tr. 24)
+Applicant determined that he needed a laptop from the storage area. Based on a
+specific addendum for a classified customer (which Applicant previously received at an
+identified date), he had authority to transfer unclassified equipment in and out of SCIF
+so  that  he  could  perform  project-related  tasks.  He  disabled  some  of  the  functions  and
+turned  off  the  hard  drive  controller  of  the  laptop.  This  may  have  been  why,  during  the
+subsequent  investigation,  management  thought  the  hard  drive  was  wiped  clean  after
+they experienced a difficult time booting the system and getting the encryption module
+of the laptop to engage. (Tr. 26-28, 32)
+On  January  25,  2017,  Applicant  opened  up  the  storage  area  (identified  as  the
+“storage  closet” and  “IT Storage  area”  in  the  government  exhibits) with  a  key  he been
+provided  by  the  previous  facility  security  officer  (FSO)  when  he  was  hired  in  2013.
+Applicant carried the laptop and cables from the storage area  to the SCIF and started
+the STE check where he determined that the STE setting was incorrect. After adjusting
+the  setting,  the  STE  phone  system  began  working  properly.  Applicant  provided  this
+explanation  of  how  he  used  the  laptop  to  solve  the  STE  phone  problem  to  corporate
+counsel  in  March  2017  and  to  the  vice  present  of  government  security  in  April  2017.
+(GE 2 at 2-3; GE 3 at 2; GE 4 at 1; Tr. 33, 34, 36, 65)
+After successfully completing the STE test (January 25, 2017), Applicant learned
+that  the  security  inspection  was  still  in  progress,  so  he  placed  the  laptop,  the  cables,
+and some other equipment in a box outside the SCIF, in a specific area which was not
+in  the  unsecured  area  where  other  equipment  was  checked  to  determine  its
+classification. Because the security inspection was still ongoing, Applicant did not have
+time  to  clear  the  laptop  and  return  it  to  the  storage  area  as  required  by  standard
+procedure. Unfortunately, he forgot about the laptop for about a month and a half. (GE 2
+at 3; Tr. 30)
+On March 9, 2017, corporate counsel and other members of management had a
+meeting with Applicant about the missing laptop. The counsel presented Applicant with
+a video dated January 25, 2017, showing him removing a laptop from the storage area.
+Applicant did not recall taking the laptop. Counsel asked Applicant to ruminate about the
+laptop’s  whereabouts,  then  call  the  counsel  and  return  it  to  the  director  of  special
+programs.  Management  also  interrogated  Applicant  on  how  he  got  the  keys  for  the
+storage area, but about a week later, dropped that part of the investigation when it was
+determined Applicant had authority to possess the keys. (GE 2 at 2-3; GE 3 at 2; Tr. 30-
+35, 59-61)
+On  approximately  March  11,  2017,  the  security  officer  at  another  facility  of
+Applicant’s company was having a problem with the STE system, and asked Applicant
+for  assistance.  When  the  security  officer  mentioned  the  STE  issue,  Applicant
+remembered  the  location  of  the  missing  laptop.  He  retrieved  the  laptop  from  the  box
+outside the SCIF, and made sure it had not been restarted or “booted up.” After shutting
+it  down,  he  called  corporate  counsel  and  turned  it  over  to  the  director  of  special
+programs as requested. Applicant learned at a meeting in April 2017 that, unbeknownst
+to  him,  there  had  been  a  change  in  corporate  policy  in  2016  that  only  government
+security  solutions  personnel  were  allowed  access  to  the  storage  area.  The  policy
+change meant he was no longer permitted access into the storage area. (GE 2 at 2-3;
+GE 3 at 2; Tr. 28, 30-35, 47, 59-61, 64)
+SOR  1.b  –  In  response  to  Section  13-A  Employment  Activities,  of  his  August
+2017 e-QIP, Applicant stated that his reason for leaving his employment in June 2017
+was  “terminated  employment.”  In  the  next  block  of  the  section,  Applicant  answered
+affirmatively that the employment action occurred in the last 7 years. In the next block
+requiring a summary of the reasons for leaving the employment, Applicant indicated he
+was  “fired.”  In  response  to  the  reason  for  being  fired,  Applicant  indicated  “failure  to
+follow corporate policy.” He indicated in his answer to the SOR that when he submitted
+the August 2017 e-QIP, the only reason he knew for his June 2017 termination was a
+violation  of  corporate  policy.  In  response  to  the  question  of  why  he  did  not  reveal  the
+incident in his e-QIP, Applicant stated that he did not view the event as security-related
+because  he  never  received  a  written  reprimand.  He  discovered  from  his  subsequent
+employer  (June  2017  to  December  2017)  that  there  was  an  entry  in  the  DOD’s  Joint
+Personnel  Adjudication  System  (JPAS)  for  a  security  incident  that  he  knew  nothing
+about,  but  was  the  reason  he  was  required  to  resubmit  an  e-QIP.  (GE  3;  September
+2018 answer to SOR; Tr. 43-45, 62-63)
+SOR  1.c  –  As  noted  earlier in  the factual findings,  when  Applicant  provided  the
+March 2018 PSI, he only knew that he was terminated June 2017 for violating company
+policy.  In  the  March  2018  PSI,  he  provided  details  about  why  he  used  the  laptop  and
+how  he  retrieved  it  after  remembering  where  he  put  the  device  outside  the  SCIF.
+Applicant provided details of the security policies authorizing his access to the SCIF and
+restoring  the  STE.  When  asked  about  employment  issues  at  his  former  employer,  he
+provided wide-ranging detail about the laptop investigation between January and June
+2017.  He  also  supplied  information  about  the  policy  change  disallowing  his  access  to
+the storage room. (GE 2 at 2-4; GE 3; September 2018 answer to SOR; Tr. 45-47)
+Applicant  explained  that  the  vice  president  of  government  security  wanted  to
+build a large SCIF that would allow different customers (agencies) to use the SCIF area
+at the same time, but at different  classification levels. Applicant told the vice president
+that  customers  would  not  approve  the  configuration.  As  Applicant  predicted,  when  the
+SCIF was completed, other customers declined to use it because they did not approve
+of the configuration. They also cited a potential lack of control over a specific area within
+the SCIF. (GE 2 at 2-4; GE 3; September 2018 answer to SOR; Tr. 38-40)
+Applicant  believes  that  primary  reason  he  was  terminated  was  that  the  vice
+president  of  government  security  made  him  a  “scapegoat”  after  the  company  spent  a
+large sum of money to build the SCIF, then could not get the secured area certified. (GE
+2 at 2-4; GE 3; September 2018 answer to SOR; Tr. 45-47)
+Applicant denied that he stole the laptop (SOR 2.a). In late January 2017, during
+an investigation by management to locate the missing laptop, an audit of the classified
+systems  was  conducted  and  no  unusual  activity  by  Applicant  was  found  on  the
+classified  systems.  Review  of  building  access  control  logs  did  not  reveal  any  unusual
+building  activity.  Neither  SCIF  policies  nor  customer  data  was  compromised.  When
+Applicant  recalled  where  he  had  left  the  laptop,  he  turned  it  over  to  the  director  of
+special programs. Thus, Applicant placed the laptop in the box, intending to return it to
+the storage area. He forgot about it, but he did not steal the laptop. (GE 3 at 1-3)
+Applicant maintains that he did not misuse technology systems as alleged under
+SOR 3.a. Rather, he followed all policies and rules and was authorized by the previous
+security  officer  to  transfer  the  laptop  from  the  storage  area  to  fix  the  SCIF  system
+because that was his job. (Tr. 46-47)
+Applicant’s only other security violation occurred in 2013 with the same employer
+who  terminated  him  in  June  2017.  In  the  2013  incident,  he  was  assigned  to  audit
+classified  laptops  that  were  stored  in  a  safe  within  a  restricted  area.  He  removed  the
+laptops  from  the  safe  and  began  auditing  them  individually  according  to  procedure.
+Then,  he  thought  he  had  placed  all  the  laptops  back  in  the  safe,  but  inadvertently  left
+one laptop unattended in a chair. Later the same day, another employee discovered the
+unattended  laptop  and  reported  it.  A  two-person  audit  team  determined  that  no
+classified  information  was  compromised  and  the  laptop  was  returned  to  the  safe.
+Applicant received a written reprimand and was required to review the security policies
+and procedures to prevent a recurrence. (GE 2 at 4)
+Character Evidence
+Applicant testified that before he was terminated in June 2017, his performance
+was  very  good.  He  received  bonuses  and  in  an  unidentified  year,  he  was  selected  as
+security person of the year.
+Attached  to  Applicant’s  September  2018  answer  is  a  character  endorsement
+from  the  security  services  team  lead  indicating  that  Applicant  began  working  on  a
+project  with  a federal agency  in  December 2017. Since  that date,  Applicant  has made
+significant contributions to the quality of security reviews. His contributions have helped
+reduce  the  time  necessary  to  complete  the  reviews.  With  his  intelligence  and
+experience,  the  team  lead  recommends  Applicant  for  a  security  clearance.  (AE  A,
+attachment)
+Applicant’s  friend  indicated  by  letter  dated  September  27,  2018,  that  he  has
+known  Applicant  on  a  social  basis  since  2012.  In  that  time,  he  has  learned  that
+Applicant  pays  a  high  degree  of  attention  to  detail  and  accuracy.  He  has  impressive
+computer  skills.  The  friend,  who  is  retired  from  a  federal  agency,  considers  Applicant
+honest and reliable. (AE D)
+Applicant called two witnesses to testify about his character. Both had previously
+provided letters of support, with one letter is dated in October 2018. Witness B testified
+that he is retired from a DOD agency. He has held a security clearance since the 1970s.
+He  worked  with  Applicant  for  a  contractor  from  1999  to  2005,  when  Applicant  left  to
+work  for  another  contractor.  They  have  become  friends  over  the  years.  Witness  B
+considered  Applicant  as  honest,  trustworthy,  and  a  good  family  man.  Applicant’s
+computer knowledge has been beneficial for Witness B’s children. (AE B; Tr. 74-79)
+Witness C currently works for a defense contractor. He has known Applicant for
+about 33 years since they were in the USN. Even after Applicant told Witness C about
+the events leading to his job termination in 2017, Witness C still recommends Applicant
+for a security clearance. (AE C; Tr. 69-73)

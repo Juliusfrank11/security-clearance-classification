@@ -3,9 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.pipeline import Pipeline
-from sklearn.metrics import ConfusionMatrixDisplay, confusion_matrix
 import pandas as pd
-import matplotlib.pyplot as plt
 from simplemma import lemmatize
 
 def preprocess_text(text: str):
@@ -26,9 +24,14 @@ def preprocess_text(text: str):
 
 
 def create_lr_model(guideline: str, test_size: float = 0.2):
-    data = pd.read_csv(
-        f"data\\formal_finding_results_guideline_{guideline.upper()}.csv"
-    )
+    try:
+      data = pd.read_csv(
+          f"data\\formal_finding_results_guideline_{guideline.upper()}.csv"
+      )
+    except FileNotFoundError:
+      data = pd.read_csv(
+          f"src\\data\\formal_finding_results_guideline_{guideline.upper()}.csv"
+      )
 
     train_data, test_data = train_test_split(data, test_size=test_size)
 
